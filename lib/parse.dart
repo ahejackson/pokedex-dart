@@ -18,7 +18,7 @@ void main() {
   var sets = paste.split("\r\n\r\n");
 
   for (String set in sets) {
-    parseSet(set);
+    print(parseSet(set));
   }
 }
 
@@ -31,7 +31,8 @@ dynamic parseSet(String set) {
   String nickname = "";
   String gender = "-";
   String item = "";
-  String shiny = "No";
+  String ability = "";
+  bool shiny = false;
   int level = 50;
   int happiness = 255;
   String nature = "Hardy";
@@ -123,9 +124,13 @@ dynamic parseSet(String set) {
 
       if (attribute.length == 2) {
         if (attribute[0] == "Ability") {
+          ability = sanitizer.convert(attribute[1].trim());
         } else if (attribute[0] == "Shiny") {
+          shiny = attribute[1].trim() == "Yes" ? true : false;
         } else if (attribute[0] == "Level") {
+          level = int.parse(attribute[1]);
         } else if (attribute[0] == "Happiness") {
+          happiness = int.parse(attribute[1]);
         } else if (attribute[0] == "IVs") {
         } else if (attribute[0] == "EVs") {
         } else {
@@ -137,10 +142,28 @@ dynamic parseSet(String set) {
       }
     }
   }
+
+  return PokemonSet(name: name, item: item, ability: ability, nature: nature);
 }
 
 class PokemonSet {
   String name;
+  String form;
+  String nickname = "";
+  String gender = "-";
+  String item = "";
+  String ability = "";
+  bool shiny = false;
+  int level = 50;
+  int happiness = 255;
+  String nature = "Hardy";
+  List<String> moves = new List();
+  List<String> other = new List();
 
-  PokemonSet({this.name});
+  PokemonSet({this.name, this.item, this.ability, this.nature});
+
+  @override
+  String toString() {
+    return "$name @ $item ($nature, $ability)";
+  }
 }
