@@ -1,0 +1,12 @@
+{
+  "name": "pokemon-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "showdown.js",
+  "scripts": {
+    "export": "node --experimental-modules showdown.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "type": "module"
+}

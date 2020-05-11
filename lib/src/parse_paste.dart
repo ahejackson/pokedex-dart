@@ -3,8 +3,8 @@ library pokedex;
 import 'dart:convert' show HtmlEscape;
 import 'dart:developer' as developer;
 
-import '../models/pokemon_set.dart';
-import '../models/pokemon_gender.dart';
+import 'package:pokedex/pokemon/pokemon.dart';
+import 'package:pokedex/pokemon/gender.dart';
 
 final RegExp reHead = RegExp(
     r"^(?:(.* \()([A-Z][a-z0-9:']+\.?(?:[- ][A-Za-z][a-z0-9:']*\.?)*)(\))|([A-Z][a-z0-9:']+\.?(?:[- ][A-Za-z][a-z0-9:']*\.?)*))(?:( \()([MF])(\)))?(?:( @ )([A-Z][a-z0-9:']*(?:[- ][A-Z][a-z0-9:']*)*))?( *)$");
@@ -15,7 +15,7 @@ final RegExp reStats = RegExp(
     r"^(\d+ HP)?( / )?(\d+ Atk)?( / )?(\d+ Def)?( / )?(\d+ SpA)?( / )?(\d+ SpD)?( / )?(\d+ Spe)?( *)$");
 
 /// Parse a string into a list of Pokemon sets
-List<PokemonSet> parsePaste(String paste) {
+List<Pokemon> parsePaste(String paste) {
   // Split the paste into sets (seperated by a double new line")
   var sets = paste.split("\r\n\r\n");
 
@@ -25,7 +25,7 @@ List<PokemonSet> parsePaste(String paste) {
 }
 
 /// Parse a string into a Pokemon set
-PokemonSet parseSet(String set) {
+Pokemon parseSet(String set) {
   if (set.length == 0) return null;
 
   var sanitizer = const HtmlEscape();
@@ -42,7 +42,7 @@ PokemonSet parseSet(String set) {
   // 1. If there are no matches then do something...
   if (m == null) {
     developer.log("Header: no matches");
-    return PokemonSet(notes: lines.map((line) => sanitizer.convert(line)));
+    return Pokemon(notes: lines.map((line) => sanitizer.convert(line)));
   }
 
   developer.log("Header: ${m.groupCount} matches");
@@ -70,14 +70,14 @@ PokemonSet parseSet(String set) {
     name = sanitizer.convert(m.group(4));
   }
 
-  var pkm = PokemonSet(name: name);
+  var pkmn = Pokemon(name: name);
 
   // 3. Check if this is a Pokemon with a specified gender
   if (m.group(6) != null) {
     if (m.group(6) == 'M') {
-      pkm.gender = PokemonGender.male;
+      pkmn.gender = Gender.male;
     } else if (m.group(6) == 'F') {
-      pkm.gender = PokemonGender.female;
+      pkmn.gender = Gender.female;
     }
   }
 
@@ -85,7 +85,7 @@ PokemonSet parseSet(String set) {
   if (m.group(9) != null) {
     // lockup and set the item
     String item = sanitizer.convert(m.group(9));
-    pkm.item = item;
+    pkmn.item = item;
   }
 
   // 5. Body Parsing - loop through the other lines
@@ -98,7 +98,7 @@ PokemonSet parseSet(String set) {
         // set the hidden power type
       }
 
-      pkm.moves.add(sanitizer.convert(m.group(3)));
+      pkmn.moves.add(sanitizer.convert(m.group(3)));
 
       // TD - check for slashed in moves
 
@@ -107,9 +107,9 @@ PokemonSet parseSet(String set) {
       m = reNature.firstMatch(lines[i]);
 
       if (m.group(1) != null) {
-        pkm.nature = m.group(1);
+        pkmn.nature = m.group(1);
       } else {
-        pkm.notes.add(sanitizer.convert(lines[i]));
+        pkmn.notes.add(sanitizer.convert(lines[i]));
       }
     } else {
       // 8. Check if the line matches another attribute
@@ -117,24 +117,24 @@ PokemonSet parseSet(String set) {
 
       if (attribute.length == 2) {
         if (attribute[0] == "Ability") {
-          pkm.ability = sanitizer.convert(attribute[1].trim());
+          pkmn.ability = sanitizer.convert(attribute[1].trim());
         } else if (attribute[0] == "Shiny") {
-          pkm.shiny = attribute[1].trim() == "Yes" ? true : false;
+          pkmn.shiny = attribute[1].trim() == "Yes" ? true : false;
         } else if (attribute[0] == "Level") {
-          pkm.level = int.parse(attribute[1]);
+          pkmn.level = int.parse(attribute[1]);
         } else if (attribute[0] == "Happiness") {
-          pkm.happiness = int.parse(attribute[1]);
+          pkmn.happiness = int.parse(attribute[1]);
         } else if (attribute[0] == "IVs") {
         } else if (attribute[0] == "EVs") {
         } else {
-          pkm.notes.add(sanitizer.convert(lines[i]));
+          pkmn.notes.add(sanitizer.convert(lines[i]));
         }
       } else {
         // Else it's not a recognized type of line
-        pkm.notes.add(sanitizer.convert(lines[i]));
+        pkmn.notes.add(sanitizer.convert(lines[i]));
       }
     }
   }
 
-  return pkm;
+  return pkmn;
 }

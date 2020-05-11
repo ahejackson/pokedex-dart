@@ -1,4 +1,4 @@
-enum PokemonGender {
+enum Gender {
   male,
   female,
   genderless,
