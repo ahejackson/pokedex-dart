@@ -1,5 +1,3 @@
-library pokedex;
-
 import 'dart:convert' show HtmlEscape;
 import 'dart:developer' as developer;
 
@@ -107,7 +105,7 @@ Pokemon parseSet(String set) {
       m = reNature.firstMatch(lines[i]);
 
       if (m.group(1) != null) {
-        pkmn.nature = m.group(1);
+//        pkmn.nature = m.group(1); // TODO
       } else {
         pkmn.notes.add(sanitizer.convert(lines[i]));
       }

@@ -4,7 +4,7 @@
   "description": "",
   "main": "showdown.js",
   "scripts": {
-    "export": "node --experimental-modules showdown.js"
+    "exportdata": "node --experimental-modules showdown.js"
   },
   "author": "",
   "license": "MIT",
