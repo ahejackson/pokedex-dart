@@ -1,8 +1,11 @@
+import 'package:enum_to_string/enum_to_string.dart';
+import 'package:pokedex/pokemon/type.dart';
+
 class Move {
   final String id;
   final int number;
   final String name;
-  final String type;
+  final PokemonType type;
   final int basePower;
   final String description;
 
@@ -24,9 +27,10 @@ class Move {
       id: json['id'],
       number: json['num'],
       name: json['name'],
-      type: json['type'],
+      type: EnumToString.fromString(PokemonType.values, json['type']) ??
+          PokemonType.Unknown,
       basePower: json['basePower'],
-      description: json['desc'],
+      description: json['shortDesc'] ?? 'No description',
     );
   }
 }
