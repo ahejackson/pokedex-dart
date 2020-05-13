@@ -15,7 +15,7 @@ import * as path from 'path'
 import * as fs from 'fs'
 
 const showdowndir = '../../../pokemon/Pokemon-Showdown/data/'
-const datadir = '../data/'
+const datadir = '../assets/data/'
 
 function main() {
   console.log('Writing pokedex...')
@@ -43,7 +43,8 @@ async function writePokedex(filename = 'pokedex.json') {
   // filter the dex
   for (let pkm in showdown.default.BattlePokedex) {
     if (showdown.default.BattlePokedex[pkm].num > 0) {
-      dex.push(showdown.default.BattlePokedex[pkm])
+//      showdown.default.BattlePokedex[pkm].id = pkm
+      dex.push({ id: pkm, ...showdown.default.BattlePokedex[pkm] });
     }
   }
   writeJSON(filename, dex)

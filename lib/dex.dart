@@ -24,7 +24,7 @@ class Dex {
 
   Future<Null> init() async {
     print('Loading Dex');
-    Future.wait([
+    await Future.wait([
       initAbilities(),
       initItems(),
       initMoves(),
@@ -59,7 +59,7 @@ class Dex {
     return _abilities[id];
   }
 
-  List<Ability> getAbilities() {
+  List<Ability> get allAbilities {
     return UnmodifiableListView(_abilities.values);
   }
 
@@ -67,7 +67,7 @@ class Dex {
     return _items[id];
   }
 
-  List<Item> getItems() {
+  List<Item> get allItems {
     return UnmodifiableListView(_items.values);
   }
 
@@ -75,7 +75,7 @@ class Dex {
     return _moves[id];
   }
 
-  List<Move> getMoves() {
+  List<Move> get allMoves {
     return UnmodifiableListView(_moves.values);
   }
 
@@ -83,7 +83,7 @@ class Dex {
     return _pokedex[id];
   }
 
-  List<Species> getPokedex() {
+  List<Species> get allSpecies {
     return UnmodifiableListView(_pokedex.values);
   }
 }

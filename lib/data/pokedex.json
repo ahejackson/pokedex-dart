@@ -1,7 +1,8 @@
 [
   {
+    "id": "bulbasaur",
     "num": 1,
-    "name": "Bulbasaur",
+    "name": "Bulbasaur!",
     "types": [
       "Grass",
       "Poison"
@@ -34,6 +35,7 @@
     ]
   },
   {
+    "id": "ivysaur",
     "num": 2,
     "name": "Ivysaur",
     "types": [
@@ -70,6 +72,7 @@
     ]
   },
   {
+    "id": "venusaur",
     "num": 3,
     "name": "Venusaur",
     "types": [
@@ -106,6 +109,7 @@
     ]
   },
   {
+    "id": "venusaurmega",
     "num": 3,
     "name": "Venusaur-Mega",
     "baseSpecies": "Venusaur",
@@ -139,6 +143,7 @@
     "requiredItem": "Venusaurite"
   },
   {
+    "id": "charmander",
     "num": 4,
     "name": "Charmander",
     "types": [
@@ -172,6 +177,7 @@
     ]
   },
   {
+    "id": "charmeleon",
     "num": 5,
     "name": "Charmeleon",
     "types": [
@@ -207,6 +213,7 @@
     ]
   },
   {
+    "id": "charizard",
     "num": 6,
     "name": "Charizard",
     "types": [
@@ -245,6 +252,7 @@
     ]
   },
   {
+    "id": "charizardmegax",
     "num": 6,
     "name": "Charizard-Mega-X",
     "baseSpecies": "Charizard",
@@ -278,6 +286,7 @@
     "requiredItem": "Charizardite X"
   },
   {
+    "id": "charizardmegay",
     "num": 6,
     "name": "Charizard-Mega-Y",
     "baseSpecies": "Charizard",
@@ -311,6 +320,7 @@
     "requiredItem": "Charizardite Y"
   },
   {
+    "id": "charizardgmax",
     "num": 6,
     "name": "Charizard-Gmax",
     "baseSpecies": "Charizard",
@@ -345,6 +355,7 @@
     "isGigantamax": "G-Max Wildfire"
   },
   {
+    "id": "squirtle",
     "num": 7,
     "name": "Squirtle",
     "types": [
@@ -378,6 +389,7 @@
     ]
   },
   {
+    "id": "wartortle",
     "num": 8,
     "name": "Wartortle",
     "types": [
@@ -413,6 +425,7 @@
     ]
   },
   {
+    "id": "blastoise",
     "num": 9,
     "name": "Blastoise",
     "types": [
@@ -448,6 +461,7 @@
     ]
   },
   {
+    "id": "blastoisemega",
     "num": 9,
     "name": "Blastoise-Mega",
     "baseSpecies": "Blastoise",
@@ -480,6 +494,7 @@
     "requiredItem": "Blastoisinite"
   },
   {
+    "id": "caterpie",
     "num": 10,
     "name": "Caterpie",
     "types": [
@@ -508,6 +523,7 @@
     ]
   },
   {
+    "id": "metapod",
     "num": 11,
     "name": "Metapod",
     "types": [
@@ -537,6 +553,7 @@
     ]
   },
   {
+    "id": "butterfree",
     "num": 12,
     "name": "Butterfree",
     "types": [
@@ -568,6 +585,7 @@
     ]
   },
   {
+    "id": "butterfreegmax",
     "num": 12,
     "name": "Butterfree-Gmax",
     "baseSpecies": "Butterfree",
@@ -597,6 +615,7 @@
     "isGigantamax": "G-Max Befuddle"
   },
   {
+    "id": "weedle",
     "num": 13,
     "name": "Weedle",
     "types": [
@@ -626,6 +645,7 @@
     ]
   },
   {
+    "id": "kakuna",
     "num": 14,
     "name": "Kakuna",
     "types": [
@@ -656,6 +676,7 @@
     ]
   },
   {
+    "id": "beedrill",
     "num": 15,
     "name": "Beedrill",
     "types": [
@@ -687,6 +708,7 @@
     ]
   },
   {
+    "id": "beedrillmega",
     "num": 15,
     "name": "Beedrill-Mega",
     "baseSpecies": "Beedrill",
@@ -715,6 +737,7 @@
     "requiredItem": "Beedrillite"
   },
   {
+    "id": "pidgey",
     "num": 16,
     "name": "Pidgey",
     "types": [
@@ -745,6 +768,7 @@
     ]
   },
   {
+    "id": "pidgeotto",
     "num": 17,
     "name": "Pidgeotto",
     "types": [
@@ -777,6 +801,7 @@
     ]
   },
   {
+    "id": "pidgeot",
     "num": 18,
     "name": "Pidgeot",
     "types": [
@@ -809,6 +834,7 @@
     ]
   },
   {
+    "id": "pidgeotmega",
     "num": 18,
     "name": "Pidgeot-Mega",
     "baseSpecies": "Pidgeot",
@@ -837,6 +863,7 @@
     "requiredItem": "Pidgeotite"
   },
   {
+    "id": "rattata",
     "num": 19,
     "name": "Rattata",
     "types": [
@@ -869,6 +896,7 @@
     ]
   },
   {
+    "id": "rattataalola",
     "num": 19,
     "name": "Rattata-Alola",
     "baseSpecies": "Rattata",
@@ -901,6 +929,7 @@
     ]
   },
   {
+    "id": "raticate",
     "num": 20,
     "name": "Raticate",
     "types": [
@@ -933,6 +962,7 @@
     ]
   },
   {
+    "id": "raticatealola",
     "num": 20,
     "name": "Raticate-Alola",
     "baseSpecies": "Raticate",
@@ -964,6 +994,7 @@
     ]
   },
   {
+    "id": "raticatealolatotem",
     "num": 20,
     "name": "Raticate-Alola-Totem",
     "baseSpecies": "Raticate",
@@ -991,6 +1022,7 @@
     ]
   },
   {
+    "id": "spearow",
     "num": 21,
     "name": "Spearow",
     "types": [
@@ -1020,6 +1052,7 @@
     ]
   },
   {
+    "id": "fearow",
     "num": 22,
     "name": "Fearow",
     "types": [
@@ -1048,6 +1081,7 @@
     ]
   },
   {
+    "id": "ekans",
     "num": 23,
     "name": "Ekans",
     "types": [
@@ -1078,6 +1112,7 @@
     ]
   },
   {
+    "id": "arbok",
     "num": 24,
     "name": "Arbok",
     "types": [
@@ -1107,6 +1142,7 @@
     ]
   },
   {
+    "id": "pikachu",
     "num": 25,
     "name": "Pikachu",
     "types": [
@@ -1156,6 +1192,7 @@
     ]
   },
   {
+    "id": "pikachucosplay",
     "num": 25,
     "name": "Pikachu-Cosplay",
     "baseSpecies": "Pikachu",
@@ -1184,6 +1221,7 @@
     "gen": 6
   },
   {
+    "id": "pikachurockstar",
     "num": 25,
     "name": "Pikachu-Rock-Star",
     "baseSpecies": "Pikachu",
@@ -1212,6 +1250,7 @@
     "gen": 6
   },
   {
+    "id": "pikachubelle",
     "num": 25,
     "name": "Pikachu-Belle",
     "baseSpecies": "Pikachu",
@@ -1240,6 +1279,7 @@
     "gen": 6
   },
   {
+    "id": "pikachupopstar",
     "num": 25,
     "name": "Pikachu-Pop-Star",
     "baseSpecies": "Pikachu",
@@ -1268,6 +1308,7 @@
     "gen": 6
   },
   {
+    "id": "pikachuphd",
     "num": 25,
     "name": "Pikachu-PhD",
     "baseSpecies": "Pikachu",
@@ -1296,6 +1337,7 @@
     "gen": 6
   },
   {
+    "id": "pikachulibre",
     "num": 25,
     "name": "Pikachu-Libre",
     "baseSpecies": "Pikachu",
@@ -1324,6 +1366,7 @@
     "gen": 6
   },
   {
+    "id": "pikachuoriginal",
     "num": 25,
     "name": "Pikachu-Original",
     "baseSpecies": "Pikachu",
@@ -1353,6 +1396,7 @@
     "gen": 7
   },
   {
+    "id": "pikachuhoenn",
     "num": 25,
     "name": "Pikachu-Hoenn",
     "baseSpecies": "Pikachu",
@@ -1382,6 +1426,7 @@
     "gen": 7
   },
   {
+    "id": "pikachusinnoh",
     "num": 25,
     "name": "Pikachu-Sinnoh",
     "baseSpecies": "Pikachu",
@@ -1411,6 +1456,7 @@
     "gen": 7
   },
   {
+    "id": "pikachuunova",
     "num": 25,
     "name": "Pikachu-Unova",
     "baseSpecies": "Pikachu",
@@ -1440,6 +1486,7 @@
     "gen": 7
   },
   {
+    "id": "pikachukalos",
     "num": 25,
     "name": "Pikachu-Kalos",
     "baseSpecies": "Pikachu",
@@ -1469,6 +1516,7 @@
     "gen": 7
   },
   {
+    "id": "pikachualola",
     "num": 25,
     "name": "Pikachu-Alola",
     "baseSpecies": "Pikachu",
@@ -1498,6 +1546,7 @@
     "gen": 7
   },
   {
+    "id": "pikachupartner",
     "num": 25,
     "name": "Pikachu-Partner",
     "baseSpecies": "Pikachu",
@@ -1527,6 +1576,7 @@
     "gen": 7
   },
   {
+    "id": "pikachustarter",
     "num": 25,
     "name": "Pikachu-Starter",
     "baseSpecies": "Pikachu",
@@ -1554,6 +1604,7 @@
     ]
   },
   {
+    "id": "pikachugmax",
     "num": 25,
     "name": "Pikachu-Gmax",
     "baseSpecies": "Pikachu",
@@ -1583,6 +1634,7 @@
     "isGigantamax": "G-Max Volt Crash"
   },
   {
+    "id": "raichu",
     "num": 26,
     "name": "Raichu",
     "types": [
@@ -1615,6 +1667,7 @@
     ]
   },
   {
+    "id": "raichualola",
     "num": 26,
     "name": "Raichu-Alola",
     "baseSpecies": "Raichu",
@@ -1646,6 +1699,7 @@
     ]
   },
   {
+    "id": "sandshrew",
     "num": 27,
     "name": "Sandshrew",
     "types": [
@@ -1677,6 +1731,7 @@
     ]
   },
   {
+    "id": "sandshrewalola",
     "num": 27,
     "name": "Sandshrew-Alola",
     "baseSpecies": "Sandshrew",
@@ -1708,6 +1763,7 @@
     ]
   },
   {
+    "id": "sandslash",
     "num": 28,
     "name": "Sandslash",
     "types": [
@@ -1738,6 +1794,7 @@
     ]
   },
   {
+    "id": "sandslashalola",
     "num": 28,
     "name": "Sandslash-Alola",
     "baseSpecies": "Sandslash",
@@ -1769,6 +1826,7 @@
     ]
   },
   {
+    "id": "nidoranf",
     "num": 29,
     "name": "Nidoran-F",
     "types": [
@@ -1800,6 +1858,7 @@
     ]
   },
   {
+    "id": "nidorina",
     "num": 30,
     "name": "Nidorina",
     "types": [
@@ -1832,6 +1891,7 @@
     ]
   },
   {
+    "id": "nidoqueen",
     "num": 31,
     "name": "Nidoqueen",
     "types": [
@@ -1863,6 +1923,7 @@
     ]
   },
   {
+    "id": "nidoranm",
     "num": 32,
     "name": "Nidoran-M",
     "types": [
@@ -1894,6 +1955,7 @@
     ]
   },
   {
+    "id": "nidorino",
     "num": 33,
     "name": "Nidorino",
     "types": [
@@ -1927,6 +1989,7 @@
     ]
   },
   {
+    "id": "nidoking",
     "num": 34,
     "name": "Nidoking",
     "types": [
@@ -1959,6 +2022,7 @@
     ]
   },
   {
+    "id": "clefairy",
     "num": 35,
     "name": "Clefairy",
     "types": [
@@ -1994,6 +2058,7 @@
     ]
   },
   {
+    "id": "clefable",
     "num": 36,
     "name": "Clefable",
     "types": [
@@ -2027,6 +2092,7 @@
     ]
   },
   {
+    "id": "vulpix",
     "num": 37,
     "name": "Vulpix",
     "types": [
@@ -2062,6 +2128,7 @@
     ]
   },
   {
+    "id": "vulpixalola",
     "num": 37,
     "name": "Vulpix-Alola",
     "baseSpecies": "Vulpix",
@@ -2096,6 +2163,7 @@
     ]
   },
   {
+    "id": "ninetales",
     "num": 38,
     "name": "Ninetales",
     "types": [
@@ -2131,6 +2199,7 @@
     ]
   },
   {
+    "id": "ninetalesalola",
     "num": 38,
     "name": "Ninetales-Alola",
     "baseSpecies": "Ninetales",
@@ -2166,6 +2235,7 @@
     ]
   },
   {
+    "id": "jigglypuff",
     "num": 39,
     "name": "Jigglypuff",
     "types": [
@@ -2202,6 +2272,7 @@
     ]
   },
   {
+    "id": "wigglytuff",
     "num": 40,
     "name": "Wigglytuff",
     "types": [
@@ -2236,6 +2307,7 @@
     ]
   },
   {
+    "id": "zubat",
     "num": 41,
     "name": "Zubat",
     "types": [
@@ -2265,6 +2337,7 @@
     ]
   },
   {
+    "id": "golbat",
     "num": 42,
     "name": "Golbat",
     "types": [
@@ -2296,6 +2369,7 @@
     ]
   },
   {
+    "id": "oddish",
     "num": 43,
     "name": "Oddish",
     "types": [
@@ -2325,6 +2399,7 @@
     ]
   },
   {
+    "id": "gloom",
     "num": 44,
     "name": "Gloom",
     "types": [
@@ -2357,6 +2432,7 @@
     ]
   },
   {
+    "id": "vileplume",
     "num": 45,
     "name": "Vileplume",
     "types": [
@@ -2386,6 +2462,7 @@
     ]
   },
   {
+    "id": "paras",
     "num": 46,
     "name": "Paras",
     "types": [
@@ -2417,6 +2494,7 @@
     ]
   },
   {
+    "id": "parasect",
     "num": 47,
     "name": "Parasect",
     "types": [
@@ -2447,6 +2525,7 @@
     ]
   },
   {
+    "id": "venonat",
     "num": 48,
     "name": "Venonat",
     "types": [
@@ -2477,6 +2556,7 @@
     ]
   },
   {
+    "id": "venomoth",
     "num": 49,
     "name": "Venomoth",
     "types": [
@@ -2506,6 +2586,7 @@
     ]
   },
   {
+    "id": "diglett",
     "num": 50,
     "name": "Diglett",
     "types": [
@@ -2538,6 +2619,7 @@
     ]
   },
   {
+    "id": "diglettalola",
     "num": 50,
     "name": "Diglett-Alola",
     "baseSpecies": "Diglett",
@@ -2570,6 +2652,7 @@
     ]
   },
   {
+    "id": "dugtrio",
     "num": 51,
     "name": "Dugtrio",
     "types": [
@@ -2601,6 +2684,7 @@
     ]
   },
   {
+    "id": "dugtrioalola",
     "num": 51,
     "name": "Dugtrio-Alola",
     "baseSpecies": "Dugtrio",
@@ -2632,6 +2716,7 @@
     ]
   },
   {
+    "id": "meowth",
     "num": 52,
     "name": "Meowth",
     "types": [
@@ -2666,6 +2751,7 @@
     ]
   },
   {
+    "id": "meowthalola",
     "num": 52,
     "name": "Meowth-Alola",
     "baseSpecies": "Meowth",
@@ -2697,6 +2783,7 @@
     ]
   },
   {
+    "id": "meowthgalar",
     "num": 52,
     "name": "Meowth-Galar",
     "baseSpecies": "Meowth",
@@ -2728,6 +2815,7 @@
     ]
   },
   {
+    "id": "meowthgmax",
     "num": 52,
     "name": "Meowth-Gmax",
     "baseSpecies": "Meowth",
@@ -2757,6 +2845,7 @@
     "isGigantamax": "G-Max Gold Rush"
   },
   {
+    "id": "persian",
     "num": 53,
     "name": "Persian",
     "types": [
@@ -2788,6 +2877,7 @@
     ]
   },
   {
+    "id": "persianalola",
     "num": 53,
     "name": "Persian-Alola",
     "baseSpecies": "Persian",
@@ -2818,6 +2908,7 @@
     ]
   },
   {
+    "id": "psyduck",
     "num": 54,
     "name": "Psyduck",
     "types": [
@@ -2848,6 +2939,7 @@
     ]
   },
   {
+    "id": "golduck",
     "num": 55,
     "name": "Golduck",
     "types": [
@@ -2877,6 +2969,7 @@
     ]
   },
   {
+    "id": "mankey",
     "num": 56,
     "name": "Mankey",
     "types": [
@@ -2906,6 +2999,7 @@
     ]
   },
   {
+    "id": "primeape",
     "num": 57,
     "name": "Primeape",
     "types": [
@@ -2934,6 +3028,7 @@
     ]
   },
   {
+    "id": "growlithe",
     "num": 58,
     "name": "Growlithe",
     "types": [
@@ -2967,6 +3062,7 @@
     ]
   },
   {
+    "id": "arcanine",
     "num": 59,
     "name": "Arcanine",
     "types": [
@@ -3000,6 +3096,7 @@
     ]
   },
   {
+    "id": "poliwag",
     "num": 60,
     "name": "Poliwag",
     "types": [
@@ -3029,6 +3126,7 @@
     ]
   },
   {
+    "id": "poliwhirl",
     "num": 61,
     "name": "Poliwhirl",
     "types": [
@@ -3061,6 +3159,7 @@
     ]
   },
   {
+    "id": "poliwrath",
     "num": 62,
     "name": "Poliwrath",
     "types": [
@@ -3091,6 +3190,7 @@
     ]
   },
   {
+    "id": "abra",
     "num": 63,
     "name": "Abra",
     "types": [
@@ -3124,6 +3224,7 @@
     ]
   },
   {
+    "id": "kadabra",
     "num": 64,
     "name": "Kadabra",
     "types": [
@@ -3159,6 +3260,7 @@
     ]
   },
   {
+    "id": "alakazam",
     "num": 65,
     "name": "Alakazam",
     "types": [
@@ -3194,6 +3296,7 @@
     ]
   },
   {
+    "id": "alakazammega",
     "num": 65,
     "name": "Alakazam-Mega",
     "baseSpecies": "Alakazam",
@@ -3225,6 +3328,7 @@
     "requiredItem": "Alakazite"
   },
   {
+    "id": "machop",
     "num": 66,
     "name": "Machop",
     "types": [
@@ -3258,6 +3362,7 @@
     ]
   },
   {
+    "id": "machoke",
     "num": 67,
     "name": "Machoke",
     "types": [
@@ -3293,6 +3398,7 @@
     ]
   },
   {
+    "id": "machamp",
     "num": 68,
     "name": "Machamp",
     "types": [
@@ -3328,6 +3434,7 @@
     ]
   },
   {
+    "id": "machampgmax",
     "num": 68,
     "name": "Machamp-Gmax",
     "baseSpecies": "Machamp",
@@ -3361,6 +3468,7 @@
     "isGigantamax": "G-Max Chi Strike"
   },
   {
+    "id": "bellsprout",
     "num": 69,
     "name": "Bellsprout",
     "types": [
@@ -3390,6 +3498,7 @@
     ]
   },
   {
+    "id": "weepinbell",
     "num": 70,
     "name": "Weepinbell",
     "types": [
@@ -3421,6 +3530,7 @@
     ]
   },
   {
+    "id": "victreebel",
     "num": 71,
     "name": "Victreebel",
     "types": [
@@ -3450,6 +3560,7 @@
     ]
   },
   {
+    "id": "tentacool",
     "num": 72,
     "name": "Tentacool",
     "types": [
@@ -3480,6 +3591,7 @@
     ]
   },
   {
+    "id": "tentacruel",
     "num": 73,
     "name": "Tentacruel",
     "types": [
@@ -3509,6 +3621,7 @@
     ]
   },
   {
+    "id": "geodude",
     "num": 74,
     "name": "Geodude",
     "types": [
@@ -3542,6 +3655,7 @@
     ]
   },
   {
+    "id": "geodudealola",
     "num": 74,
     "name": "Geodude-Alola",
     "baseSpecies": "Geodude",
@@ -3574,6 +3688,7 @@
     ]
   },
   {
+    "id": "graveler",
     "num": 75,
     "name": "Graveler",
     "types": [
@@ -3609,6 +3724,7 @@
     ]
   },
   {
+    "id": "graveleralola",
     "num": 75,
     "name": "Graveler-Alola",
     "baseSpecies": "Graveler",
@@ -3643,6 +3759,7 @@
     ]
   },
   {
+    "id": "golem",
     "num": 76,
     "name": "Golem",
     "types": [
@@ -3675,6 +3792,7 @@
     ]
   },
   {
+    "id": "golemalola",
     "num": 76,
     "name": "Golem-Alola",
     "baseSpecies": "Golem",
@@ -3706,6 +3824,7 @@
     ]
   },
   {
+    "id": "ponyta",
     "num": 77,
     "name": "Ponyta",
     "types": [
@@ -3738,6 +3857,7 @@
     ]
   },
   {
+    "id": "ponytagalar",
     "num": 77,
     "name": "Ponyta-Galar",
     "baseSpecies": "Ponyta",
@@ -3769,6 +3889,7 @@
     ]
   },
   {
+    "id": "rapidash",
     "num": 78,
     "name": "Rapidash",
     "types": [
@@ -3800,6 +3921,7 @@
     ]
   },
   {
+    "id": "rapidashgalar",
     "num": 78,
     "name": "Rapidash-Galar",
     "baseSpecies": "Rapidash",
@@ -3831,6 +3953,7 @@
     ]
   },
   {
+    "id": "slowpoke",
     "num": 79,
     "name": "Slowpoke",
     "types": [
@@ -3866,6 +3989,7 @@
     ]
   },
   {
+    "id": "slowpokegalar",
     "num": 79,
     "name": "Slowpoke-Galar",
     "baseSpecies": "Slowpoke",
@@ -3895,6 +4019,7 @@
     ]
   },
   {
+    "id": "slowbro",
     "num": 80,
     "name": "Slowbro",
     "types": [
@@ -3928,6 +4053,7 @@
     ]
   },
   {
+    "id": "slowbromega",
     "num": 80,
     "name": "Slowbro-Mega",
     "baseSpecies": "Slowbro",
@@ -3957,6 +4083,7 @@
     "requiredItem": "Slowbronite"
   },
   {
+    "id": "magnemite",
     "num": 81,
     "name": "Magnemite",
     "types": [
@@ -3988,6 +4115,7 @@
     ]
   },
   {
+    "id": "magneton",
     "num": 82,
     "name": "Magneton",
     "types": [
@@ -4021,6 +4149,7 @@
     ]
   },
   {
+    "id": "farfetchd",
     "num": 83,
     "name": "Farfetch'd",
     "types": [
@@ -4052,6 +4181,7 @@
     ]
   },
   {
+    "id": "farfetchdgalar",
     "num": 83,
     "name": "Farfetch'd-Galar",
     "baseSpecies": "Farfetch'd",
@@ -4083,6 +4213,7 @@
     ]
   },
   {
+    "id": "doduo",
     "num": 84,
     "name": "Doduo",
     "types": [
@@ -4113,6 +4244,7 @@
     ]
   },
   {
+    "id": "dodrio",
     "num": 85,
     "name": "Dodrio",
     "types": [
@@ -4142,6 +4274,7 @@
     ]
   },
   {
+    "id": "seel",
     "num": 86,
     "name": "Seel",
     "types": [
@@ -4172,6 +4305,7 @@
     ]
   },
   {
+    "id": "dewgong",
     "num": 87,
     "name": "Dewgong",
     "types": [
@@ -4202,6 +4336,7 @@
     ]
   },
   {
+    "id": "grimer",
     "num": 88,
     "name": "Grimer",
     "types": [
@@ -4234,6 +4369,7 @@
     ]
   },
   {
+    "id": "grimeralola",
     "num": 88,
     "name": "Grimer-Alola",
     "baseSpecies": "Grimer",
@@ -4266,6 +4402,7 @@
     ]
   },
   {
+    "id": "muk",
     "num": 89,
     "name": "Muk",
     "types": [
@@ -4297,6 +4434,7 @@
     ]
   },
   {
+    "id": "mukalola",
     "num": 89,
     "name": "Muk-Alola",
     "baseSpecies": "Muk",
@@ -4328,6 +4466,7 @@
     ]
   },
   {
+    "id": "shellder",
     "num": 90,
     "name": "Shellder",
     "types": [
@@ -4357,6 +4496,7 @@
     ]
   },
   {
+    "id": "cloyster",
     "num": 91,
     "name": "Cloyster",
     "types": [
@@ -4387,6 +4527,7 @@
     ]
   },
   {
+    "id": "gastly",
     "num": 92,
     "name": "Gastly",
     "types": [
@@ -4415,6 +4556,7 @@
     ]
   },
   {
+    "id": "haunter",
     "num": 93,
     "name": "Haunter",
     "types": [
@@ -4445,6 +4587,7 @@
     ]
   },
   {
+    "id": "gengar",
     "num": 94,
     "name": "Gengar",
     "types": [
@@ -4476,6 +4619,7 @@
     ]
   },
   {
+    "id": "gengarmega",
     "num": 94,
     "name": "Gengar-Mega",
     "baseSpecies": "Gengar",
@@ -4504,6 +4648,7 @@
     "requiredItem": "Gengarite"
   },
   {
+    "id": "gengargmax",
     "num": 94,
     "name": "Gengar-Gmax",
     "baseSpecies": "Gengar",
@@ -4532,6 +4677,7 @@
     "isGigantamax": "G-Max Terror"
   },
   {
+    "id": "onix",
     "num": 95,
     "name": "Onix",
     "types": [
@@ -4562,6 +4708,7 @@
     ]
   },
   {
+    "id": "drowzee",
     "num": 96,
     "name": "Drowzee",
     "types": [
@@ -4591,6 +4738,7 @@
     ]
   },
   {
+    "id": "hypno",
     "num": 97,
     "name": "Hypno",
     "types": [
@@ -4619,6 +4767,7 @@
     ]
   },
   {
+    "id": "krabby",
     "num": 98,
     "name": "Krabby",
     "types": [
@@ -4648,6 +4797,7 @@
     ]
   },
   {
+    "id": "kingler",
     "num": 99,
     "name": "Kingler",
     "types": [
@@ -4679,6 +4829,7 @@
     ]
   },
   {
+    "id": "kinglergmax",
     "num": 99,
     "name": "Kingler-Gmax",
     "baseSpecies": "Kingler",
@@ -4708,6 +4859,7 @@
     "isGigantamax": "G-Max Foam Burst"
   },
   {
+    "id": "voltorb",
     "num": 100,
     "name": "Voltorb",
     "types": [
@@ -4738,6 +4890,7 @@
     ]
   },
   {
+    "id": "electrode",
     "num": 101,
     "name": "Electrode",
     "types": [
@@ -4767,6 +4920,7 @@
     ]
   },
   {
+    "id": "exeggcute",
     "num": 102,
     "name": "Exeggcute",
     "types": [
@@ -4797,6 +4951,7 @@
     ]
   },
   {
+    "id": "exeggutor",
     "num": 103,
     "name": "Exeggutor",
     "types": [
@@ -4829,6 +4984,7 @@
     ]
   },
   {
+    "id": "exeggutoralola",
     "num": 103,
     "name": "Exeggutor-Alola",
     "baseSpecies": "Exeggutor",
@@ -4860,6 +5016,7 @@
     ]
   },
   {
+    "id": "cubone",
     "num": 104,
     "name": "Cubone",
     "types": [
@@ -4890,6 +5047,7 @@
     ]
   },
   {
+    "id": "marowak",
     "num": 105,
     "name": "Marowak",
     "types": [
@@ -4922,6 +5080,7 @@
     ]
   },
   {
+    "id": "marowakalola",
     "num": 105,
     "name": "Marowak-Alola",
     "baseSpecies": "Marowak",
@@ -4953,6 +5112,7 @@
     ]
   },
   {
+    "id": "marowakalolatotem",
     "num": 105,
     "name": "Marowak-Alola-Totem",
     "baseSpecies": "Marowak",
@@ -4980,6 +5140,7 @@
     ]
   },
   {
+    "id": "hitmonlee",
     "num": 106,
     "name": "Hitmonlee",
     "types": [
@@ -5009,6 +5170,7 @@
     ]
   },
   {
+    "id": "hitmonchan",
     "num": 107,
     "name": "Hitmonchan",
     "types": [
@@ -5038,6 +5200,7 @@
     ]
   },
   {
+    "id": "lickitung",
     "num": 108,
     "name": "Lickitung",
     "types": [
@@ -5067,6 +5230,7 @@
     ]
   },
   {
+    "id": "koffing",
     "num": 109,
     "name": "Koffing",
     "types": [
@@ -5097,6 +5261,7 @@
     ]
   },
   {
+    "id": "weezing",
     "num": 110,
     "name": "Weezing",
     "types": [
@@ -5128,6 +5293,7 @@
     ]
   },
   {
+    "id": "weezinggalar",
     "num": 110,
     "name": "Weezing-Galar",
     "baseSpecies": "Weezing",
@@ -5159,6 +5325,7 @@
     ]
   },
   {
+    "id": "rhyhorn",
     "num": 111,
     "name": "Rhyhorn",
     "types": [
@@ -5190,6 +5357,7 @@
     ]
   },
   {
+    "id": "rhydon",
     "num": 112,
     "name": "Rhydon",
     "types": [
@@ -5223,6 +5391,7 @@
     ]
   },
   {
+    "id": "chansey",
     "num": 113,
     "name": "Chansey",
     "types": [
@@ -5258,6 +5427,7 @@
     "canHatch": true
   },
   {
+    "id": "tangela",
     "num": 114,
     "name": "Tangela",
     "types": [
@@ -5287,6 +5457,7 @@
     ]
   },
   {
+    "id": "kangaskhan",
     "num": 115,
     "name": "Kangaskhan",
     "types": [
@@ -5317,6 +5488,7 @@
     ]
   },
   {
+    "id": "kangaskhanmega",
     "num": 115,
     "name": "Kangaskhan-Mega",
     "baseSpecies": "Kangaskhan",
@@ -5345,6 +5517,7 @@
     "requiredItem": "Kangaskhanite"
   },
   {
+    "id": "horsea",
     "num": 116,
     "name": "Horsea",
     "types": [
@@ -5375,6 +5548,7 @@
     ]
   },
   {
+    "id": "seadra",
     "num": 117,
     "name": "Seadra",
     "types": [
@@ -5407,6 +5581,7 @@
     ]
   },
   {
+    "id": "goldeen",
     "num": 118,
     "name": "Goldeen",
     "types": [
@@ -5436,6 +5611,7 @@
     ]
   },
   {
+    "id": "seaking",
     "num": 119,
     "name": "Seaking",
     "types": [
@@ -5464,6 +5640,7 @@
     ]
   },
   {
+    "id": "staryu",
     "num": 120,
     "name": "Staryu",
     "types": [
@@ -5494,6 +5671,7 @@
     ]
   },
   {
+    "id": "starmie",
     "num": 121,
     "name": "Starmie",
     "types": [
@@ -5525,6 +5703,7 @@
     ]
   },
   {
+    "id": "mrmime",
     "num": 122,
     "name": "Mr. Mime",
     "types": [
@@ -5559,6 +5738,7 @@
     ]
   },
   {
+    "id": "mrmimegalar",
     "num": 122,
     "name": "Mr. Mime-Galar",
     "baseSpecies": "Mr. Mime",
@@ -5595,6 +5775,7 @@
     "canHatch": true
   },
   {
+    "id": "scyther",
     "num": 123,
     "name": "Scyther",
     "types": [
@@ -5625,6 +5806,7 @@
     ]
   },
   {
+    "id": "jynx",
     "num": 124,
     "name": "Jynx",
     "types": [
@@ -5655,6 +5837,7 @@
     ]
   },
   {
+    "id": "electabuzz",
     "num": 125,
     "name": "Electabuzz",
     "types": [
@@ -5689,6 +5872,7 @@
     ]
   },
   {
+    "id": "magmar",
     "num": 126,
     "name": "Magmar",
     "types": [
@@ -5723,6 +5907,7 @@
     ]
   },
   {
+    "id": "pinsir",
     "num": 127,
     "name": "Pinsir",
     "types": [
@@ -5752,6 +5937,7 @@
     ]
   },
   {
+    "id": "pinsirmega",
     "num": 127,
     "name": "Pinsir-Mega",
     "baseSpecies": "Pinsir",
@@ -5780,6 +5966,7 @@
     "requiredItem": "Pinsirite"
   },
   {
+    "id": "tauros",
     "num": 128,
     "name": "Tauros",
     "types": [
@@ -5807,6 +5994,7 @@
     ]
   },
   {
+    "id": "magikarp",
     "num": 129,
     "name": "Magikarp",
     "types": [
@@ -5836,6 +6024,7 @@
     ]
   },
   {
+    "id": "gyarados",
     "num": 130,
     "name": "Gyarados",
     "types": [
@@ -5868,6 +6057,7 @@
     ]
   },
   {
+    "id": "gyaradosmega",
     "num": 130,
     "name": "Gyarados-Mega",
     "baseSpecies": "Gyarados",
@@ -5897,6 +6087,7 @@
     "requiredItem": "Gyaradosite"
   },
   {
+    "id": "lapras",
     "num": 131,
     "name": "Lapras",
     "types": [
@@ -5928,6 +6119,7 @@
     ]
   },
   {
+    "id": "laprasgmax",
     "num": 131,
     "name": "Lapras-Gmax",
     "baseSpecies": "Lapras",
@@ -5959,6 +6151,7 @@
     "isGigantamax": "G-Max Resonance"
   },
   {
+    "id": "ditto",
     "num": 132,
     "name": "Ditto",
     "types": [
@@ -5985,6 +6178,7 @@
     ]
   },
   {
+    "id": "eevee",
     "num": 133,
     "name": "Eevee",
     "types": [
@@ -6029,6 +6223,7 @@
     ]
   },
   {
+    "id": "eeveestarter",
     "num": 133,
     "name": "Eevee-Starter",
     "baseSpecies": "Eevee",
@@ -6061,6 +6256,7 @@
     ]
   },
   {
+    "id": "eeveegmax",
     "num": 133,
     "name": "Eevee-Gmax",
     "baseSpecies": "Eevee",
@@ -6094,6 +6290,7 @@
     "isGigantamax": "G-Max Cuddle"
   },
   {
+    "id": "vaporeon",
     "num": 134,
     "name": "Vaporeon",
     "types": [
@@ -6126,6 +6323,7 @@
     ]
   },
   {
+    "id": "jolteon",
     "num": 135,
     "name": "Jolteon",
     "types": [
@@ -6158,6 +6356,7 @@
     ]
   },
   {
+    "id": "flareon",
     "num": 136,
     "name": "Flareon",
     "types": [
@@ -6190,6 +6389,7 @@
     ]
   },
   {
+    "id": "porygon",
     "num": 137,
     "name": "Porygon",
     "types": [
@@ -6220,6 +6420,7 @@
     ]
   },
   {
+    "id": "omanyte",
     "num": 138,
     "name": "Omanyte",
     "types": [
@@ -6255,6 +6456,7 @@
     ]
   },
   {
+    "id": "omastar",
     "num": 139,
     "name": "Omastar",
     "types": [
@@ -6289,6 +6491,7 @@
     ]
   },
   {
+    "id": "kabuto",
     "num": 140,
     "name": "Kabuto",
     "types": [
@@ -6324,6 +6527,7 @@
     ]
   },
   {
+    "id": "kabutops",
     "num": 141,
     "name": "Kabutops",
     "types": [
@@ -6358,6 +6562,7 @@
     ]
   },
   {
+    "id": "aerodactyl",
     "num": 142,
     "name": "Aerodactyl",
     "types": [
@@ -6392,6 +6597,7 @@
     ]
   },
   {
+    "id": "aerodactylmega",
     "num": 142,
     "name": "Aerodactyl-Mega",
     "baseSpecies": "Aerodactyl",
@@ -6424,6 +6630,7 @@
     "requiredItem": "Aerodactylite"
   },
   {
+    "id": "snorlax",
     "num": 143,
     "name": "Snorlax",
     "types": [
@@ -6460,6 +6667,7 @@
     ]
   },
   {
+    "id": "snorlaxgmax",
     "num": 143,
     "name": "Snorlax-Gmax",
     "baseSpecies": "Snorlax",
@@ -6493,6 +6701,7 @@
     "isGigantamax": "G-Max Replenish"
   },
   {
+    "id": "articuno",
     "num": 144,
     "name": "Articuno",
     "types": [
@@ -6520,6 +6729,7 @@
     ]
   },
   {
+    "id": "zapdos",
     "num": 145,
     "name": "Zapdos",
     "types": [
@@ -6547,6 +6757,7 @@
     ]
   },
   {
+    "id": "moltres",
     "num": 146,
     "name": "Moltres",
     "types": [
@@ -6574,6 +6785,7 @@
     ]
   },
   {
+    "id": "dratini",
     "num": 147,
     "name": "Dratini",
     "types": [
@@ -6603,6 +6815,7 @@
     ]
   },
   {
+    "id": "dragonair",
     "num": 148,
     "name": "Dragonair",
     "types": [
@@ -6634,6 +6847,7 @@
     ]
   },
   {
+    "id": "dragonite",
     "num": 149,
     "name": "Dragonite",
     "types": [
@@ -6663,6 +6877,7 @@
     ]
   },
   {
+    "id": "mewtwo",
     "num": 150,
     "name": "Mewtwo",
     "types": [
@@ -6693,6 +6908,7 @@
     ]
   },
   {
+    "id": "mewtwomegax",
     "num": 150,
     "name": "Mewtwo-Mega-X",
     "baseSpecies": "Mewtwo",
@@ -6722,6 +6938,7 @@
     "requiredItem": "Mewtwonite X"
   },
   {
+    "id": "mewtwomegay",
     "num": 150,
     "name": "Mewtwo-Mega-Y",
     "baseSpecies": "Mewtwo",
@@ -6750,6 +6967,7 @@
     "requiredItem": "Mewtwonite Y"
   },
   {
+    "id": "mew",
     "num": 151,
     "name": "Mew",
     "types": [
@@ -6775,6 +6993,7 @@
     ]
   },
   {
+    "id": "chikorita",
     "num": 152,
     "name": "Chikorita",
     "types": [
@@ -6808,6 +7027,7 @@
     ]
   },
   {
+    "id": "bayleef",
     "num": 153,
     "name": "Bayleef",
     "types": [
@@ -6843,6 +7063,7 @@
     ]
   },
   {
+    "id": "meganium",
     "num": 154,
     "name": "Meganium",
     "types": [
@@ -6875,6 +7096,7 @@
     ]
   },
   {
+    "id": "cyndaquil",
     "num": 155,
     "name": "Cyndaquil",
     "types": [
@@ -6907,6 +7129,7 @@
     ]
   },
   {
+    "id": "quilava",
     "num": 156,
     "name": "Quilava",
     "types": [
@@ -6941,6 +7164,7 @@
     ]
   },
   {
+    "id": "typhlosion",
     "num": 157,
     "name": "Typhlosion",
     "types": [
@@ -6972,6 +7196,7 @@
     ]
   },
   {
+    "id": "totodile",
     "num": 158,
     "name": "Totodile",
     "types": [
@@ -7005,6 +7230,7 @@
     ]
   },
   {
+    "id": "croconaw",
     "num": 159,
     "name": "Croconaw",
     "types": [
@@ -7040,6 +7266,7 @@
     ]
   },
   {
+    "id": "feraligatr",
     "num": 160,
     "name": "Feraligatr",
     "types": [
@@ -7072,6 +7299,7 @@
     ]
   },
   {
+    "id": "sentret",
     "num": 161,
     "name": "Sentret",
     "types": [
@@ -7101,6 +7329,7 @@
     ]
   },
   {
+    "id": "furret",
     "num": 162,
     "name": "Furret",
     "types": [
@@ -7129,6 +7358,7 @@
     ]
   },
   {
+    "id": "hoothoot",
     "num": 163,
     "name": "Hoothoot",
     "types": [
@@ -7159,6 +7389,7 @@
     ]
   },
   {
+    "id": "noctowl",
     "num": 164,
     "name": "Noctowl",
     "types": [
@@ -7188,6 +7419,7 @@
     ]
   },
   {
+    "id": "ledyba",
     "num": 165,
     "name": "Ledyba",
     "types": [
@@ -7218,6 +7450,7 @@
     ]
   },
   {
+    "id": "ledian",
     "num": 166,
     "name": "Ledian",
     "types": [
@@ -7247,6 +7480,7 @@
     ]
   },
   {
+    "id": "spinarak",
     "num": 167,
     "name": "Spinarak",
     "types": [
@@ -7277,6 +7511,7 @@
     ]
   },
   {
+    "id": "ariados",
     "num": 168,
     "name": "Ariados",
     "types": [
@@ -7306,6 +7541,7 @@
     ]
   },
   {
+    "id": "crobat",
     "num": 169,
     "name": "Crobat",
     "types": [
@@ -7334,6 +7570,7 @@
     ]
   },
   {
+    "id": "chinchou",
     "num": 170,
     "name": "Chinchou",
     "types": [
@@ -7364,6 +7601,7 @@
     ]
   },
   {
+    "id": "lanturn",
     "num": 171,
     "name": "Lanturn",
     "types": [
@@ -7393,6 +7631,7 @@
     ]
   },
   {
+    "id": "pichu",
     "num": 172,
     "name": "Pichu",
     "types": [
@@ -7425,6 +7664,7 @@
     ]
   },
   {
+    "id": "pichuspikyeared",
     "num": 172,
     "name": "Pichu-Spiky-eared",
     "baseSpecies": "Pichu",
@@ -7452,6 +7692,7 @@
     "gen": 4
   },
   {
+    "id": "cleffa",
     "num": 173,
     "name": "Cleffa",
     "types": [
@@ -7486,6 +7727,7 @@
     "canHatch": true
   },
   {
+    "id": "igglybuff",
     "num": 174,
     "name": "Igglybuff",
     "types": [
@@ -7521,6 +7763,7 @@
     "canHatch": true
   },
   {
+    "id": "togepi",
     "num": 175,
     "name": "Togepi",
     "types": [
@@ -7555,6 +7798,7 @@
     "canHatch": true
   },
   {
+    "id": "togetic",
     "num": 176,
     "name": "Togetic",
     "types": [
@@ -7592,6 +7836,7 @@
     ]
   },
   {
+    "id": "natu",
     "num": 177,
     "name": "Natu",
     "types": [
@@ -7622,6 +7867,7 @@
     ]
   },
   {
+    "id": "xatu",
     "num": 178,
     "name": "Xatu",
     "types": [
@@ -7651,6 +7897,7 @@
     ]
   },
   {
+    "id": "mareep",
     "num": 179,
     "name": "Mareep",
     "types": [
@@ -7680,6 +7927,7 @@
     ]
   },
   {
+    "id": "flaaffy",
     "num": 180,
     "name": "Flaaffy",
     "types": [
@@ -7711,6 +7959,7 @@
     ]
   },
   {
+    "id": "ampharos",
     "num": 181,
     "name": "Ampharos",
     "types": [
@@ -7742,6 +7991,7 @@
     ]
   },
   {
+    "id": "ampharosmega",
     "num": 181,
     "name": "Ampharos-Mega",
     "baseSpecies": "Ampharos",
@@ -7771,6 +8021,7 @@
     "requiredItem": "Ampharosite"
   },
   {
+    "id": "bellossom",
     "num": 182,
     "name": "Bellossom",
     "types": [
@@ -7799,6 +8050,7 @@
     ]
   },
   {
+    "id": "marill",
     "num": 183,
     "name": "Marill",
     "types": [
@@ -7833,6 +8085,7 @@
     "canHatch": true
   },
   {
+    "id": "azumarill",
     "num": 184,
     "name": "Azumarill",
     "types": [
@@ -7863,6 +8116,7 @@
     ]
   },
   {
+    "id": "sudowoodo",
     "num": 185,
     "name": "Sudowoodo",
     "types": [
@@ -7893,6 +8147,7 @@
     "canHatch": true
   },
   {
+    "id": "politoed",
     "num": 186,
     "name": "Politoed",
     "types": [
@@ -7922,6 +8177,7 @@
     ]
   },
   {
+    "id": "hoppip",
     "num": 187,
     "name": "Hoppip",
     "types": [
@@ -7953,6 +8209,7 @@
     ]
   },
   {
+    "id": "skiploom",
     "num": 188,
     "name": "Skiploom",
     "types": [
@@ -7986,6 +8243,7 @@
     ]
   },
   {
+    "id": "jumpluff",
     "num": 189,
     "name": "Jumpluff",
     "types": [
@@ -8016,6 +8274,7 @@
     ]
   },
   {
+    "id": "aipom",
     "num": 190,
     "name": "Aipom",
     "types": [
@@ -8045,6 +8304,7 @@
     ]
   },
   {
+    "id": "sunkern",
     "num": 191,
     "name": "Sunkern",
     "types": [
@@ -8074,6 +8334,7 @@
     ]
   },
   {
+    "id": "sunflora",
     "num": 192,
     "name": "Sunflora",
     "types": [
@@ -8103,6 +8364,7 @@
     ]
   },
   {
+    "id": "yanma",
     "num": 193,
     "name": "Yanma",
     "types": [
@@ -8133,6 +8395,7 @@
     ]
   },
   {
+    "id": "wooper",
     "num": 194,
     "name": "Wooper",
     "types": [
@@ -8164,6 +8427,7 @@
     ]
   },
   {
+    "id": "quagsire",
     "num": 195,
     "name": "Quagsire",
     "types": [
@@ -8194,6 +8458,7 @@
     ]
   },
   {
+    "id": "espeon",
     "num": 196,
     "name": "Espeon",
     "types": [
@@ -8226,6 +8491,7 @@
     ]
   },
   {
+    "id": "umbreon",
     "num": 197,
     "name": "Umbreon",
     "types": [
@@ -8258,6 +8524,7 @@
     ]
   },
   {
+    "id": "murkrow",
     "num": 198,
     "name": "Murkrow",
     "types": [
@@ -8288,6 +8555,7 @@
     ]
   },
   {
+    "id": "slowking",
     "num": 199,
     "name": "Slowking",
     "types": [
@@ -8319,6 +8587,7 @@
     ]
   },
   {
+    "id": "misdreavus",
     "num": 200,
     "name": "Misdreavus",
     "types": [
@@ -8346,6 +8615,7 @@
     ]
   },
   {
+    "id": "unown",
     "num": 201,
     "name": "Unown",
     "baseForme": "A",
@@ -8401,6 +8671,7 @@
     ]
   },
   {
+    "id": "wobbuffet",
     "num": 202,
     "name": "Wobbuffet",
     "types": [
@@ -8428,6 +8699,7 @@
     ]
   },
   {
+    "id": "girafarig",
     "num": 203,
     "name": "Girafarig",
     "types": [
@@ -8455,6 +8727,7 @@
     ]
   },
   {
+    "id": "pineco",
     "num": 204,
     "name": "Pineco",
     "types": [
@@ -8483,6 +8756,7 @@
     ]
   },
   {
+    "id": "forretress",
     "num": 205,
     "name": "Forretress",
     "types": [
@@ -8511,6 +8785,7 @@
     ]
   },
   {
+    "id": "dunsparce",
     "num": 206,
     "name": "Dunsparce",
     "types": [
@@ -8537,6 +8812,7 @@
     ]
   },
   {
+    "id": "gligar",
     "num": 207,
     "name": "Gligar",
     "types": [
@@ -8567,6 +8843,7 @@
     ]
   },
   {
+    "id": "steelix",
     "num": 208,
     "name": "Steelix",
     "types": [
@@ -8600,6 +8877,7 @@
     ]
   },
   {
+    "id": "steelixmega",
     "num": 208,
     "name": "Steelix-Mega",
     "baseSpecies": "Steelix",
@@ -8628,6 +8906,7 @@
     "requiredItem": "Steelixite"
   },
   {
+    "id": "snubbull",
     "num": 209,
     "name": "Snubbull",
     "types": [
@@ -8662,6 +8941,7 @@
     ]
   },
   {
+    "id": "granbull",
     "num": 210,
     "name": "Granbull",
     "types": [
@@ -8695,6 +8975,7 @@
     ]
   },
   {
+    "id": "qwilfish",
     "num": 211,
     "name": "Qwilfish",
     "types": [
@@ -8722,6 +9003,7 @@
     ]
   },
   {
+    "id": "scizor",
     "num": 212,
     "name": "Scizor",
     "types": [
@@ -8755,6 +9037,7 @@
     ]
   },
   {
+    "id": "scizormega",
     "num": 212,
     "name": "Scizor-Mega",
     "baseSpecies": "Scizor",
@@ -8783,6 +9066,7 @@
     "requiredItem": "Scizorite"
   },
   {
+    "id": "shuckle",
     "num": 213,
     "name": "Shuckle",
     "types": [
@@ -8810,6 +9094,7 @@
     ]
   },
   {
+    "id": "heracross",
     "num": 214,
     "name": "Heracross",
     "types": [
@@ -8840,6 +9125,7 @@
     ]
   },
   {
+    "id": "heracrossmega",
     "num": 214,
     "name": "Heracross-Mega",
     "baseSpecies": "Heracross",
@@ -8868,6 +9154,7 @@
     "requiredItem": "Heracronite"
   },
   {
+    "id": "sneasel",
     "num": 215,
     "name": "Sneasel",
     "types": [
@@ -8898,6 +9185,7 @@
     ]
   },
   {
+    "id": "teddiursa",
     "num": 216,
     "name": "Teddiursa",
     "types": [
@@ -8927,6 +9215,7 @@
     ]
   },
   {
+    "id": "ursaring",
     "num": 217,
     "name": "Ursaring",
     "types": [
@@ -8955,6 +9244,7 @@
     ]
   },
   {
+    "id": "slugma",
     "num": 218,
     "name": "Slugma",
     "types": [
@@ -8984,6 +9274,7 @@
     ]
   },
   {
+    "id": "magcargo",
     "num": 219,
     "name": "Magcargo",
     "types": [
@@ -9013,6 +9304,7 @@
     ]
   },
   {
+    "id": "swinub",
     "num": 220,
     "name": "Swinub",
     "types": [
@@ -9043,6 +9335,7 @@
     ]
   },
   {
+    "id": "piloswine",
     "num": 221,
     "name": "Piloswine",
     "types": [
@@ -9075,6 +9368,7 @@
     ]
   },
   {
+    "id": "corsola",
     "num": 222,
     "name": "Corsola",
     "types": [
@@ -9110,6 +9404,7 @@
     ]
   },
   {
+    "id": "corsolagalar",
     "num": 222,
     "name": "Corsola-Galar",
     "baseSpecies": "Corsola",
@@ -9145,6 +9440,7 @@
     ]
   },
   {
+    "id": "remoraid",
     "num": 223,
     "name": "Remoraid",
     "types": [
@@ -9175,6 +9471,7 @@
     ]
   },
   {
+    "id": "octillery",
     "num": 224,
     "name": "Octillery",
     "types": [
@@ -9204,6 +9501,7 @@
     ]
   },
   {
+    "id": "delibird",
     "num": 225,
     "name": "Delibird",
     "types": [
@@ -9232,6 +9530,7 @@
     ]
   },
   {
+    "id": "mantine",
     "num": 226,
     "name": "Mantine",
     "types": [
@@ -9263,6 +9562,7 @@
     "canHatch": true
   },
   {
+    "id": "skarmory",
     "num": 227,
     "name": "Skarmory",
     "types": [
@@ -9290,6 +9590,7 @@
     ]
   },
   {
+    "id": "houndour",
     "num": 228,
     "name": "Houndour",
     "types": [
@@ -9320,6 +9621,7 @@
     ]
   },
   {
+    "id": "houndoom",
     "num": 229,
     "name": "Houndoom",
     "types": [
@@ -9352,6 +9654,7 @@
     ]
   },
   {
+    "id": "houndoommega",
     "num": 229,
     "name": "Houndoom-Mega",
     "baseSpecies": "Houndoom",
@@ -9380,6 +9683,7 @@
     "requiredItem": "Houndoominite"
   },
   {
+    "id": "kingdra",
     "num": 230,
     "name": "Kingdra",
     "types": [
@@ -9411,6 +9715,7 @@
     ]
   },
   {
+    "id": "phanpy",
     "num": 231,
     "name": "Phanpy",
     "types": [
@@ -9439,6 +9744,7 @@
     ]
   },
   {
+    "id": "donphan",
     "num": 232,
     "name": "Donphan",
     "types": [
@@ -9466,6 +9772,7 @@
     ]
   },
   {
+    "id": "porygon2",
     "num": 233,
     "name": "Porygon2",
     "types": [
@@ -9499,6 +9806,7 @@
     ]
   },
   {
+    "id": "stantler",
     "num": 234,
     "name": "Stantler",
     "types": [
@@ -9525,6 +9833,7 @@
     ]
   },
   {
+    "id": "smeargle",
     "num": 235,
     "name": "Smeargle",
     "types": [
@@ -9551,6 +9860,7 @@
     ]
   },
   {
+    "id": "tyrogue",
     "num": 236,
     "name": "Tyrogue",
     "types": [
@@ -9584,6 +9894,7 @@
     "canHatch": true
   },
   {
+    "id": "hitmontop",
     "num": 237,
     "name": "Hitmontop",
     "types": [
@@ -9613,6 +9924,7 @@
     ]
   },
   {
+    "id": "smoochum",
     "num": 238,
     "name": "Smoochum",
     "types": [
@@ -9645,6 +9957,7 @@
     "canHatch": true
   },
   {
+    "id": "elekid",
     "num": 239,
     "name": "Elekid",
     "types": [
@@ -9678,6 +9991,7 @@
     "canHatch": true
   },
   {
+    "id": "magby",
     "num": 240,
     "name": "Magby",
     "types": [
@@ -9711,6 +10025,7 @@
     "canHatch": true
   },
   {
+    "id": "miltank",
     "num": 241,
     "name": "Miltank",
     "types": [
@@ -9738,6 +10053,7 @@
     ]
   },
   {
+    "id": "blissey",
     "num": 242,
     "name": "Blissey",
     "types": [
@@ -9767,6 +10083,7 @@
     ]
   },
   {
+    "id": "raikou",
     "num": 243,
     "name": "Raikou",
     "types": [
@@ -9793,6 +10110,7 @@
     ]
   },
   {
+    "id": "entei",
     "num": 244,
     "name": "Entei",
     "types": [
@@ -9819,6 +10137,7 @@
     ]
   },
   {
+    "id": "suicune",
     "num": 245,
     "name": "Suicune",
     "types": [
@@ -9845,6 +10164,7 @@
     ]
   },
   {
+    "id": "larvitar",
     "num": 246,
     "name": "Larvitar",
     "types": [
@@ -9874,6 +10194,7 @@
     ]
   },
   {
+    "id": "pupitar",
     "num": 247,
     "name": "Pupitar",
     "types": [
@@ -9904,6 +10225,7 @@
     ]
   },
   {
+    "id": "tyranitar",
     "num": 248,
     "name": "Tyranitar",
     "types": [
@@ -9935,6 +10257,7 @@
     ]
   },
   {
+    "id": "tyranitarmega",
     "num": 248,
     "name": "Tyranitar-Mega",
     "baseSpecies": "Tyranitar",
@@ -9963,6 +10286,7 @@
     "requiredItem": "Tyranitarite"
   },
   {
+    "id": "lugia",
     "num": 249,
     "name": "Lugia",
     "types": [
@@ -9990,6 +10314,7 @@
     ]
   },
   {
+    "id": "hooh",
     "num": 250,
     "name": "Ho-Oh",
     "types": [
@@ -10017,6 +10342,7 @@
     ]
   },
   {
+    "id": "celebi",
     "num": 251,
     "name": "Celebi",
     "types": [
@@ -10043,6 +10369,7 @@
     ]
   },
   {
+    "id": "treecko",
     "num": 252,
     "name": "Treecko",
     "types": [
@@ -10076,6 +10403,7 @@
     ]
   },
   {
+    "id": "grovyle",
     "num": 253,
     "name": "Grovyle",
     "types": [
@@ -10111,6 +10439,7 @@
     ]
   },
   {
+    "id": "sceptile",
     "num": 254,
     "name": "Sceptile",
     "types": [
@@ -10146,6 +10475,7 @@
     ]
   },
   {
+    "id": "sceptilemega",
     "num": 254,
     "name": "Sceptile-Mega",
     "baseSpecies": "Sceptile",
@@ -10179,6 +10509,7 @@
     "requiredItem": "Sceptilite"
   },
   {
+    "id": "torchic",
     "num": 255,
     "name": "Torchic",
     "types": [
@@ -10211,6 +10542,7 @@
     ]
   },
   {
+    "id": "combusken",
     "num": 256,
     "name": "Combusken",
     "types": [
@@ -10246,6 +10578,7 @@
     ]
   },
   {
+    "id": "blaziken",
     "num": 257,
     "name": "Blaziken",
     "types": [
@@ -10281,6 +10614,7 @@
     ]
   },
   {
+    "id": "blazikenmega",
     "num": 257,
     "name": "Blaziken-Mega",
     "baseSpecies": "Blaziken",
@@ -10313,6 +10647,7 @@
     "requiredItem": "Blazikenite"
   },
   {
+    "id": "mudkip",
     "num": 258,
     "name": "Mudkip",
     "types": [
@@ -10346,6 +10681,7 @@
     ]
   },
   {
+    "id": "marshtomp",
     "num": 259,
     "name": "Marshtomp",
     "types": [
@@ -10382,6 +10718,7 @@
     ]
   },
   {
+    "id": "swampert",
     "num": 260,
     "name": "Swampert",
     "types": [
@@ -10418,6 +10755,7 @@
     ]
   },
   {
+    "id": "swampertmega",
     "num": 260,
     "name": "Swampert-Mega",
     "baseSpecies": "Swampert",
@@ -10451,6 +10789,7 @@
     "requiredItem": "Swampertite"
   },
   {
+    "id": "poochyena",
     "num": 261,
     "name": "Poochyena",
     "types": [
@@ -10480,6 +10819,7 @@
     ]
   },
   {
+    "id": "mightyena",
     "num": 262,
     "name": "Mightyena",
     "types": [
@@ -10508,6 +10848,7 @@
     ]
   },
   {
+    "id": "zigzagoon",
     "num": 263,
     "name": "Zigzagoon",
     "types": [
@@ -10540,6 +10881,7 @@
     ]
   },
   {
+    "id": "zigzagoongalar",
     "num": 263,
     "name": "Zigzagoon-Galar",
     "baseSpecies": "Zigzagoon",
@@ -10572,6 +10914,7 @@
     ]
   },
   {
+    "id": "linoone",
     "num": 264,
     "name": "Linoone",
     "types": [
@@ -10603,6 +10946,7 @@
     ]
   },
   {
+    "id": "linoonegalar",
     "num": 264,
     "name": "Linoone-Galar",
     "baseSpecies": "Linoone",
@@ -10637,6 +10981,7 @@
     ]
   },
   {
+    "id": "wurmple",
     "num": 265,
     "name": "Wurmple",
     "types": [
@@ -10666,6 +11011,7 @@
     ]
   },
   {
+    "id": "silcoon",
     "num": 266,
     "name": "Silcoon",
     "types": [
@@ -10695,6 +11041,7 @@
     ]
   },
   {
+    "id": "beautifly",
     "num": 267,
     "name": "Beautifly",
     "types": [
@@ -10723,6 +11070,7 @@
     ]
   },
   {
+    "id": "cascoon",
     "num": 268,
     "name": "Cascoon",
     "types": [
@@ -10752,6 +11100,7 @@
     ]
   },
   {
+    "id": "dustox",
     "num": 269,
     "name": "Dustox",
     "types": [
@@ -10780,6 +11129,7 @@
     ]
   },
   {
+    "id": "lotad",
     "num": 270,
     "name": "Lotad",
     "types": [
@@ -10811,6 +11161,7 @@
     ]
   },
   {
+    "id": "lombre",
     "num": 271,
     "name": "Lombre",
     "types": [
@@ -10844,6 +11195,7 @@
     ]
   },
   {
+    "id": "ludicolo",
     "num": 272,
     "name": "Ludicolo",
     "types": [
@@ -10875,6 +11227,7 @@
     ]
   },
   {
+    "id": "seedot",
     "num": 273,
     "name": "Seedot",
     "types": [
@@ -10905,6 +11258,7 @@
     ]
   },
   {
+    "id": "nuzleaf",
     "num": 274,
     "name": "Nuzleaf",
     "types": [
@@ -10938,6 +11292,7 @@
     ]
   },
   {
+    "id": "shiftry",
     "num": 275,
     "name": "Shiftry",
     "types": [
@@ -10969,6 +11324,7 @@
     ]
   },
   {
+    "id": "taillow",
     "num": 276,
     "name": "Taillow",
     "types": [
@@ -10998,6 +11354,7 @@
     ]
   },
   {
+    "id": "swellow",
     "num": 277,
     "name": "Swellow",
     "types": [
@@ -11026,6 +11383,7 @@
     ]
   },
   {
+    "id": "wingull",
     "num": 278,
     "name": "Wingull",
     "types": [
@@ -11057,6 +11415,7 @@
     ]
   },
   {
+    "id": "pelipper",
     "num": 279,
     "name": "Pelipper",
     "types": [
@@ -11087,6 +11446,7 @@
     ]
   },
   {
+    "id": "ralts",
     "num": 280,
     "name": "Ralts",
     "types": [
@@ -11118,6 +11478,7 @@
     ]
   },
   {
+    "id": "kirlia",
     "num": 281,
     "name": "Kirlia",
     "types": [
@@ -11152,6 +11513,7 @@
     ]
   },
   {
+    "id": "gardevoir",
     "num": 282,
     "name": "Gardevoir",
     "types": [
@@ -11185,6 +11547,7 @@
     ]
   },
   {
+    "id": "gardevoirmega",
     "num": 282,
     "name": "Gardevoir-Mega",
     "baseSpecies": "Gardevoir",
@@ -11213,6 +11576,7 @@
     "requiredItem": "Gardevoirite"
   },
   {
+    "id": "surskit",
     "num": 283,
     "name": "Surskit",
     "types": [
@@ -11243,6 +11607,7 @@
     ]
   },
   {
+    "id": "masquerain",
     "num": 284,
     "name": "Masquerain",
     "types": [
@@ -11272,6 +11637,7 @@
     ]
   },
   {
+    "id": "shroomish",
     "num": 285,
     "name": "Shroomish",
     "types": [
@@ -11302,6 +11668,7 @@
     ]
   },
   {
+    "id": "breloom",
     "num": 286,
     "name": "Breloom",
     "types": [
@@ -11332,6 +11699,7 @@
     ]
   },
   {
+    "id": "slakoth",
     "num": 287,
     "name": "Slakoth",
     "types": [
@@ -11359,6 +11727,7 @@
     ]
   },
   {
+    "id": "vigoroth",
     "num": 288,
     "name": "Vigoroth",
     "types": [
@@ -11388,6 +11757,7 @@
     ]
   },
   {
+    "id": "slaking",
     "num": 289,
     "name": "Slaking",
     "types": [
@@ -11414,6 +11784,7 @@
     ]
   },
   {
+    "id": "nincada",
     "num": 290,
     "name": "Nincada",
     "types": [
@@ -11444,6 +11815,7 @@
     ]
   },
   {
+    "id": "ninjask",
     "num": 291,
     "name": "Ninjask",
     "types": [
@@ -11472,6 +11844,7 @@
     ]
   },
   {
+    "id": "shedinja",
     "num": 292,
     "name": "Shedinja",
     "types": [
@@ -11501,6 +11874,7 @@
     ]
   },
   {
+    "id": "whismur",
     "num": 293,
     "name": "Whismur",
     "types": [
@@ -11530,6 +11904,7 @@
     ]
   },
   {
+    "id": "loudred",
     "num": 294,
     "name": "Loudred",
     "types": [
@@ -11561,6 +11936,7 @@
     ]
   },
   {
+    "id": "exploud",
     "num": 295,
     "name": "Exploud",
     "types": [
@@ -11589,6 +11965,7 @@
     ]
   },
   {
+    "id": "makuhita",
     "num": 296,
     "name": "Makuhita",
     "types": [
@@ -11622,6 +11999,7 @@
     ]
   },
   {
+    "id": "hariyama",
     "num": 297,
     "name": "Hariyama",
     "types": [
@@ -11654,6 +12032,7 @@
     ]
   },
   {
+    "id": "azurill",
     "num": 298,
     "name": "Azurill",
     "types": [
@@ -11689,6 +12068,7 @@
     "canHatch": true
   },
   {
+    "id": "nosepass",
     "num": 299,
     "name": "Nosepass",
     "types": [
@@ -11718,6 +12098,7 @@
     ]
   },
   {
+    "id": "skitty",
     "num": 300,
     "name": "Skitty",
     "types": [
@@ -11752,6 +12133,7 @@
     ]
   },
   {
+    "id": "delcatty",
     "num": 301,
     "name": "Delcatty",
     "types": [
@@ -11786,6 +12168,7 @@
     ]
   },
   {
+    "id": "sableye",
     "num": 302,
     "name": "Sableye",
     "types": [
@@ -11816,6 +12199,7 @@
     ]
   },
   {
+    "id": "sableyemega",
     "num": 302,
     "name": "Sableye-Mega",
     "baseSpecies": "Sableye",
@@ -11844,6 +12228,7 @@
     "requiredItem": "Sablenite"
   },
   {
+    "id": "mawile",
     "num": 303,
     "name": "Mawile",
     "types": [
@@ -11875,6 +12260,7 @@
     ]
   },
   {
+    "id": "mawilemega",
     "num": 303,
     "name": "Mawile-Mega",
     "baseSpecies": "Mawile",
@@ -11904,6 +12290,7 @@
     "requiredItem": "Mawilite"
   },
   {
+    "id": "aron",
     "num": 304,
     "name": "Aron",
     "types": [
@@ -11934,6 +12321,7 @@
     ]
   },
   {
+    "id": "lairon",
     "num": 305,
     "name": "Lairon",
     "types": [
@@ -11966,6 +12354,7 @@
     ]
   },
   {
+    "id": "aggron",
     "num": 306,
     "name": "Aggron",
     "types": [
@@ -11998,6 +12387,7 @@
     ]
   },
   {
+    "id": "aggronmega",
     "num": 306,
     "name": "Aggron-Mega",
     "baseSpecies": "Aggron",
@@ -12025,6 +12415,7 @@
     "requiredItem": "Aggronite"
   },
   {
+    "id": "meditite",
     "num": 307,
     "name": "Meditite",
     "types": [
@@ -12054,6 +12445,7 @@
     ]
   },
   {
+    "id": "medicham",
     "num": 308,
     "name": "Medicham",
     "types": [
@@ -12085,6 +12477,7 @@
     ]
   },
   {
+    "id": "medichammega",
     "num": 308,
     "name": "Medicham-Mega",
     "baseSpecies": "Medicham",
@@ -12113,6 +12506,7 @@
     "requiredItem": "Medichamite"
   },
   {
+    "id": "electrike",
     "num": 309,
     "name": "Electrike",
     "types": [
@@ -12142,6 +12536,7 @@
     ]
   },
   {
+    "id": "manectric",
     "num": 310,
     "name": "Manectric",
     "types": [
@@ -12173,6 +12568,7 @@
     ]
   },
   {
+    "id": "manectricmega",
     "num": 310,
     "name": "Manectric-Mega",
     "baseSpecies": "Manectric",
@@ -12200,6 +12596,7 @@
     "requiredItem": "Manectite"
   },
   {
+    "id": "plusle",
     "num": 311,
     "name": "Plusle",
     "types": [
@@ -12225,6 +12622,7 @@
     ]
   },
   {
+    "id": "minun",
     "num": 312,
     "name": "Minun",
     "types": [
@@ -12250,6 +12648,7 @@
     ]
   },
   {
+    "id": "volbeat",
     "num": 313,
     "name": "Volbeat",
     "types": [
@@ -12278,6 +12677,7 @@
     ]
   },
   {
+    "id": "illumise",
     "num": 314,
     "name": "Illumise",
     "types": [
@@ -12306,6 +12706,7 @@
     ]
   },
   {
+    "id": "roselia",
     "num": 315,
     "name": "Roselia",
     "types": [
@@ -12341,6 +12742,7 @@
     "canHatch": true
   },
   {
+    "id": "gulpin",
     "num": 316,
     "name": "Gulpin",
     "types": [
@@ -12370,6 +12772,7 @@
     ]
   },
   {
+    "id": "swalot",
     "num": 317,
     "name": "Swalot",
     "types": [
@@ -12398,6 +12801,7 @@
     ]
   },
   {
+    "id": "carvanha",
     "num": 318,
     "name": "Carvanha",
     "types": [
@@ -12427,6 +12831,7 @@
     ]
   },
   {
+    "id": "sharpedo",
     "num": 319,
     "name": "Sharpedo",
     "types": [
@@ -12458,6 +12863,7 @@
     ]
   },
   {
+    "id": "sharpedomega",
     "num": 319,
     "name": "Sharpedo-Mega",
     "baseSpecies": "Sharpedo",
@@ -12486,6 +12892,7 @@
     "requiredItem": "Sharpedonite"
   },
   {
+    "id": "wailmer",
     "num": 320,
     "name": "Wailmer",
     "types": [
@@ -12516,6 +12923,7 @@
     ]
   },
   {
+    "id": "wailord",
     "num": 321,
     "name": "Wailord",
     "types": [
@@ -12545,6 +12953,7 @@
     ]
   },
   {
+    "id": "numel",
     "num": 322,
     "name": "Numel",
     "types": [
@@ -12575,6 +12984,7 @@
     ]
   },
   {
+    "id": "camerupt",
     "num": 323,
     "name": "Camerupt",
     "types": [
@@ -12607,6 +13017,7 @@
     ]
   },
   {
+    "id": "cameruptmega",
     "num": 323,
     "name": "Camerupt-Mega",
     "baseSpecies": "Camerupt",
@@ -12635,6 +13046,7 @@
     "requiredItem": "Cameruptite"
   },
   {
+    "id": "torkoal",
     "num": 324,
     "name": "Torkoal",
     "types": [
@@ -12661,6 +13073,7 @@
     ]
   },
   {
+    "id": "spoink",
     "num": 325,
     "name": "Spoink",
     "types": [
@@ -12690,6 +13103,7 @@
     ]
   },
   {
+    "id": "grumpig",
     "num": 326,
     "name": "Grumpig",
     "types": [
@@ -12718,6 +13132,7 @@
     ]
   },
   {
+    "id": "spinda",
     "num": 327,
     "name": "Spinda",
     "types": [
@@ -12745,6 +13160,7 @@
     ]
   },
   {
+    "id": "trapinch",
     "num": 328,
     "name": "Trapinch",
     "types": [
@@ -12775,6 +13191,7 @@
     ]
   },
   {
+    "id": "vibrava",
     "num": 329,
     "name": "Vibrava",
     "types": [
@@ -12806,6 +13223,7 @@
     ]
   },
   {
+    "id": "flygon",
     "num": 330,
     "name": "Flygon",
     "types": [
@@ -12834,6 +13252,7 @@
     ]
   },
   {
+    "id": "cacnea",
     "num": 331,
     "name": "Cacnea",
     "types": [
@@ -12863,6 +13282,7 @@
     ]
   },
   {
+    "id": "cacturne",
     "num": 332,
     "name": "Cacturne",
     "types": [
@@ -12892,6 +13312,7 @@
     ]
   },
   {
+    "id": "swablu",
     "num": 333,
     "name": "Swablu",
     "types": [
@@ -12922,6 +13343,7 @@
     ]
   },
   {
+    "id": "altaria",
     "num": 334,
     "name": "Altaria",
     "types": [
@@ -12954,6 +13376,7 @@
     ]
   },
   {
+    "id": "altariamega",
     "num": 334,
     "name": "Altaria-Mega",
     "baseSpecies": "Altaria",
@@ -12983,6 +13406,7 @@
     "requiredItem": "Altarianite"
   },
   {
+    "id": "zangoose",
     "num": 335,
     "name": "Zangoose",
     "types": [
@@ -13008,6 +13432,7 @@
     ]
   },
   {
+    "id": "seviper",
     "num": 336,
     "name": "Seviper",
     "types": [
@@ -13034,6 +13459,7 @@
     ]
   },
   {
+    "id": "lunatone",
     "num": 337,
     "name": "Lunatone",
     "types": [
@@ -13060,6 +13486,7 @@
     ]
   },
   {
+    "id": "solrock",
     "num": 338,
     "name": "Solrock",
     "types": [
@@ -13086,6 +13513,7 @@
     ]
   },
   {
+    "id": "barboach",
     "num": 339,
     "name": "Barboach",
     "types": [
@@ -13116,6 +13544,7 @@
     ]
   },
   {
+    "id": "whiscash",
     "num": 340,
     "name": "Whiscash",
     "types": [
@@ -13145,6 +13574,7 @@
     ]
   },
   {
+    "id": "corphish",
     "num": 341,
     "name": "Corphish",
     "types": [
@@ -13175,6 +13605,7 @@
     ]
   },
   {
+    "id": "crawdaunt",
     "num": 342,
     "name": "Crawdaunt",
     "types": [
@@ -13205,6 +13636,7 @@
     ]
   },
   {
+    "id": "baltoy",
     "num": 343,
     "name": "Baltoy",
     "types": [
@@ -13234,6 +13666,7 @@
     ]
   },
   {
+    "id": "claydol",
     "num": 344,
     "name": "Claydol",
     "types": [
@@ -13262,6 +13695,7 @@
     ]
   },
   {
+    "id": "lileep",
     "num": 345,
     "name": "Lileep",
     "types": [
@@ -13295,6 +13729,7 @@
     ]
   },
   {
+    "id": "cradily",
     "num": 346,
     "name": "Cradily",
     "types": [
@@ -13327,6 +13762,7 @@
     ]
   },
   {
+    "id": "anorith",
     "num": 347,
     "name": "Anorith",
     "types": [
@@ -13360,6 +13796,7 @@
     ]
   },
   {
+    "id": "armaldo",
     "num": 348,
     "name": "Armaldo",
     "types": [
@@ -13392,6 +13829,7 @@
     ]
   },
   {
+    "id": "feebas",
     "num": 349,
     "name": "Feebas",
     "types": [
@@ -13422,6 +13860,7 @@
     ]
   },
   {
+    "id": "milotic",
     "num": 350,
     "name": "Milotic",
     "types": [
@@ -13452,6 +13891,7 @@
     ]
   },
   {
+    "id": "castform",
     "num": 351,
     "name": "Castform",
     "types": [
@@ -13482,6 +13922,7 @@
     ]
   },
   {
+    "id": "castformsunny",
     "num": 351,
     "name": "Castform-Sunny",
     "baseSpecies": "Castform",
@@ -13511,6 +13952,7 @@
     "battleOnly": "Castform"
   },
   {
+    "id": "castformrainy",
     "num": 351,
     "name": "Castform-Rainy",
     "baseSpecies": "Castform",
@@ -13540,6 +13982,7 @@
     "battleOnly": "Castform"
   },
   {
+    "id": "castformsnowy",
     "num": 351,
     "name": "Castform-Snowy",
     "baseSpecies": "Castform",
@@ -13569,6 +14012,7 @@
     "battleOnly": "Castform"
   },
   {
+    "id": "kecleon",
     "num": 352,
     "name": "Kecleon",
     "types": [
@@ -13594,6 +14038,7 @@
     ]
   },
   {
+    "id": "shuppet",
     "num": 353,
     "name": "Shuppet",
     "types": [
@@ -13623,6 +14068,7 @@
     ]
   },
   {
+    "id": "banette",
     "num": 354,
     "name": "Banette",
     "types": [
@@ -13654,6 +14100,7 @@
     ]
   },
   {
+    "id": "banettemega",
     "num": 354,
     "name": "Banette-Mega",
     "baseSpecies": "Banette",
@@ -13681,6 +14128,7 @@
     "requiredItem": "Banettite"
   },
   {
+    "id": "duskull",
     "num": 355,
     "name": "Duskull",
     "types": [
@@ -13709,6 +14157,7 @@
     ]
   },
   {
+    "id": "dusclops",
     "num": 356,
     "name": "Dusclops",
     "types": [
@@ -13739,6 +14188,7 @@
     ]
   },
   {
+    "id": "tropius",
     "num": 357,
     "name": "Tropius",
     "types": [
@@ -13767,6 +14217,7 @@
     ]
   },
   {
+    "id": "chimecho",
     "num": 358,
     "name": "Chimecho",
     "types": [
@@ -13795,6 +14246,7 @@
     "canHatch": true
   },
   {
+    "id": "absol",
     "num": 359,
     "name": "Absol",
     "types": [
@@ -13824,6 +14276,7 @@
     ]
   },
   {
+    "id": "absolmega",
     "num": 359,
     "name": "Absol-Mega",
     "baseSpecies": "Absol",
@@ -13851,6 +14304,7 @@
     "requiredItem": "Absolite"
   },
   {
+    "id": "wynaut",
     "num": 360,
     "name": "Wynaut",
     "types": [
@@ -13880,6 +14334,7 @@
     "canHatch": true
   },
   {
+    "id": "snorunt",
     "num": 361,
     "name": "Snorunt",
     "types": [
@@ -13911,6 +14366,7 @@
     ]
   },
   {
+    "id": "glalie",
     "num": 362,
     "name": "Glalie",
     "types": [
@@ -13943,6 +14399,7 @@
     ]
   },
   {
+    "id": "glaliemega",
     "num": 362,
     "name": "Glalie-Mega",
     "baseSpecies": "Glalie",
@@ -13971,6 +14428,7 @@
     "requiredItem": "Glalitite"
   },
   {
+    "id": "spheal",
     "num": 363,
     "name": "Spheal",
     "types": [
@@ -14002,6 +14460,7 @@
     ]
   },
   {
+    "id": "sealeo",
     "num": 364,
     "name": "Sealeo",
     "types": [
@@ -14035,6 +14494,7 @@
     ]
   },
   {
+    "id": "walrein",
     "num": 365,
     "name": "Walrein",
     "types": [
@@ -14065,6 +14525,7 @@
     ]
   },
   {
+    "id": "clamperl",
     "num": 366,
     "name": "Clamperl",
     "types": [
@@ -14094,6 +14555,7 @@
     ]
   },
   {
+    "id": "huntail",
     "num": 367,
     "name": "Huntail",
     "types": [
@@ -14122,6 +14584,7 @@
     ]
   },
   {
+    "id": "gorebyss",
     "num": 368,
     "name": "Gorebyss",
     "types": [
@@ -14150,6 +14613,7 @@
     ]
   },
   {
+    "id": "relicanth",
     "num": 369,
     "name": "Relicanth",
     "types": [
@@ -14182,6 +14646,7 @@
     ]
   },
   {
+    "id": "luvdisc",
     "num": 370,
     "name": "Luvdisc",
     "types": [
@@ -14211,6 +14676,7 @@
     ]
   },
   {
+    "id": "bagon",
     "num": 371,
     "name": "Bagon",
     "types": [
@@ -14239,6 +14705,7 @@
     ]
   },
   {
+    "id": "shelgon",
     "num": 372,
     "name": "Shelgon",
     "types": [
@@ -14269,6 +14736,7 @@
     ]
   },
   {
+    "id": "salamence",
     "num": 373,
     "name": "Salamence",
     "types": [
@@ -14300,6 +14768,7 @@
     ]
   },
   {
+    "id": "salamencemega",
     "num": 373,
     "name": "Salamence-Mega",
     "baseSpecies": "Salamence",
@@ -14328,6 +14797,7 @@
     "requiredItem": "Salamencite"
   },
   {
+    "id": "beldum",
     "num": 374,
     "name": "Beldum",
     "types": [
@@ -14358,6 +14828,7 @@
     ]
   },
   {
+    "id": "metang",
     "num": 375,
     "name": "Metang",
     "types": [
@@ -14390,6 +14861,7 @@
     ]
   },
   {
+    "id": "metagross",
     "num": 376,
     "name": "Metagross",
     "types": [
@@ -14422,6 +14894,7 @@
     ]
   },
   {
+    "id": "metagrossmega",
     "num": 376,
     "name": "Metagross-Mega",
     "baseSpecies": "Metagross",
@@ -14451,6 +14924,7 @@
     "requiredItem": "Metagrossite"
   },
   {
+    "id": "regirock",
     "num": 377,
     "name": "Regirock",
     "types": [
@@ -14477,6 +14951,7 @@
     ]
   },
   {
+    "id": "regice",
     "num": 378,
     "name": "Regice",
     "types": [
@@ -14503,6 +14978,7 @@
     ]
   },
   {
+    "id": "registeel",
     "num": 379,
     "name": "Registeel",
     "types": [
@@ -14529,6 +15005,7 @@
     ]
   },
   {
+    "id": "latias",
     "num": 380,
     "name": "Latias",
     "types": [
@@ -14558,6 +15035,7 @@
     ]
   },
   {
+    "id": "latiasmega",
     "num": 380,
     "name": "Latias-Mega",
     "baseSpecies": "Latias",
@@ -14587,6 +15065,7 @@
     "requiredItem": "Latiasite"
   },
   {
+    "id": "latios",
     "num": 381,
     "name": "Latios",
     "types": [
@@ -14616,6 +15095,7 @@
     ]
   },
   {
+    "id": "latiosmega",
     "num": 381,
     "name": "Latios-Mega",
     "baseSpecies": "Latios",
@@ -14645,6 +15125,7 @@
     "requiredItem": "Latiosite"
   },
   {
+    "id": "kyogre",
     "num": 382,
     "name": "Kyogre",
     "types": [
@@ -14673,6 +15154,7 @@
     ]
   },
   {
+    "id": "kyogreprimal",
     "num": 382,
     "name": "Kyogre-Primal",
     "baseSpecies": "Kyogre",
@@ -14701,6 +15183,7 @@
     "requiredItem": "Blue Orb"
   },
   {
+    "id": "groudon",
     "num": 383,
     "name": "Groudon",
     "types": [
@@ -14729,6 +15212,7 @@
     ]
   },
   {
+    "id": "groudonprimal",
     "num": 383,
     "name": "Groudon-Primal",
     "baseSpecies": "Groudon",
@@ -14758,6 +15242,7 @@
     "requiredItem": "Red Orb"
   },
   {
+    "id": "rayquaza",
     "num": 384,
     "name": "Rayquaza",
     "types": [
@@ -14787,6 +15272,7 @@
     ]
   },
   {
+    "id": "rayquazamega",
     "num": 384,
     "name": "Rayquaza-Mega",
     "baseSpecies": "Rayquaza",
@@ -14816,6 +15302,7 @@
     "requiredMove": "Dragon Ascent"
   },
   {
+    "id": "jirachi",
     "num": 385,
     "name": "Jirachi",
     "types": [
@@ -14842,6 +15329,7 @@
     ]
   },
   {
+    "id": "deoxys",
     "num": 386,
     "name": "Deoxys",
     "baseForme": "Normal",
@@ -14873,6 +15361,7 @@
     ]
   },
   {
+    "id": "deoxysattack",
     "num": 386,
     "name": "Deoxys-Attack",
     "baseSpecies": "Deoxys",
@@ -14901,6 +15390,7 @@
     "inheritsFrom": "deoxys"
   },
   {
+    "id": "deoxysdefense",
     "num": 386,
     "name": "Deoxys-Defense",
     "baseSpecies": "Deoxys",
@@ -14929,6 +15419,7 @@
     "inheritsFrom": "deoxys"
   },
   {
+    "id": "deoxysspeed",
     "num": 386,
     "name": "Deoxys-Speed",
     "baseSpecies": "Deoxys",
@@ -14957,6 +15448,7 @@
     "inheritsFrom": "deoxys"
   },
   {
+    "id": "turtwig",
     "num": 387,
     "name": "Turtwig",
     "types": [
@@ -14990,6 +15482,7 @@
     ]
   },
   {
+    "id": "grotle",
     "num": 388,
     "name": "Grotle",
     "types": [
@@ -15025,6 +15518,7 @@
     ]
   },
   {
+    "id": "torterra",
     "num": 389,
     "name": "Torterra",
     "types": [
@@ -15058,6 +15552,7 @@
     ]
   },
   {
+    "id": "chimchar",
     "num": 390,
     "name": "Chimchar",
     "types": [
@@ -15091,6 +15586,7 @@
     ]
   },
   {
+    "id": "monferno",
     "num": 391,
     "name": "Monferno",
     "types": [
@@ -15127,6 +15623,7 @@
     ]
   },
   {
+    "id": "infernape",
     "num": 392,
     "name": "Infernape",
     "types": [
@@ -15160,6 +15657,7 @@
     ]
   },
   {
+    "id": "piplup",
     "num": 393,
     "name": "Piplup",
     "types": [
@@ -15193,6 +15691,7 @@
     ]
   },
   {
+    "id": "prinplup",
     "num": 394,
     "name": "Prinplup",
     "types": [
@@ -15228,6 +15727,7 @@
     ]
   },
   {
+    "id": "empoleon",
     "num": 395,
     "name": "Empoleon",
     "types": [
@@ -15261,6 +15761,7 @@
     ]
   },
   {
+    "id": "starly",
     "num": 396,
     "name": "Starly",
     "types": [
@@ -15290,6 +15791,7 @@
     ]
   },
   {
+    "id": "staravia",
     "num": 397,
     "name": "Staravia",
     "types": [
@@ -15321,6 +15823,7 @@
     ]
   },
   {
+    "id": "staraptor",
     "num": 398,
     "name": "Staraptor",
     "types": [
@@ -15349,6 +15852,7 @@
     ]
   },
   {
+    "id": "bidoof",
     "num": 399,
     "name": "Bidoof",
     "types": [
@@ -15379,6 +15883,7 @@
     ]
   },
   {
+    "id": "bibarel",
     "num": 400,
     "name": "Bibarel",
     "types": [
@@ -15409,6 +15914,7 @@
     ]
   },
   {
+    "id": "kricketot",
     "num": 401,
     "name": "Kricketot",
     "types": [
@@ -15437,6 +15943,7 @@
     ]
   },
   {
+    "id": "kricketune",
     "num": 402,
     "name": "Kricketune",
     "types": [
@@ -15464,6 +15971,7 @@
     ]
   },
   {
+    "id": "shinx",
     "num": 403,
     "name": "Shinx",
     "types": [
@@ -15493,6 +16001,7 @@
     ]
   },
   {
+    "id": "luxio",
     "num": 404,
     "name": "Luxio",
     "types": [
@@ -15524,6 +16033,7 @@
     ]
   },
   {
+    "id": "luxray",
     "num": 405,
     "name": "Luxray",
     "types": [
@@ -15552,6 +16062,7 @@
     ]
   },
   {
+    "id": "budew",
     "num": 406,
     "name": "Budew",
     "types": [
@@ -15583,6 +16094,7 @@
     "canHatch": true
   },
   {
+    "id": "roserade",
     "num": 407,
     "name": "Roserade",
     "types": [
@@ -15614,6 +16126,7 @@
     ]
   },
   {
+    "id": "cranidos",
     "num": 408,
     "name": "Cranidos",
     "types": [
@@ -15646,6 +16159,7 @@
     ]
   },
   {
+    "id": "rampardos",
     "num": 409,
     "name": "Rampardos",
     "types": [
@@ -15677,6 +16191,7 @@
     ]
   },
   {
+    "id": "shieldon",
     "num": 410,
     "name": "Shieldon",
     "types": [
@@ -15710,6 +16225,7 @@
     ]
   },
   {
+    "id": "bastiodon",
     "num": 411,
     "name": "Bastiodon",
     "types": [
@@ -15742,6 +16258,7 @@
     ]
   },
   {
+    "id": "burmy",
     "num": 412,
     "name": "Burmy",
     "baseForme": "Plant",
@@ -15778,6 +16295,7 @@
     ]
   },
   {
+    "id": "wormadam",
     "num": 413,
     "name": "Wormadam",
     "baseForme": "Plant",
@@ -15812,6 +16330,7 @@
     ]
   },
   {
+    "id": "wormadamsandy",
     "num": 413,
     "name": "Wormadam-Sandy",
     "baseSpecies": "Wormadam",
@@ -15843,6 +16362,7 @@
     ]
   },
   {
+    "id": "wormadamtrash",
     "num": 413,
     "name": "Wormadam-Trash",
     "baseSpecies": "Wormadam",
@@ -15874,6 +16394,7 @@
     ]
   },
   {
+    "id": "mothim",
     "num": 414,
     "name": "Mothim",
     "types": [
@@ -15903,6 +16424,7 @@
     ]
   },
   {
+    "id": "combee",
     "num": 415,
     "name": "Combee",
     "types": [
@@ -15936,6 +16458,7 @@
     ]
   },
   {
+    "id": "vespiquen",
     "num": 416,
     "name": "Vespiquen",
     "types": [
@@ -15965,6 +16488,7 @@
     ]
   },
   {
+    "id": "pachirisu",
     "num": 417,
     "name": "Pachirisu",
     "types": [
@@ -15992,6 +16516,7 @@
     ]
   },
   {
+    "id": "buizel",
     "num": 418,
     "name": "Buizel",
     "types": [
@@ -16021,6 +16546,7 @@
     ]
   },
   {
+    "id": "floatzel",
     "num": 419,
     "name": "Floatzel",
     "types": [
@@ -16049,6 +16575,7 @@
     ]
   },
   {
+    "id": "cherubi",
     "num": 420,
     "name": "Cherubi",
     "types": [
@@ -16077,6 +16604,7 @@
     ]
   },
   {
+    "id": "cherrim",
     "num": 421,
     "name": "Cherrim",
     "baseForme": "Overcast",
@@ -16108,6 +16636,7 @@
     ]
   },
   {
+    "id": "cherrimsunshine",
     "num": 421,
     "name": "Cherrim-Sunshine",
     "baseSpecies": "Cherrim",
@@ -16139,6 +16668,7 @@
     "battleOnly": "Cherrim"
   },
   {
+    "id": "shellos",
     "num": 422,
     "name": "Shellos",
     "baseForme": "West",
@@ -16173,6 +16703,7 @@
     ]
   },
   {
+    "id": "gastrodon",
     "num": 423,
     "name": "Gastrodon",
     "baseForme": "West",
@@ -16207,6 +16738,7 @@
     ]
   },
   {
+    "id": "ambipom",
     "num": 424,
     "name": "Ambipom",
     "types": [
@@ -16236,6 +16768,7 @@
     ]
   },
   {
+    "id": "drifloon",
     "num": 425,
     "name": "Drifloon",
     "types": [
@@ -16266,6 +16799,7 @@
     ]
   },
   {
+    "id": "drifblim",
     "num": 426,
     "name": "Drifblim",
     "types": [
@@ -16295,6 +16829,7 @@
     ]
   },
   {
+    "id": "buneary",
     "num": 427,
     "name": "Buneary",
     "types": [
@@ -16325,6 +16860,7 @@
     ]
   },
   {
+    "id": "lopunny",
     "num": 428,
     "name": "Lopunny",
     "types": [
@@ -16357,6 +16893,7 @@
     ]
   },
   {
+    "id": "lopunnymega",
     "num": 428,
     "name": "Lopunny-Mega",
     "baseSpecies": "Lopunny",
@@ -16386,6 +16923,7 @@
     "requiredItem": "Lopunnite"
   },
   {
+    "id": "mismagius",
     "num": 429,
     "name": "Mismagius",
     "types": [
@@ -16413,6 +16951,7 @@
     ]
   },
   {
+    "id": "honchkrow",
     "num": 430,
     "name": "Honchkrow",
     "types": [
@@ -16443,6 +16982,7 @@
     ]
   },
   {
+    "id": "glameow",
     "num": 431,
     "name": "Glameow",
     "types": [
@@ -16476,6 +17016,7 @@
     ]
   },
   {
+    "id": "purugly",
     "num": 432,
     "name": "Purugly",
     "types": [
@@ -16508,6 +17049,7 @@
     ]
   },
   {
+    "id": "chingling",
     "num": 433,
     "name": "Chingling",
     "types": [
@@ -16536,6 +17078,7 @@
     "canHatch": true
   },
   {
+    "id": "stunky",
     "num": 434,
     "name": "Stunky",
     "types": [
@@ -16566,6 +17109,7 @@
     ]
   },
   {
+    "id": "skuntank",
     "num": 435,
     "name": "Skuntank",
     "types": [
@@ -16595,6 +17139,7 @@
     ]
   },
   {
+    "id": "bronzor",
     "num": 436,
     "name": "Bronzor",
     "types": [
@@ -16626,6 +17171,7 @@
     ]
   },
   {
+    "id": "bronzong",
     "num": 437,
     "name": "Bronzong",
     "types": [
@@ -16656,6 +17202,7 @@
     ]
   },
   {
+    "id": "bonsly",
     "num": 438,
     "name": "Bonsly",
     "types": [
@@ -16686,6 +17233,7 @@
     "canHatch": true
   },
   {
+    "id": "mimejr",
     "num": 439,
     "name": "Mime Jr.",
     "types": [
@@ -16718,6 +17266,7 @@
     "canHatch": true
   },
   {
+    "id": "happiny",
     "num": 440,
     "name": "Happiny",
     "types": [
@@ -16749,6 +17298,7 @@
     "canHatch": true
   },
   {
+    "id": "chatot",
     "num": 441,
     "name": "Chatot",
     "types": [
@@ -16776,6 +17326,7 @@
     ]
   },
   {
+    "id": "spiritomb",
     "num": 442,
     "name": "Spiritomb",
     "types": [
@@ -16802,6 +17353,7 @@
     ]
   },
   {
+    "id": "gible",
     "num": 443,
     "name": "Gible",
     "types": [
@@ -16832,6 +17384,7 @@
     ]
   },
   {
+    "id": "gabite",
     "num": 444,
     "name": "Gabite",
     "types": [
@@ -16864,6 +17417,7 @@
     ]
   },
   {
+    "id": "garchomp",
     "num": 445,
     "name": "Garchomp",
     "types": [
@@ -16896,6 +17450,7 @@
     ]
   },
   {
+    "id": "garchompmega",
     "num": 445,
     "name": "Garchomp-Mega",
     "baseSpecies": "Garchomp",
@@ -16925,6 +17480,7 @@
     "requiredItem": "Garchompite"
   },
   {
+    "id": "munchlax",
     "num": 446,
     "name": "Munchlax",
     "types": [
@@ -16959,6 +17515,7 @@
     "canHatch": true
   },
   {
+    "id": "riolu",
     "num": 447,
     "name": "Riolu",
     "types": [
@@ -16993,6 +17550,7 @@
     "canHatch": true
   },
   {
+    "id": "lucario",
     "num": 448,
     "name": "Lucario",
     "types": [
@@ -17031,6 +17589,7 @@
     ]
   },
   {
+    "id": "lucariomega",
     "num": 448,
     "name": "Lucario-Mega",
     "baseSpecies": "Lucario",
@@ -17064,6 +17623,7 @@
     "requiredItem": "Lucarionite"
   },
   {
+    "id": "hippopotas",
     "num": 449,
     "name": "Hippopotas",
     "types": [
@@ -17092,6 +17652,7 @@
     ]
   },
   {
+    "id": "hippowdon",
     "num": 450,
     "name": "Hippowdon",
     "types": [
@@ -17119,6 +17680,7 @@
     ]
   },
   {
+    "id": "skorupi",
     "num": 451,
     "name": "Skorupi",
     "types": [
@@ -17150,6 +17712,7 @@
     ]
   },
   {
+    "id": "drapion",
     "num": 452,
     "name": "Drapion",
     "types": [
@@ -17180,6 +17743,7 @@
     ]
   },
   {
+    "id": "croagunk",
     "num": 453,
     "name": "Croagunk",
     "types": [
@@ -17210,6 +17774,7 @@
     ]
   },
   {
+    "id": "toxicroak",
     "num": 454,
     "name": "Toxicroak",
     "types": [
@@ -17239,6 +17804,7 @@
     ]
   },
   {
+    "id": "carnivine",
     "num": 455,
     "name": "Carnivine",
     "types": [
@@ -17263,6 +17829,7 @@
     ]
   },
   {
+    "id": "finneon",
     "num": 456,
     "name": "Finneon",
     "types": [
@@ -17292,6 +17859,7 @@
     ]
   },
   {
+    "id": "lumineon",
     "num": 457,
     "name": "Lumineon",
     "types": [
@@ -17320,6 +17888,7 @@
     ]
   },
   {
+    "id": "mantyke",
     "num": 458,
     "name": "Mantyke",
     "types": [
@@ -17351,6 +17920,7 @@
     "canHatch": true
   },
   {
+    "id": "snover",
     "num": 459,
     "name": "Snover",
     "types": [
@@ -17381,6 +17951,7 @@
     ]
   },
   {
+    "id": "abomasnow",
     "num": 460,
     "name": "Abomasnow",
     "types": [
@@ -17413,6 +17984,7 @@
     ]
   },
   {
+    "id": "abomasnowmega",
     "num": 460,
     "name": "Abomasnow-Mega",
     "baseSpecies": "Abomasnow",
@@ -17442,6 +18014,7 @@
     "requiredItem": "Abomasite"
   },
   {
+    "id": "weavile",
     "num": 461,
     "name": "Weavile",
     "types": [
@@ -17471,6 +18044,7 @@
     ]
   },
   {
+    "id": "magnezone",
     "num": 462,
     "name": "Magnezone",
     "types": [
@@ -17502,6 +18076,7 @@
     ]
   },
   {
+    "id": "lickilicky",
     "num": 463,
     "name": "Lickilicky",
     "types": [
@@ -17531,6 +18106,7 @@
     ]
   },
   {
+    "id": "rhyperior",
     "num": 464,
     "name": "Rhyperior",
     "types": [
@@ -17562,6 +18138,7 @@
     ]
   },
   {
+    "id": "tangrowth",
     "num": 465,
     "name": "Tangrowth",
     "types": [
@@ -17591,6 +18168,7 @@
     ]
   },
   {
+    "id": "electivire",
     "num": 466,
     "name": "Electivire",
     "types": [
@@ -17623,6 +18201,7 @@
     ]
   },
   {
+    "id": "magmortar",
     "num": 467,
     "name": "Magmortar",
     "types": [
@@ -17655,6 +18234,7 @@
     ]
   },
   {
+    "id": "togekiss",
     "num": 468,
     "name": "Togekiss",
     "types": [
@@ -17690,6 +18270,7 @@
     ]
   },
   {
+    "id": "yanmega",
     "num": 469,
     "name": "Yanmega",
     "types": [
@@ -17720,6 +18301,7 @@
     ]
   },
   {
+    "id": "leafeon",
     "num": 470,
     "name": "Leafeon",
     "types": [
@@ -17752,6 +18334,7 @@
     ]
   },
   {
+    "id": "glaceon",
     "num": 471,
     "name": "Glaceon",
     "types": [
@@ -17784,6 +18367,7 @@
     ]
   },
   {
+    "id": "gliscor",
     "num": 472,
     "name": "Gliscor",
     "types": [
@@ -17815,6 +18399,7 @@
     ]
   },
   {
+    "id": "mamoswine",
     "num": 473,
     "name": "Mamoswine",
     "types": [
@@ -17845,6 +18430,7 @@
     ]
   },
   {
+    "id": "porygonz",
     "num": 474,
     "name": "Porygon-Z",
     "types": [
@@ -17875,6 +18461,7 @@
     ]
   },
   {
+    "id": "gallade",
     "num": 475,
     "name": "Gallade",
     "types": [
@@ -17909,6 +18496,7 @@
     ]
   },
   {
+    "id": "gallademega",
     "num": 475,
     "name": "Gallade-Mega",
     "baseSpecies": "Gallade",
@@ -17938,6 +18526,7 @@
     "requiredItem": "Galladite"
   },
   {
+    "id": "probopass",
     "num": 476,
     "name": "Probopass",
     "types": [
@@ -17968,6 +18557,7 @@
     ]
   },
   {
+    "id": "dusknoir",
     "num": 477,
     "name": "Dusknoir",
     "types": [
@@ -17996,6 +18586,7 @@
     ]
   },
   {
+    "id": "froslass",
     "num": 478,
     "name": "Froslass",
     "types": [
@@ -18027,6 +18618,7 @@
     ]
   },
   {
+    "id": "rotom",
     "num": 479,
     "name": "Rotom",
     "types": [
@@ -18060,6 +18652,7 @@
     ]
   },
   {
+    "id": "rotomheat",
     "num": 479,
     "name": "Rotom-Heat",
     "baseSpecies": "Rotom",
@@ -18089,6 +18682,7 @@
     "inheritsFrom": "rotom"
   },
   {
+    "id": "rotomwash",
     "num": 479,
     "name": "Rotom-Wash",
     "baseSpecies": "Rotom",
@@ -18118,6 +18712,7 @@
     "inheritsFrom": "rotom"
   },
   {
+    "id": "rotomfrost",
     "num": 479,
     "name": "Rotom-Frost",
     "baseSpecies": "Rotom",
@@ -18147,6 +18742,7 @@
     "inheritsFrom": "rotom"
   },
   {
+    "id": "rotomfan",
     "num": 479,
     "name": "Rotom-Fan",
     "baseSpecies": "Rotom",
@@ -18176,6 +18772,7 @@
     "inheritsFrom": "rotom"
   },
   {
+    "id": "rotommow",
     "num": 479,
     "name": "Rotom-Mow",
     "baseSpecies": "Rotom",
@@ -18205,6 +18802,7 @@
     "inheritsFrom": "rotom"
   },
   {
+    "id": "uxie",
     "num": 480,
     "name": "Uxie",
     "types": [
@@ -18230,6 +18828,7 @@
     ]
   },
   {
+    "id": "mesprit",
     "num": 481,
     "name": "Mesprit",
     "types": [
@@ -18255,6 +18854,7 @@
     ]
   },
   {
+    "id": "azelf",
     "num": 482,
     "name": "Azelf",
     "types": [
@@ -18280,6 +18880,7 @@
     ]
   },
   {
+    "id": "dialga",
     "num": 483,
     "name": "Dialga",
     "types": [
@@ -18307,6 +18908,7 @@
     ]
   },
   {
+    "id": "palkia",
     "num": 484,
     "name": "Palkia",
     "types": [
@@ -18334,6 +18936,7 @@
     ]
   },
   {
+    "id": "heatran",
     "num": 485,
     "name": "Heatran",
     "types": [
@@ -18360,6 +18963,7 @@
     ]
   },
   {
+    "id": "regigigas",
     "num": 486,
     "name": "Regigigas",
     "types": [
@@ -18385,6 +18989,7 @@
     ]
   },
   {
+    "id": "giratina",
     "num": 487,
     "name": "Giratina",
     "baseForme": "Altered",
@@ -18416,6 +19021,7 @@
     ]
   },
   {
+    "id": "giratinaorigin",
     "num": 487,
     "name": "Giratina-Origin",
     "baseSpecies": "Giratina",
@@ -18445,6 +19051,7 @@
     "requiredItem": "Griseous Orb"
   },
   {
+    "id": "cresselia",
     "num": 488,
     "name": "Cresselia",
     "types": [
@@ -18470,6 +19077,7 @@
     ]
   },
   {
+    "id": "phione",
     "num": 489,
     "name": "Phione",
     "types": [
@@ -18496,6 +19104,7 @@
     ]
   },
   {
+    "id": "manaphy",
     "num": 490,
     "name": "Manaphy",
     "types": [
@@ -18523,6 +19132,7 @@
     "canHatch": false
   },
   {
+    "id": "darkrai",
     "num": 491,
     "name": "Darkrai",
     "types": [
@@ -18548,6 +19158,7 @@
     ]
   },
   {
+    "id": "shaymin",
     "num": 492,
     "name": "Shaymin",
     "baseForme": "Land",
@@ -18577,6 +19188,7 @@
     ]
   },
   {
+    "id": "shayminsky",
     "num": 492,
     "name": "Shaymin-Sky",
     "baseSpecies": "Shaymin",
@@ -18605,6 +19217,7 @@
     ]
   },
   {
+    "id": "arceus",
     "num": 493,
     "name": "Arceus",
     "baseForme": "Normal",
@@ -18650,6 +19263,7 @@
     ]
   },
   {
+    "id": "arceusbug",
     "num": 493,
     "name": "Arceus-Bug",
     "baseSpecies": "Arceus",
@@ -18681,6 +19295,7 @@
     ]
   },
   {
+    "id": "arceusdark",
     "num": 493,
     "name": "Arceus-Dark",
     "baseSpecies": "Arceus",
@@ -18712,6 +19327,7 @@
     ]
   },
   {
+    "id": "arceusdragon",
     "num": 493,
     "name": "Arceus-Dragon",
     "baseSpecies": "Arceus",
@@ -18743,6 +19359,7 @@
     ]
   },
   {
+    "id": "arceuselectric",
     "num": 493,
     "name": "Arceus-Electric",
     "baseSpecies": "Arceus",
@@ -18774,6 +19391,7 @@
     ]
   },
   {
+    "id": "arceusfairy",
     "num": 493,
     "name": "Arceus-Fairy",
     "baseSpecies": "Arceus",
@@ -18806,6 +19424,7 @@
     ]
   },
   {
+    "id": "arceusfighting",
     "num": 493,
     "name": "Arceus-Fighting",
     "baseSpecies": "Arceus",
@@ -18837,6 +19456,7 @@
     ]
   },
   {
+    "id": "arceusfire",
     "num": 493,
     "name": "Arceus-Fire",
     "baseSpecies": "Arceus",
@@ -18868,6 +19488,7 @@
     ]
   },
   {
+    "id": "arceusflying",
     "num": 493,
     "name": "Arceus-Flying",
     "baseSpecies": "Arceus",
@@ -18899,6 +19520,7 @@
     ]
   },
   {
+    "id": "arceusghost",
     "num": 493,
     "name": "Arceus-Ghost",
     "baseSpecies": "Arceus",
@@ -18930,6 +19552,7 @@
     ]
   },
   {
+    "id": "arceusgrass",
     "num": 493,
     "name": "Arceus-Grass",
     "baseSpecies": "Arceus",
@@ -18961,6 +19584,7 @@
     ]
   },
   {
+    "id": "arceusground",
     "num": 493,
     "name": "Arceus-Ground",
     "baseSpecies": "Arceus",
@@ -18992,6 +19616,7 @@
     ]
   },
   {
+    "id": "arceusice",
     "num": 493,
     "name": "Arceus-Ice",
     "baseSpecies": "Arceus",
@@ -19023,6 +19648,7 @@
     ]
   },
   {
+    "id": "arceuspoison",
     "num": 493,
     "name": "Arceus-Poison",
     "baseSpecies": "Arceus",
@@ -19054,6 +19680,7 @@
     ]
   },
   {
+    "id": "arceuspsychic",
     "num": 493,
     "name": "Arceus-Psychic",
     "baseSpecies": "Arceus",
@@ -19085,6 +19712,7 @@
     ]
   },
   {
+    "id": "arceusrock",
     "num": 493,
     "name": "Arceus-Rock",
     "baseSpecies": "Arceus",
@@ -19116,6 +19744,7 @@
     ]
   },
   {
+    "id": "arceussteel",
     "num": 493,
     "name": "Arceus-Steel",
     "baseSpecies": "Arceus",
@@ -19147,6 +19776,7 @@
     ]
   },
   {
+    "id": "arceuswater",
     "num": 493,
     "name": "Arceus-Water",
     "baseSpecies": "Arceus",
@@ -19178,6 +19808,7 @@
     ]
   },
   {
+    "id": "victini",
     "num": 494,
     "name": "Victini",
     "types": [
@@ -19204,6 +19835,7 @@
     ]
   },
   {
+    "id": "snivy",
     "num": 495,
     "name": "Snivy",
     "types": [
@@ -19237,6 +19869,7 @@
     ]
   },
   {
+    "id": "servine",
     "num": 496,
     "name": "Servine",
     "types": [
@@ -19272,6 +19905,7 @@
     ]
   },
   {
+    "id": "serperior",
     "num": 497,
     "name": "Serperior",
     "types": [
@@ -19304,6 +19938,7 @@
     ]
   },
   {
+    "id": "tepig",
     "num": 498,
     "name": "Tepig",
     "types": [
@@ -19336,6 +19971,7 @@
     ]
   },
   {
+    "id": "pignite",
     "num": 499,
     "name": "Pignite",
     "types": [
@@ -19371,6 +20007,7 @@
     ]
   },
   {
+    "id": "emboar",
     "num": 500,
     "name": "Emboar",
     "types": [
@@ -19403,6 +20040,7 @@
     ]
   },
   {
+    "id": "oshawott",
     "num": 501,
     "name": "Oshawott",
     "types": [
@@ -19435,6 +20073,7 @@
     ]
   },
   {
+    "id": "dewott",
     "num": 502,
     "name": "Dewott",
     "types": [
@@ -19469,6 +20108,7 @@
     ]
   },
   {
+    "id": "samurott",
     "num": 503,
     "name": "Samurott",
     "types": [
@@ -19500,6 +20140,7 @@
     ]
   },
   {
+    "id": "patrat",
     "num": 504,
     "name": "Patrat",
     "types": [
@@ -19529,6 +20170,7 @@
     ]
   },
   {
+    "id": "watchog",
     "num": 505,
     "name": "Watchog",
     "types": [
@@ -19557,6 +20199,7 @@
     ]
   },
   {
+    "id": "lillipup",
     "num": 506,
     "name": "Lillipup",
     "types": [
@@ -19586,6 +20229,7 @@
     ]
   },
   {
+    "id": "herdier",
     "num": 507,
     "name": "Herdier",
     "types": [
@@ -19617,6 +20261,7 @@
     ]
   },
   {
+    "id": "stoutland",
     "num": 508,
     "name": "Stoutland",
     "types": [
@@ -19645,6 +20290,7 @@
     ]
   },
   {
+    "id": "purrloin",
     "num": 509,
     "name": "Purrloin",
     "types": [
@@ -19674,6 +20320,7 @@
     ]
   },
   {
+    "id": "liepard",
     "num": 510,
     "name": "Liepard",
     "types": [
@@ -19702,6 +20349,7 @@
     ]
   },
   {
+    "id": "pansage",
     "num": 511,
     "name": "Pansage",
     "types": [
@@ -19734,6 +20382,7 @@
     ]
   },
   {
+    "id": "simisage",
     "num": 512,
     "name": "Simisage",
     "types": [
@@ -19766,6 +20415,7 @@
     ]
   },
   {
+    "id": "pansear",
     "num": 513,
     "name": "Pansear",
     "types": [
@@ -19798,6 +20448,7 @@
     ]
   },
   {
+    "id": "simisear",
     "num": 514,
     "name": "Simisear",
     "types": [
@@ -19830,6 +20481,7 @@
     ]
   },
   {
+    "id": "panpour",
     "num": 515,
     "name": "Panpour",
     "types": [
@@ -19862,6 +20514,7 @@
     ]
   },
   {
+    "id": "simipour",
     "num": 516,
     "name": "Simipour",
     "types": [
@@ -19894,6 +20547,7 @@
     ]
   },
   {
+    "id": "munna",
     "num": 517,
     "name": "Munna",
     "types": [
@@ -19923,6 +20577,7 @@
     ]
   },
   {
+    "id": "musharna",
     "num": 518,
     "name": "Musharna",
     "types": [
@@ -19952,6 +20607,7 @@
     ]
   },
   {
+    "id": "pidove",
     "num": 519,
     "name": "Pidove",
     "types": [
@@ -19982,6 +20638,7 @@
     ]
   },
   {
+    "id": "tranquill",
     "num": 520,
     "name": "Tranquill",
     "types": [
@@ -20014,6 +20671,7 @@
     ]
   },
   {
+    "id": "unfezant",
     "num": 521,
     "name": "Unfezant",
     "types": [
@@ -20043,6 +20701,7 @@
     ]
   },
   {
+    "id": "blitzle",
     "num": 522,
     "name": "Blitzle",
     "types": [
@@ -20072,6 +20731,7 @@
     ]
   },
   {
+    "id": "zebstrika",
     "num": 523,
     "name": "Zebstrika",
     "types": [
@@ -20100,6 +20760,7 @@
     ]
   },
   {
+    "id": "roggenrola",
     "num": 524,
     "name": "Roggenrola",
     "types": [
@@ -20129,6 +20790,7 @@
     ]
   },
   {
+    "id": "boldore",
     "num": 525,
     "name": "Boldore",
     "types": [
@@ -20160,6 +20822,7 @@
     ]
   },
   {
+    "id": "gigalith",
     "num": 526,
     "name": "Gigalith",
     "types": [
@@ -20188,6 +20851,7 @@
     ]
   },
   {
+    "id": "woobat",
     "num": 527,
     "name": "Woobat",
     "types": [
@@ -20219,6 +20883,7 @@
     ]
   },
   {
+    "id": "swoobat",
     "num": 528,
     "name": "Swoobat",
     "types": [
@@ -20249,6 +20914,7 @@
     ]
   },
   {
+    "id": "drilbur",
     "num": 529,
     "name": "Drilbur",
     "types": [
@@ -20278,6 +20944,7 @@
     ]
   },
   {
+    "id": "excadrill",
     "num": 530,
     "name": "Excadrill",
     "types": [
@@ -20307,6 +20974,7 @@
     ]
   },
   {
+    "id": "audino",
     "num": 531,
     "name": "Audino",
     "types": [
@@ -20336,6 +21004,7 @@
     ]
   },
   {
+    "id": "audinomega",
     "num": 531,
     "name": "Audino-Mega",
     "baseSpecies": "Audino",
@@ -20364,6 +21033,7 @@
     "requiredItem": "Audinite"
   },
   {
+    "id": "timburr",
     "num": 532,
     "name": "Timburr",
     "types": [
@@ -20397,6 +21067,7 @@
     ]
   },
   {
+    "id": "gurdurr",
     "num": 533,
     "name": "Gurdurr",
     "types": [
@@ -20432,6 +21103,7 @@
     ]
   },
   {
+    "id": "conkeldurr",
     "num": 534,
     "name": "Conkeldurr",
     "types": [
@@ -20464,6 +21136,7 @@
     ]
   },
   {
+    "id": "tympole",
     "num": 535,
     "name": "Tympole",
     "types": [
@@ -20493,6 +21166,7 @@
     ]
   },
   {
+    "id": "palpitoad",
     "num": 536,
     "name": "Palpitoad",
     "types": [
@@ -20525,6 +21199,7 @@
     ]
   },
   {
+    "id": "seismitoad",
     "num": 537,
     "name": "Seismitoad",
     "types": [
@@ -20554,6 +21229,7 @@
     ]
   },
   {
+    "id": "throh",
     "num": 538,
     "name": "Throh",
     "types": [
@@ -20581,6 +21257,7 @@
     ]
   },
   {
+    "id": "sawk",
     "num": 539,
     "name": "Sawk",
     "types": [
@@ -20608,6 +21285,7 @@
     ]
   },
   {
+    "id": "sewaddle",
     "num": 540,
     "name": "Sewaddle",
     "types": [
@@ -20638,6 +21316,7 @@
     ]
   },
   {
+    "id": "swadloon",
     "num": 541,
     "name": "Swadloon",
     "types": [
@@ -20670,6 +21349,7 @@
     ]
   },
   {
+    "id": "leavanny",
     "num": 542,
     "name": "Leavanny",
     "types": [
@@ -20699,6 +21379,7 @@
     ]
   },
   {
+    "id": "venipede",
     "num": 543,
     "name": "Venipede",
     "types": [
@@ -20729,6 +21410,7 @@
     ]
   },
   {
+    "id": "whirlipede",
     "num": 544,
     "name": "Whirlipede",
     "types": [
@@ -20761,6 +21443,7 @@
     ]
   },
   {
+    "id": "scolipede",
     "num": 545,
     "name": "Scolipede",
     "types": [
@@ -20790,6 +21473,7 @@
     ]
   },
   {
+    "id": "cottonee",
     "num": 546,
     "name": "Cottonee",
     "types": [
@@ -20821,6 +21505,7 @@
     ]
   },
   {
+    "id": "whimsicott",
     "num": 547,
     "name": "Whimsicott",
     "types": [
@@ -20852,6 +21537,7 @@
     ]
   },
   {
+    "id": "petilil",
     "num": 548,
     "name": "Petilil",
     "types": [
@@ -20882,6 +21568,7 @@
     ]
   },
   {
+    "id": "lilligant",
     "num": 549,
     "name": "Lilligant",
     "types": [
@@ -20912,6 +21599,7 @@
     ]
   },
   {
+    "id": "basculin",
     "num": 550,
     "name": "Basculin",
     "baseForme": "Red-Striped",
@@ -20942,6 +21630,7 @@
     ]
   },
   {
+    "id": "basculinbluestriped",
     "num": 550,
     "name": "Basculin-Blue-Striped",
     "baseSpecies": "Basculin",
@@ -20970,6 +21659,7 @@
     ]
   },
   {
+    "id": "sandile",
     "num": 551,
     "name": "Sandile",
     "types": [
@@ -21000,6 +21690,7 @@
     ]
   },
   {
+    "id": "krokorok",
     "num": 552,
     "name": "Krokorok",
     "types": [
@@ -21032,6 +21723,7 @@
     ]
   },
   {
+    "id": "krookodile",
     "num": 553,
     "name": "Krookodile",
     "types": [
@@ -21061,6 +21753,7 @@
     ]
   },
   {
+    "id": "darumaka",
     "num": 554,
     "name": "Darumaka",
     "types": [
@@ -21092,6 +21785,7 @@
     ]
   },
   {
+    "id": "darumakagalar",
     "num": 554,
     "name": "Darumaka-Galar",
     "baseSpecies": "Darumaka",
@@ -21122,6 +21816,7 @@
     ]
   },
   {
+    "id": "darmanitan",
     "num": 555,
     "name": "Darmanitan",
     "baseForme": "Standard",
@@ -21155,6 +21850,7 @@
     ]
   },
   {
+    "id": "darmanitanzen",
     "num": 555,
     "name": "Darmanitan-Zen",
     "baseSpecies": "Darmanitan",
@@ -21186,6 +21882,7 @@
     "battleOnly": "Darmanitan"
   },
   {
+    "id": "darmanitangalar",
     "num": 555,
     "name": "Darmanitan-Galar",
     "baseSpecies": "Darmanitan",
@@ -21216,6 +21913,7 @@
     ]
   },
   {
+    "id": "darmanitangalarzen",
     "num": 555,
     "name": "Darmanitan-Galar-Zen",
     "baseSpecies": "Darmanitan",
@@ -21248,6 +21946,7 @@
     "battleOnly": "Darmanitan-Galar"
   },
   {
+    "id": "maractus",
     "num": 556,
     "name": "Maractus",
     "types": [
@@ -21274,6 +21973,7 @@
     ]
   },
   {
+    "id": "dwebble",
     "num": 557,
     "name": "Dwebble",
     "types": [
@@ -21305,6 +22005,7 @@
     ]
   },
   {
+    "id": "crustle",
     "num": 558,
     "name": "Crustle",
     "types": [
@@ -21335,6 +22036,7 @@
     ]
   },
   {
+    "id": "scraggy",
     "num": 559,
     "name": "Scraggy",
     "types": [
@@ -21366,6 +22068,7 @@
     ]
   },
   {
+    "id": "scrafty",
     "num": 560,
     "name": "Scrafty",
     "types": [
@@ -21396,6 +22099,7 @@
     ]
   },
   {
+    "id": "sigilyph",
     "num": 561,
     "name": "Sigilyph",
     "types": [
@@ -21423,6 +22127,7 @@
     ]
   },
   {
+    "id": "yamask",
     "num": 562,
     "name": "Yamask",
     "types": [
@@ -21454,6 +22159,7 @@
     ]
   },
   {
+    "id": "yamaskgalar",
     "num": 562,
     "name": "Yamask-Galar",
     "baseSpecies": "Yamask",
@@ -21485,6 +22191,7 @@
     ]
   },
   {
+    "id": "cofagrigus",
     "num": 563,
     "name": "Cofagrigus",
     "types": [
@@ -21512,6 +22219,7 @@
     ]
   },
   {
+    "id": "tirtouga",
     "num": 564,
     "name": "Tirtouga",
     "types": [
@@ -21547,6 +22255,7 @@
     ]
   },
   {
+    "id": "carracosta",
     "num": 565,
     "name": "Carracosta",
     "types": [
@@ -21581,6 +22290,7 @@
     ]
   },
   {
+    "id": "archen",
     "num": 566,
     "name": "Archen",
     "types": [
@@ -21614,6 +22324,7 @@
     ]
   },
   {
+    "id": "archeops",
     "num": 567,
     "name": "Archeops",
     "types": [
@@ -21646,6 +22357,7 @@
     ]
   },
   {
+    "id": "trubbish",
     "num": 568,
     "name": "Trubbish",
     "types": [
@@ -21675,6 +22387,7 @@
     ]
   },
   {
+    "id": "garbodor",
     "num": 569,
     "name": "Garbodor",
     "types": [
@@ -21706,6 +22419,7 @@
     ]
   },
   {
+    "id": "garbodorgmax",
     "num": 569,
     "name": "Garbodor-Gmax",
     "baseSpecies": "Garbodor",
@@ -21735,6 +22449,7 @@
     "isGigantamax": "G-Max Malodor"
   },
   {
+    "id": "zorua",
     "num": 570,
     "name": "Zorua",
     "types": [
@@ -21766,6 +22481,7 @@
     ]
   },
   {
+    "id": "zoroark",
     "num": 571,
     "name": "Zoroark",
     "types": [
@@ -21796,6 +22512,7 @@
     ]
   },
   {
+    "id": "minccino",
     "num": 572,
     "name": "Minccino",
     "types": [
@@ -21829,6 +22546,7 @@
     ]
   },
   {
+    "id": "cinccino",
     "num": 573,
     "name": "Cinccino",
     "types": [
@@ -21862,6 +22580,7 @@
     ]
   },
   {
+    "id": "gothita",
     "num": 574,
     "name": "Gothita",
     "types": [
@@ -21895,6 +22614,7 @@
     ]
   },
   {
+    "id": "gothorita",
     "num": 575,
     "name": "Gothorita",
     "types": [
@@ -21930,6 +22650,7 @@
     ]
   },
   {
+    "id": "gothitelle",
     "num": 576,
     "name": "Gothitelle",
     "types": [
@@ -21962,6 +22683,7 @@
     ]
   },
   {
+    "id": "solosis",
     "num": 577,
     "name": "Solosis",
     "types": [
@@ -21991,6 +22713,7 @@
     ]
   },
   {
+    "id": "duosion",
     "num": 578,
     "name": "Duosion",
     "types": [
@@ -22022,6 +22745,7 @@
     ]
   },
   {
+    "id": "reuniclus",
     "num": 579,
     "name": "Reuniclus",
     "types": [
@@ -22050,6 +22774,7 @@
     ]
   },
   {
+    "id": "ducklett",
     "num": 580,
     "name": "Ducklett",
     "types": [
@@ -22081,6 +22806,7 @@
     ]
   },
   {
+    "id": "swanna",
     "num": 581,
     "name": "Swanna",
     "types": [
@@ -22111,6 +22837,7 @@
     ]
   },
   {
+    "id": "vanillite",
     "num": 582,
     "name": "Vanillite",
     "types": [
@@ -22140,6 +22867,7 @@
     ]
   },
   {
+    "id": "vanillish",
     "num": 583,
     "name": "Vanillish",
     "types": [
@@ -22171,6 +22899,7 @@
     ]
   },
   {
+    "id": "vanilluxe",
     "num": 584,
     "name": "Vanilluxe",
     "types": [
@@ -22199,6 +22928,7 @@
     ]
   },
   {
+    "id": "deerling",
     "num": 585,
     "name": "Deerling",
     "baseForme": "Spring",
@@ -22235,6 +22965,7 @@
     ]
   },
   {
+    "id": "sawsbuck",
     "num": 586,
     "name": "Sawsbuck",
     "baseForme": "Spring",
@@ -22270,6 +23001,7 @@
     ]
   },
   {
+    "id": "emolga",
     "num": 587,
     "name": "Emolga",
     "types": [
@@ -22296,6 +23028,7 @@
     ]
   },
   {
+    "id": "karrablast",
     "num": 588,
     "name": "Karrablast",
     "types": [
@@ -22325,6 +23058,7 @@
     ]
   },
   {
+    "id": "escavalier",
     "num": 589,
     "name": "Escavalier",
     "types": [
@@ -22355,6 +23089,7 @@
     ]
   },
   {
+    "id": "foongus",
     "num": 590,
     "name": "Foongus",
     "types": [
@@ -22384,6 +23119,7 @@
     ]
   },
   {
+    "id": "amoonguss",
     "num": 591,
     "name": "Amoonguss",
     "types": [
@@ -22412,6 +23148,7 @@
     ]
   },
   {
+    "id": "frillish",
     "num": 592,
     "name": "Frillish",
     "types": [
@@ -22442,6 +23179,7 @@
     ]
   },
   {
+    "id": "jellicent",
     "num": 593,
     "name": "Jellicent",
     "types": [
@@ -22471,6 +23209,7 @@
     ]
   },
   {
+    "id": "alomomola",
     "num": 594,
     "name": "Alomomola",
     "types": [
@@ -22498,6 +23237,7 @@
     ]
   },
   {
+    "id": "joltik",
     "num": 595,
     "name": "Joltik",
     "types": [
@@ -22528,6 +23268,7 @@
     ]
   },
   {
+    "id": "galvantula",
     "num": 596,
     "name": "Galvantula",
     "types": [
@@ -22557,6 +23298,7 @@
     ]
   },
   {
+    "id": "ferroseed",
     "num": 597,
     "name": "Ferroseed",
     "types": [
@@ -22586,6 +23328,7 @@
     ]
   },
   {
+    "id": "ferrothorn",
     "num": 598,
     "name": "Ferrothorn",
     "types": [
@@ -22615,6 +23358,7 @@
     ]
   },
   {
+    "id": "klink",
     "num": 599,
     "name": "Klink",
     "types": [
@@ -22645,6 +23389,7 @@
     ]
   },
   {
+    "id": "klang",
     "num": 600,
     "name": "Klang",
     "types": [
@@ -22677,6 +23422,7 @@
     ]
   },
   {
+    "id": "klinklang",
     "num": 601,
     "name": "Klinklang",
     "types": [
@@ -22706,6 +23452,7 @@
     ]
   },
   {
+    "id": "tynamo",
     "num": 602,
     "name": "Tynamo",
     "types": [
@@ -22733,6 +23480,7 @@
     ]
   },
   {
+    "id": "eelektrik",
     "num": 603,
     "name": "Eelektrik",
     "types": [
@@ -22762,6 +23510,7 @@
     ]
   },
   {
+    "id": "eelektross",
     "num": 604,
     "name": "Eelektross",
     "types": [
@@ -22789,6 +23538,7 @@
     ]
   },
   {
+    "id": "elgyem",
     "num": 605,
     "name": "Elgyem",
     "types": [
@@ -22818,6 +23568,7 @@
     ]
   },
   {
+    "id": "beheeyem",
     "num": 606,
     "name": "Beheeyem",
     "types": [
@@ -22846,6 +23597,7 @@
     ]
   },
   {
+    "id": "litwick",
     "num": 607,
     "name": "Litwick",
     "types": [
@@ -22876,6 +23628,7 @@
     ]
   },
   {
+    "id": "lampent",
     "num": 608,
     "name": "Lampent",
     "types": [
@@ -22908,6 +23661,7 @@
     ]
   },
   {
+    "id": "chandelure",
     "num": 609,
     "name": "Chandelure",
     "types": [
@@ -22938,6 +23692,7 @@
     ]
   },
   {
+    "id": "axew",
     "num": 610,
     "name": "Axew",
     "types": [
@@ -22968,6 +23723,7 @@
     ]
   },
   {
+    "id": "fraxure",
     "num": 611,
     "name": "Fraxure",
     "types": [
@@ -23000,6 +23756,7 @@
     ]
   },
   {
+    "id": "haxorus",
     "num": 612,
     "name": "Haxorus",
     "types": [
@@ -23029,6 +23786,7 @@
     ]
   },
   {
+    "id": "cubchoo",
     "num": 613,
     "name": "Cubchoo",
     "types": [
@@ -23058,6 +23816,7 @@
     ]
   },
   {
+    "id": "beartic",
     "num": 614,
     "name": "Beartic",
     "types": [
@@ -23086,6 +23845,7 @@
     ]
   },
   {
+    "id": "cryogonal",
     "num": 615,
     "name": "Cryogonal",
     "types": [
@@ -23111,6 +23871,7 @@
     ]
   },
   {
+    "id": "shelmet",
     "num": 616,
     "name": "Shelmet",
     "types": [
@@ -23140,6 +23901,7 @@
     ]
   },
   {
+    "id": "accelgor",
     "num": 617,
     "name": "Accelgor",
     "types": [
@@ -23169,6 +23931,7 @@
     ]
   },
   {
+    "id": "stunfisk",
     "num": 618,
     "name": "Stunfisk",
     "types": [
@@ -23200,6 +23963,7 @@
     ]
   },
   {
+    "id": "stunfiskgalar",
     "num": 618,
     "name": "Stunfisk-Galar",
     "baseSpecies": "Stunfisk",
@@ -23228,6 +23992,7 @@
     ]
   },
   {
+    "id": "mienfoo",
     "num": 619,
     "name": "Mienfoo",
     "types": [
@@ -23258,6 +24023,7 @@
     ]
   },
   {
+    "id": "mienshao",
     "num": 620,
     "name": "Mienshao",
     "types": [
@@ -23287,6 +24053,7 @@
     ]
   },
   {
+    "id": "druddigon",
     "num": 621,
     "name": "Druddigon",
     "types": [
@@ -23314,6 +24081,7 @@
     ]
   },
   {
+    "id": "golett",
     "num": 622,
     "name": "Golett",
     "types": [
@@ -23345,6 +24113,7 @@
     ]
   },
   {
+    "id": "golurk",
     "num": 623,
     "name": "Golurk",
     "types": [
@@ -23375,6 +24144,7 @@
     ]
   },
   {
+    "id": "pawniard",
     "num": 624,
     "name": "Pawniard",
     "types": [
@@ -23405,6 +24175,7 @@
     ]
   },
   {
+    "id": "bisharp",
     "num": 625,
     "name": "Bisharp",
     "types": [
@@ -23434,6 +24205,7 @@
     ]
   },
   {
+    "id": "bouffalant",
     "num": 626,
     "name": "Bouffalant",
     "types": [
@@ -23460,6 +24232,7 @@
     ]
   },
   {
+    "id": "rufflet",
     "num": 627,
     "name": "Rufflet",
     "types": [
@@ -23491,6 +24264,7 @@
     ]
   },
   {
+    "id": "braviary",
     "num": 628,
     "name": "Braviary",
     "types": [
@@ -23521,6 +24295,7 @@
     ]
   },
   {
+    "id": "vullaby",
     "num": 629,
     "name": "Vullaby",
     "types": [
@@ -23552,6 +24327,7 @@
     ]
   },
   {
+    "id": "mandibuzz",
     "num": 630,
     "name": "Mandibuzz",
     "types": [
@@ -23582,6 +24358,7 @@
     ]
   },
   {
+    "id": "heatmor",
     "num": 631,
     "name": "Heatmor",
     "types": [
@@ -23608,6 +24385,7 @@
     ]
   },
   {
+    "id": "durant",
     "num": 632,
     "name": "Durant",
     "types": [
@@ -23635,6 +24413,7 @@
     ]
   },
   {
+    "id": "deino",
     "num": 633,
     "name": "Deino",
     "types": [
@@ -23663,6 +24442,7 @@
     ]
   },
   {
+    "id": "zweilous",
     "num": 634,
     "name": "Zweilous",
     "types": [
@@ -23693,6 +24473,7 @@
     ]
   },
   {
+    "id": "hydreigon",
     "num": 635,
     "name": "Hydreigon",
     "types": [
@@ -23720,6 +24501,7 @@
     ]
   },
   {
+    "id": "larvesta",
     "num": 636,
     "name": "Larvesta",
     "types": [
@@ -23749,6 +24531,7 @@
     ]
   },
   {
+    "id": "volcarona",
     "num": 637,
     "name": "Volcarona",
     "types": [
@@ -23777,6 +24560,7 @@
     ]
   },
   {
+    "id": "cobalion",
     "num": 638,
     "name": "Cobalion",
     "types": [
@@ -23803,6 +24587,7 @@
     ]
   },
   {
+    "id": "terrakion",
     "num": 639,
     "name": "Terrakion",
     "types": [
@@ -23829,6 +24614,7 @@
     ]
   },
   {
+    "id": "virizion",
     "num": 640,
     "name": "Virizion",
     "types": [
@@ -23855,6 +24641,7 @@
     ]
   },
   {
+    "id": "tornadus",
     "num": 641,
     "name": "Tornadus",
     "baseForme": "Incarnate",
@@ -23885,6 +24672,7 @@
     ]
   },
   {
+    "id": "tornadustherian",
     "num": 641,
     "name": "Tornadus-Therian",
     "baseSpecies": "Tornadus",
@@ -23912,6 +24700,7 @@
     ]
   },
   {
+    "id": "thundurus",
     "num": 642,
     "name": "Thundurus",
     "baseForme": "Incarnate",
@@ -23943,6 +24732,7 @@
     ]
   },
   {
+    "id": "thundurustherian",
     "num": 642,
     "name": "Thundurus-Therian",
     "baseSpecies": "Thundurus",
@@ -23971,6 +24761,7 @@
     ]
   },
   {
+    "id": "reshiram",
     "num": 643,
     "name": "Reshiram",
     "types": [
@@ -23997,6 +24788,7 @@
     ]
   },
   {
+    "id": "zekrom",
     "num": 644,
     "name": "Zekrom",
     "types": [
@@ -24023,6 +24815,7 @@
     ]
   },
   {
+    "id": "landorus",
     "num": 645,
     "name": "Landorus",
     "baseForme": "Incarnate",
@@ -24054,6 +24847,7 @@
     ]
   },
   {
+    "id": "landorustherian",
     "num": 645,
     "name": "Landorus-Therian",
     "baseSpecies": "Landorus",
@@ -24082,6 +24876,7 @@
     ]
   },
   {
+    "id": "kyurem",
     "num": 646,
     "name": "Kyurem",
     "types": [
@@ -24112,6 +24907,7 @@
     ]
   },
   {
+    "id": "kyuremblack",
     "num": 646,
     "name": "Kyurem-Black",
     "baseSpecies": "Kyurem",
@@ -24140,6 +24936,7 @@
     ]
   },
   {
+    "id": "kyuremwhite",
     "num": 646,
     "name": "Kyurem-White",
     "baseSpecies": "Kyurem",
@@ -24168,6 +24965,7 @@
     ]
   },
   {
+    "id": "keldeo",
     "num": 647,
     "name": "Keldeo",
     "baseForme": "Ordinary",
@@ -24198,6 +24996,7 @@
     ]
   },
   {
+    "id": "keldeoresolute",
     "num": 647,
     "name": "Keldeo-Resolute",
     "baseSpecies": "Keldeo",
@@ -24227,6 +25026,7 @@
     "requiredMove": "Secret Sword"
   },
   {
+    "id": "meloetta",
     "num": 648,
     "name": "Meloetta",
     "baseForme": "Aria",
@@ -24257,6 +25057,7 @@
     ]
   },
   {
+    "id": "meloettapirouette",
     "num": 648,
     "name": "Meloetta-Pirouette",
     "baseSpecies": "Meloetta",
@@ -24287,6 +25088,7 @@
     "battleOnly": "Meloetta"
   },
   {
+    "id": "genesect",
     "num": 649,
     "name": "Genesect",
     "types": [
@@ -24319,6 +25121,7 @@
     ]
   },
   {
+    "id": "genesectdouse",
     "num": 649,
     "name": "Genesect-Douse",
     "baseSpecies": "Genesect",
@@ -24348,6 +25151,7 @@
     "requiredItem": "Douse Drive"
   },
   {
+    "id": "genesectshock",
     "num": 649,
     "name": "Genesect-Shock",
     "baseSpecies": "Genesect",
@@ -24377,6 +25181,7 @@
     "requiredItem": "Shock Drive"
   },
   {
+    "id": "genesectburn",
     "num": 649,
     "name": "Genesect-Burn",
     "baseSpecies": "Genesect",
@@ -24406,6 +25211,7 @@
     "requiredItem": "Burn Drive"
   },
   {
+    "id": "genesectchill",
     "num": 649,
     "name": "Genesect-Chill",
     "baseSpecies": "Genesect",
@@ -24435,6 +25241,7 @@
     "requiredItem": "Chill Drive"
   },
   {
+    "id": "chespin",
     "num": 650,
     "name": "Chespin",
     "types": [
@@ -24467,6 +25274,7 @@
     ]
   },
   {
+    "id": "quilladin",
     "num": 651,
     "name": "Quilladin",
     "types": [
@@ -24501,6 +25309,7 @@
     ]
   },
   {
+    "id": "chesnaught",
     "num": 652,
     "name": "Chesnaught",
     "types": [
@@ -24533,6 +25342,7 @@
     ]
   },
   {
+    "id": "fennekin",
     "num": 653,
     "name": "Fennekin",
     "types": [
@@ -24565,6 +25375,7 @@
     ]
   },
   {
+    "id": "braixen",
     "num": 654,
     "name": "Braixen",
     "types": [
@@ -24599,6 +25410,7 @@
     ]
   },
   {
+    "id": "delphox",
     "num": 655,
     "name": "Delphox",
     "types": [
@@ -24631,6 +25443,7 @@
     ]
   },
   {
+    "id": "froakie",
     "num": 656,
     "name": "Froakie",
     "types": [
@@ -24663,6 +25476,7 @@
     ]
   },
   {
+    "id": "frogadier",
     "num": 657,
     "name": "Frogadier",
     "types": [
@@ -24697,6 +25511,7 @@
     ]
   },
   {
+    "id": "greninja",
     "num": 658,
     "name": "Greninja",
     "types": [
@@ -24733,6 +25548,7 @@
     ]
   },
   {
+    "id": "greninjaash",
     "num": 658,
     "name": "Greninja-Ash",
     "baseSpecies": "Greninja",
@@ -24764,6 +25580,7 @@
     "battleOnly": "Greninja"
   },
   {
+    "id": "bunnelby",
     "num": 659,
     "name": "Bunnelby",
     "types": [
@@ -24793,6 +25610,7 @@
     ]
   },
   {
+    "id": "diggersby",
     "num": 660,
     "name": "Diggersby",
     "types": [
@@ -24822,6 +25640,7 @@
     ]
   },
   {
+    "id": "fletchling",
     "num": 661,
     "name": "Fletchling",
     "types": [
@@ -24851,6 +25670,7 @@
     ]
   },
   {
+    "id": "fletchinder",
     "num": 662,
     "name": "Fletchinder",
     "types": [
@@ -24882,6 +25702,7 @@
     ]
   },
   {
+    "id": "talonflame",
     "num": 663,
     "name": "Talonflame",
     "types": [
@@ -24910,6 +25731,7 @@
     ]
   },
   {
+    "id": "scatterbug",
     "num": 664,
     "name": "Scatterbug",
     "types": [
@@ -24939,6 +25761,7 @@
     ]
   },
   {
+    "id": "spewpa",
     "num": 665,
     "name": "Spewpa",
     "types": [
@@ -24969,6 +25792,7 @@
     ]
   },
   {
+    "id": "vivillon",
     "num": 666,
     "name": "Vivillon",
     "types": [
@@ -25021,6 +25845,7 @@
     ]
   },
   {
+    "id": "vivillonfancy",
     "num": 666,
     "name": "Vivillon-Fancy",
     "baseSpecies": "Vivillon",
@@ -25049,6 +25874,7 @@
     ]
   },
   {
+    "id": "vivillonpokeball",
     "num": 666,
     "name": "Vivillon-Pokeball",
     "baseSpecies": "Vivillon",
@@ -25077,6 +25903,7 @@
     ]
   },
   {
+    "id": "litleo",
     "num": 667,
     "name": "Litleo",
     "types": [
@@ -25111,6 +25938,7 @@
     ]
   },
   {
+    "id": "pyroar",
     "num": 668,
     "name": "Pyroar",
     "types": [
@@ -25144,6 +25972,7 @@
     ]
   },
   {
+    "id": "flabebe",
     "num": 669,
     "name": "Flabébé",
     "baseForme": "Red",
@@ -25180,6 +26009,7 @@
     ]
   },
   {
+    "id": "floette",
     "num": 670,
     "name": "Floette",
     "baseForme": "Red",
@@ -25221,6 +26051,7 @@
     ]
   },
   {
+    "id": "floetteeternal",
     "num": 670,
     "name": "Floette-Eternal",
     "baseSpecies": "Floette",
@@ -25248,6 +26079,7 @@
     ]
   },
   {
+    "id": "florges",
     "num": 671,
     "name": "Florges",
     "baseForme": "Red",
@@ -25284,6 +26116,7 @@
     ]
   },
   {
+    "id": "skiddo",
     "num": 672,
     "name": "Skiddo",
     "types": [
@@ -25312,6 +26145,7 @@
     ]
   },
   {
+    "id": "gogoat",
     "num": 673,
     "name": "Gogoat",
     "types": [
@@ -25339,6 +26173,7 @@
     ]
   },
   {
+    "id": "pancham",
     "num": 674,
     "name": "Pancham",
     "types": [
@@ -25369,6 +26204,7 @@
     ]
   },
   {
+    "id": "pangoro",
     "num": 675,
     "name": "Pangoro",
     "types": [
@@ -25399,6 +26235,7 @@
     ]
   },
   {
+    "id": "furfrou",
     "num": 676,
     "name": "Furfrou",
     "types": [
@@ -25434,6 +26271,7 @@
     ]
   },
   {
+    "id": "espurr",
     "num": 677,
     "name": "Espurr",
     "types": [
@@ -25463,6 +26301,7 @@
     ]
   },
   {
+    "id": "meowstic",
     "num": 678,
     "name": "Meowstic",
     "baseForme": "M",
@@ -25496,6 +26335,7 @@
     ]
   },
   {
+    "id": "meowsticf",
     "num": 678,
     "name": "Meowstic-F",
     "baseSpecies": "Meowstic",
@@ -25527,6 +26367,7 @@
     ]
   },
   {
+    "id": "honedge",
     "num": 679,
     "name": "Honedge",
     "types": [
@@ -25555,6 +26396,7 @@
     ]
   },
   {
+    "id": "doublade",
     "num": 680,
     "name": "Doublade",
     "types": [
@@ -25585,6 +26427,7 @@
     ]
   },
   {
+    "id": "aegislash",
     "num": 681,
     "name": "Aegislash",
     "baseForme": "Shield",
@@ -25617,6 +26460,7 @@
     ]
   },
   {
+    "id": "aegislashblade",
     "num": 681,
     "name": "Aegislash-Blade",
     "baseSpecies": "Aegislash",
@@ -25649,6 +26493,7 @@
     "battleOnly": "Aegislash"
   },
   {
+    "id": "spritzee",
     "num": 682,
     "name": "Spritzee",
     "types": [
@@ -25677,6 +26522,7 @@
     ]
   },
   {
+    "id": "aromatisse",
     "num": 683,
     "name": "Aromatisse",
     "types": [
@@ -25705,6 +26551,7 @@
     ]
   },
   {
+    "id": "swirlix",
     "num": 684,
     "name": "Swirlix",
     "types": [
@@ -25733,6 +26580,7 @@
     ]
   },
   {
+    "id": "slurpuff",
     "num": 685,
     "name": "Slurpuff",
     "types": [
@@ -25761,6 +26609,7 @@
     ]
   },
   {
+    "id": "inkay",
     "num": 686,
     "name": "Inkay",
     "types": [
@@ -25792,6 +26641,7 @@
     ]
   },
   {
+    "id": "malamar",
     "num": 687,
     "name": "Malamar",
     "types": [
@@ -25822,6 +26672,7 @@
     ]
   },
   {
+    "id": "binacle",
     "num": 688,
     "name": "Binacle",
     "types": [
@@ -25852,6 +26703,7 @@
     ]
   },
   {
+    "id": "barbaracle",
     "num": 689,
     "name": "Barbaracle",
     "types": [
@@ -25881,6 +26733,7 @@
     ]
   },
   {
+    "id": "skrelp",
     "num": 690,
     "name": "Skrelp",
     "types": [
@@ -25912,6 +26765,7 @@
     ]
   },
   {
+    "id": "dragalge",
     "num": 691,
     "name": "Dragalge",
     "types": [
@@ -25942,6 +26796,7 @@
     ]
   },
   {
+    "id": "clauncher",
     "num": 692,
     "name": "Clauncher",
     "types": [
@@ -25970,6 +26825,7 @@
     ]
   },
   {
+    "id": "clawitzer",
     "num": 693,
     "name": "Clawitzer",
     "types": [
@@ -25997,6 +26853,7 @@
     ]
   },
   {
+    "id": "helioptile",
     "num": 694,
     "name": "Helioptile",
     "types": [
@@ -26028,6 +26885,7 @@
     ]
   },
   {
+    "id": "heliolisk",
     "num": 695,
     "name": "Heliolisk",
     "types": [
@@ -26059,6 +26917,7 @@
     ]
   },
   {
+    "id": "tyrunt",
     "num": 696,
     "name": "Tyrunt",
     "types": [
@@ -26093,6 +26952,7 @@
     ]
   },
   {
+    "id": "tyrantrum",
     "num": 697,
     "name": "Tyrantrum",
     "types": [
@@ -26126,6 +26986,7 @@
     ]
   },
   {
+    "id": "amaura",
     "num": 698,
     "name": "Amaura",
     "types": [
@@ -26159,6 +27020,7 @@
     ]
   },
   {
+    "id": "aurorus",
     "num": 699,
     "name": "Aurorus",
     "types": [
@@ -26191,6 +27053,7 @@
     ]
   },
   {
+    "id": "sylveon",
     "num": 700,
     "name": "Sylveon",
     "types": [
@@ -26223,6 +27086,7 @@
     ]
   },
   {
+    "id": "hawlucha",
     "num": 701,
     "name": "Hawlucha",
     "types": [
@@ -26251,6 +27115,7 @@
     ]
   },
   {
+    "id": "dedenne",
     "num": 702,
     "name": "Dedenne",
     "types": [
@@ -26279,6 +27144,7 @@
     ]
   },
   {
+    "id": "carbink",
     "num": 703,
     "name": "Carbink",
     "types": [
@@ -26307,6 +27173,7 @@
     ]
   },
   {
+    "id": "goomy",
     "num": 704,
     "name": "Goomy",
     "types": [
@@ -26336,6 +27203,7 @@
     ]
   },
   {
+    "id": "sliggoo",
     "num": 705,
     "name": "Sliggoo",
     "types": [
@@ -26367,6 +27235,7 @@
     ]
   },
   {
+    "id": "goodra",
     "num": 706,
     "name": "Goodra",
     "types": [
@@ -26395,6 +27264,7 @@
     ]
   },
   {
+    "id": "klefki",
     "num": 707,
     "name": "Klefki",
     "types": [
@@ -26421,6 +27291,7 @@
     ]
   },
   {
+    "id": "phantump",
     "num": 708,
     "name": "Phantump",
     "types": [
@@ -26452,6 +27323,7 @@
     ]
   },
   {
+    "id": "trevenant",
     "num": 709,
     "name": "Trevenant",
     "types": [
@@ -26482,6 +27354,7 @@
     ]
   },
   {
+    "id": "pumpkaboo",
     "num": 710,
     "name": "Pumpkaboo",
     "baseForme": "Average",
@@ -26518,6 +27391,7 @@
     ]
   },
   {
+    "id": "pumpkaboosmall",
     "num": 710,
     "name": "Pumpkaboo-Small",
     "baseSpecies": "Pumpkaboo",
@@ -26550,6 +27424,7 @@
     ]
   },
   {
+    "id": "pumpkaboolarge",
     "num": 710,
     "name": "Pumpkaboo-Large",
     "baseSpecies": "Pumpkaboo",
@@ -26582,6 +27457,7 @@
     ]
   },
   {
+    "id": "pumpkaboosuper",
     "num": 710,
     "name": "Pumpkaboo-Super",
     "baseSpecies": "Pumpkaboo",
@@ -26614,6 +27490,7 @@
     ]
   },
   {
+    "id": "gourgeist",
     "num": 711,
     "name": "Gourgeist",
     "baseForme": "Average",
@@ -26649,6 +27526,7 @@
     ]
   },
   {
+    "id": "gourgeistsmall",
     "num": 711,
     "name": "Gourgeist-Small",
     "baseSpecies": "Gourgeist",
@@ -26680,6 +27558,7 @@
     ]
   },
   {
+    "id": "gourgeistlarge",
     "num": 711,
     "name": "Gourgeist-Large",
     "baseSpecies": "Gourgeist",
@@ -26711,6 +27590,7 @@
     ]
   },
   {
+    "id": "gourgeistsuper",
     "num": 711,
     "name": "Gourgeist-Super",
     "baseSpecies": "Gourgeist",
@@ -26742,6 +27622,7 @@
     ]
   },
   {
+    "id": "bergmite",
     "num": 712,
     "name": "Bergmite",
     "types": [
@@ -26772,6 +27653,7 @@
     ]
   },
   {
+    "id": "avalugg",
     "num": 713,
     "name": "Avalugg",
     "types": [
@@ -26801,6 +27683,7 @@
     ]
   },
   {
+    "id": "noibat",
     "num": 714,
     "name": "Noibat",
     "types": [
@@ -26832,6 +27715,7 @@
     ]
   },
   {
+    "id": "noivern",
     "num": 715,
     "name": "Noivern",
     "types": [
@@ -26862,6 +27746,7 @@
     ]
   },
   {
+    "id": "xerneas",
     "num": 716,
     "name": "Xerneas",
     "types": [
@@ -26887,6 +27772,7 @@
     ]
   },
   {
+    "id": "yveltal",
     "num": 717,
     "name": "Yveltal",
     "types": [
@@ -26913,6 +27799,7 @@
     ]
   },
   {
+    "id": "zygarde",
     "num": 718,
     "name": "Zygarde",
     "baseForme": "50%",
@@ -26945,6 +27832,7 @@
     ]
   },
   {
+    "id": "zygarde10",
     "num": 718,
     "name": "Zygarde-10%",
     "baseSpecies": "Zygarde",
@@ -26975,6 +27863,7 @@
     "gen": 7
   },
   {
+    "id": "zygardecomplete",
     "num": 718,
     "name": "Zygarde-Complete",
     "baseSpecies": "Zygarde",
@@ -27009,6 +27898,7 @@
     ]
   },
   {
+    "id": "diancie",
     "num": 719,
     "name": "Diancie",
     "types": [
@@ -27038,6 +27928,7 @@
     ]
   },
   {
+    "id": "dianciemega",
     "num": 719,
     "name": "Diancie-Mega",
     "baseSpecies": "Diancie",
@@ -27067,6 +27958,7 @@
     "requiredItem": "Diancite"
   },
   {
+    "id": "hoopa",
     "num": 720,
     "name": "Hoopa",
     "baseForme": "Confined",
@@ -27097,6 +27989,7 @@
     ]
   },
   {
+    "id": "hoopaunbound",
     "num": 720,
     "name": "Hoopa-Unbound",
     "baseSpecies": "Hoopa",
@@ -27125,6 +28018,7 @@
     ]
   },
   {
+    "id": "volcanion",
     "num": 721,
     "name": "Volcanion",
     "types": [
@@ -27151,6 +28045,7 @@
     ]
   },
   {
+    "id": "rowlet",
     "num": 722,
     "name": "Rowlet",
     "types": [
@@ -27184,6 +28079,7 @@
     ]
   },
   {
+    "id": "dartrix",
     "num": 723,
     "name": "Dartrix",
     "types": [
@@ -27219,6 +28115,7 @@
     ]
   },
   {
+    "id": "decidueye",
     "num": 724,
     "name": "Decidueye",
     "types": [
@@ -27251,6 +28148,7 @@
     ]
   },
   {
+    "id": "litten",
     "num": 725,
     "name": "Litten",
     "types": [
@@ -27283,6 +28181,7 @@
     ]
   },
   {
+    "id": "torracat",
     "num": 726,
     "name": "Torracat",
     "types": [
@@ -27317,6 +28216,7 @@
     ]
   },
   {
+    "id": "incineroar",
     "num": 727,
     "name": "Incineroar",
     "types": [
@@ -27349,6 +28249,7 @@
     ]
   },
   {
+    "id": "popplio",
     "num": 728,
     "name": "Popplio",
     "types": [
@@ -27382,6 +28283,7 @@
     ]
   },
   {
+    "id": "brionne",
     "num": 729,
     "name": "Brionne",
     "types": [
@@ -27417,6 +28319,7 @@
     ]
   },
   {
+    "id": "primarina",
     "num": 730,
     "name": "Primarina",
     "types": [
@@ -27450,6 +28353,7 @@
     ]
   },
   {
+    "id": "pikipek",
     "num": 731,
     "name": "Pikipek",
     "types": [
@@ -27480,6 +28384,7 @@
     ]
   },
   {
+    "id": "trumbeak",
     "num": 732,
     "name": "Trumbeak",
     "types": [
@@ -27512,6 +28417,7 @@
     ]
   },
   {
+    "id": "toucannon",
     "num": 733,
     "name": "Toucannon",
     "types": [
@@ -27541,6 +28447,7 @@
     ]
   },
   {
+    "id": "yungoos",
     "num": 734,
     "name": "Yungoos",
     "types": [
@@ -27570,6 +28477,7 @@
     ]
   },
   {
+    "id": "gumshoos",
     "num": 735,
     "name": "Gumshoos",
     "types": [
@@ -27601,6 +28509,7 @@
     ]
   },
   {
+    "id": "gumshoostotem",
     "num": 735,
     "name": "Gumshoos-Totem",
     "baseSpecies": "Gumshoos",
@@ -27627,6 +28536,7 @@
     ]
   },
   {
+    "id": "grubbin",
     "num": 736,
     "name": "Grubbin",
     "types": [
@@ -27654,6 +28564,7 @@
     ]
   },
   {
+    "id": "charjabug",
     "num": 737,
     "name": "Charjabug",
     "types": [
@@ -27684,6 +28595,7 @@
     ]
   },
   {
+    "id": "vikavolt",
     "num": 738,
     "name": "Vikavolt",
     "types": [
@@ -27715,6 +28627,7 @@
     ]
   },
   {
+    "id": "vikavolttotem",
     "num": 738,
     "name": "Vikavolt-Totem",
     "baseSpecies": "Vikavolt",
@@ -27742,6 +28655,7 @@
     ]
   },
   {
+    "id": "crabrawler",
     "num": 739,
     "name": "Crabrawler",
     "types": [
@@ -27771,6 +28685,7 @@
     ]
   },
   {
+    "id": "crabominable",
     "num": 740,
     "name": "Crabominable",
     "types": [
@@ -27801,6 +28716,7 @@
     ]
   },
   {
+    "id": "oricorio",
     "num": 741,
     "name": "Oricorio",
     "baseForme": "Baile",
@@ -27836,6 +28752,7 @@
     ]
   },
   {
+    "id": "oricoriopompom",
     "num": 741,
     "name": "Oricorio-Pom-Pom",
     "baseSpecies": "Oricorio",
@@ -27867,6 +28784,7 @@
     ]
   },
   {
+    "id": "oricoriopau",
     "num": 741,
     "name": "Oricorio-Pa'u",
     "baseSpecies": "Oricorio",
@@ -27898,6 +28816,7 @@
     ]
   },
   {
+    "id": "oricoriosensu",
     "num": 741,
     "name": "Oricorio-Sensu",
     "baseSpecies": "Oricorio",
@@ -27929,6 +28848,7 @@
     ]
   },
   {
+    "id": "cutiefly",
     "num": 742,
     "name": "Cutiefly",
     "types": [
@@ -27960,6 +28880,7 @@
     ]
   },
   {
+    "id": "ribombee",
     "num": 743,
     "name": "Ribombee",
     "types": [
@@ -27993,6 +28914,7 @@
     ]
   },
   {
+    "id": "ribombeetotem",
     "num": 743,
     "name": "Ribombee-Totem",
     "baseSpecies": "Ribombee",
@@ -28021,6 +28943,7 @@
     ]
   },
   {
+    "id": "rockruff",
     "num": 744,
     "name": "Rockruff",
     "baseForme": "Midday",
@@ -28054,6 +28977,7 @@
     ]
   },
   {
+    "id": "lycanroc",
     "num": 745,
     "name": "Lycanroc",
     "baseForme": "Midday",
@@ -28087,6 +29011,7 @@
     ]
   },
   {
+    "id": "lycanrocmidnight",
     "num": 745,
     "name": "Lycanroc-Midnight",
     "baseSpecies": "Lycanroc",
@@ -28117,6 +29042,7 @@
     ]
   },
   {
+    "id": "lycanrocdusk",
     "num": 745,
     "name": "Lycanroc-Dusk",
     "baseSpecies": "Lycanroc",
@@ -28145,6 +29071,7 @@
     ]
   },
   {
+    "id": "wishiwashi",
     "num": 746,
     "name": "Wishiwashi",
     "baseForme": "Solo",
@@ -28173,6 +29100,7 @@
     ]
   },
   {
+    "id": "wishiwashischool",
     "num": 746,
     "name": "Wishiwashi-School",
     "baseSpecies": "Wishiwashi",
@@ -28201,6 +29129,7 @@
     "battleOnly": "Wishiwashi"
   },
   {
+    "id": "mareanie",
     "num": 747,
     "name": "Mareanie",
     "types": [
@@ -28231,6 +29160,7 @@
     ]
   },
   {
+    "id": "toxapex",
     "num": 748,
     "name": "Toxapex",
     "types": [
@@ -28260,6 +29190,7 @@
     ]
   },
   {
+    "id": "mudbray",
     "num": 749,
     "name": "Mudbray",
     "types": [
@@ -28289,6 +29220,7 @@
     ]
   },
   {
+    "id": "mudsdale",
     "num": 750,
     "name": "Mudsdale",
     "types": [
@@ -28317,6 +29249,7 @@
     ]
   },
   {
+    "id": "dewpider",
     "num": 751,
     "name": "Dewpider",
     "types": [
@@ -28347,6 +29280,7 @@
     ]
   },
   {
+    "id": "araquanid",
     "num": 752,
     "name": "Araquanid",
     "types": [
@@ -28379,6 +29313,7 @@
     ]
   },
   {
+    "id": "araquanidtotem",
     "num": 752,
     "name": "Araquanid-Totem",
     "baseSpecies": "Araquanid",
@@ -28407,6 +29342,7 @@
     ]
   },
   {
+    "id": "fomantis",
     "num": 753,
     "name": "Fomantis",
     "types": [
@@ -28435,6 +29371,7 @@
     ]
   },
   {
+    "id": "lurantis",
     "num": 754,
     "name": "Lurantis",
     "types": [
@@ -28465,6 +29402,7 @@
     ]
   },
   {
+    "id": "lurantistotem",
     "num": 754,
     "name": "Lurantis-Totem",
     "baseSpecies": "Lurantis",
@@ -28491,6 +29429,7 @@
     ]
   },
   {
+    "id": "morelull",
     "num": 755,
     "name": "Morelull",
     "types": [
@@ -28521,6 +29460,7 @@
     ]
   },
   {
+    "id": "shiinotic",
     "num": 756,
     "name": "Shiinotic",
     "types": [
@@ -28550,6 +29490,7 @@
     ]
   },
   {
+    "id": "salandit",
     "num": 757,
     "name": "Salandit",
     "types": [
@@ -28584,6 +29525,7 @@
     ]
   },
   {
+    "id": "salazzle",
     "num": 758,
     "name": "Salazzle",
     "types": [
@@ -28617,6 +29559,7 @@
     ]
   },
   {
+    "id": "salazzletotem",
     "num": 758,
     "name": "Salazzle-Totem",
     "baseSpecies": "Salazzle",
@@ -28646,6 +29589,7 @@
     ]
   },
   {
+    "id": "stufful",
     "num": 759,
     "name": "Stufful",
     "types": [
@@ -28676,6 +29620,7 @@
     ]
   },
   {
+    "id": "bewear",
     "num": 760,
     "name": "Bewear",
     "types": [
@@ -28705,6 +29650,7 @@
     ]
   },
   {
+    "id": "bounsweet",
     "num": 761,
     "name": "Bounsweet",
     "types": [
@@ -28735,6 +29681,7 @@
     ]
   },
   {
+    "id": "steenee",
     "num": 762,
     "name": "Steenee",
     "types": [
@@ -28767,6 +29714,7 @@
     ]
   },
   {
+    "id": "tsareena",
     "num": 763,
     "name": "Tsareena",
     "types": [
@@ -28797,6 +29745,7 @@
     ]
   },
   {
+    "id": "comfey",
     "num": 764,
     "name": "Comfey",
     "types": [
@@ -28827,6 +29776,7 @@
     ]
   },
   {
+    "id": "oranguru",
     "num": 765,
     "name": "Oranguru",
     "types": [
@@ -28854,6 +29804,7 @@
     ]
   },
   {
+    "id": "passimian",
     "num": 766,
     "name": "Passimian",
     "types": [
@@ -28879,6 +29830,7 @@
     ]
   },
   {
+    "id": "wimpod",
     "num": 767,
     "name": "Wimpod",
     "types": [
@@ -28908,6 +29860,7 @@
     ]
   },
   {
+    "id": "golisopod",
     "num": 768,
     "name": "Golisopod",
     "types": [
@@ -28936,6 +29889,7 @@
     ]
   },
   {
+    "id": "sandygast",
     "num": 769,
     "name": "Sandygast",
     "types": [
@@ -28965,6 +29919,7 @@
     ]
   },
   {
+    "id": "palossand",
     "num": 770,
     "name": "Palossand",
     "types": [
@@ -28993,6 +29948,7 @@
     ]
   },
   {
+    "id": "pyukumuku",
     "num": 771,
     "name": "Pyukumuku",
     "types": [
@@ -29018,6 +29974,7 @@
     ]
   },
   {
+    "id": "typenull",
     "num": 772,
     "name": "Type: Null",
     "types": [
@@ -29046,6 +30003,7 @@
     ]
   },
   {
+    "id": "silvally",
     "num": 773,
     "name": "Silvally",
     "types": [
@@ -29092,6 +30050,7 @@
     ]
   },
   {
+    "id": "silvallybug",
     "num": 773,
     "name": "Silvally-Bug",
     "baseSpecies": "Silvally",
@@ -29122,6 +30081,7 @@
     "requiredItem": "Bug Memory"
   },
   {
+    "id": "silvallydark",
     "num": 773,
     "name": "Silvally-Dark",
     "baseSpecies": "Silvally",
@@ -29152,6 +30112,7 @@
     "requiredItem": "Dark Memory"
   },
   {
+    "id": "silvallydragon",
     "num": 773,
     "name": "Silvally-Dragon",
     "baseSpecies": "Silvally",
@@ -29182,6 +30143,7 @@
     "requiredItem": "Dragon Memory"
   },
   {
+    "id": "silvallyelectric",
     "num": 773,
     "name": "Silvally-Electric",
     "baseSpecies": "Silvally",
@@ -29212,6 +30174,7 @@
     "requiredItem": "Electric Memory"
   },
   {
+    "id": "silvallyfairy",
     "num": 773,
     "name": "Silvally-Fairy",
     "baseSpecies": "Silvally",
@@ -29242,6 +30205,7 @@
     "requiredItem": "Fairy Memory"
   },
   {
+    "id": "silvallyfighting",
     "num": 773,
     "name": "Silvally-Fighting",
     "baseSpecies": "Silvally",
@@ -29272,6 +30236,7 @@
     "requiredItem": "Fighting Memory"
   },
   {
+    "id": "silvallyfire",
     "num": 773,
     "name": "Silvally-Fire",
     "baseSpecies": "Silvally",
@@ -29302,6 +30267,7 @@
     "requiredItem": "Fire Memory"
   },
   {
+    "id": "silvallyflying",
     "num": 773,
     "name": "Silvally-Flying",
     "baseSpecies": "Silvally",
@@ -29332,6 +30298,7 @@
     "requiredItem": "Flying Memory"
   },
   {
+    "id": "silvallyghost",
     "num": 773,
     "name": "Silvally-Ghost",
     "baseSpecies": "Silvally",
@@ -29362,6 +30329,7 @@
     "requiredItem": "Ghost Memory"
   },
   {
+    "id": "silvallygrass",
     "num": 773,
     "name": "Silvally-Grass",
     "baseSpecies": "Silvally",
@@ -29392,6 +30360,7 @@
     "requiredItem": "Grass Memory"
   },
   {
+    "id": "silvallyground",
     "num": 773,
     "name": "Silvally-Ground",
     "baseSpecies": "Silvally",
@@ -29422,6 +30391,7 @@
     "requiredItem": "Ground Memory"
   },
   {
+    "id": "silvallyice",
     "num": 773,
     "name": "Silvally-Ice",
     "baseSpecies": "Silvally",
@@ -29452,6 +30422,7 @@
     "requiredItem": "Ice Memory"
   },
   {
+    "id": "silvallypoison",
     "num": 773,
     "name": "Silvally-Poison",
     "baseSpecies": "Silvally",
@@ -29482,6 +30453,7 @@
     "requiredItem": "Poison Memory"
   },
   {
+    "id": "silvallypsychic",
     "num": 773,
     "name": "Silvally-Psychic",
     "baseSpecies": "Silvally",
@@ -29512,6 +30484,7 @@
     "requiredItem": "Psychic Memory"
   },
   {
+    "id": "silvallyrock",
     "num": 773,
     "name": "Silvally-Rock",
     "baseSpecies": "Silvally",
@@ -29542,6 +30515,7 @@
     "requiredItem": "Rock Memory"
   },
   {
+    "id": "silvallysteel",
     "num": 773,
     "name": "Silvally-Steel",
     "baseSpecies": "Silvally",
@@ -29572,6 +30546,7 @@
     "requiredItem": "Steel Memory"
   },
   {
+    "id": "silvallywater",
     "num": 773,
     "name": "Silvally-Water",
     "baseSpecies": "Silvally",
@@ -29602,6 +30577,7 @@
     "requiredItem": "Water Memory"
   },
   {
+    "id": "minior",
     "num": 774,
     "name": "Minior",
     "baseForme": "Red",
@@ -29640,6 +30616,7 @@
     ]
   },
   {
+    "id": "miniormeteor",
     "num": 774,
     "name": "Minior-Meteor",
     "baseSpecies": "Minior",
@@ -29670,6 +30647,7 @@
     "battleOnly": "Minior"
   },
   {
+    "id": "komala",
     "num": 775,
     "name": "Komala",
     "types": [
@@ -29694,6 +30672,7 @@
     ]
   },
   {
+    "id": "turtonator",
     "num": 776,
     "name": "Turtonator",
     "types": [
@@ -29720,6 +30699,7 @@
     ]
   },
   {
+    "id": "togedemaru",
     "num": 777,
     "name": "Togedemaru",
     "types": [
@@ -29751,6 +30731,7 @@
     ]
   },
   {
+    "id": "togedemarutotem",
     "num": 777,
     "name": "Togedemaru-Totem",
     "baseSpecies": "Togedemaru",
@@ -29779,6 +30760,7 @@
     ]
   },
   {
+    "id": "mimikyu",
     "num": 778,
     "name": "Mimikyu",
     "types": [
@@ -29809,6 +30791,7 @@
     ]
   },
   {
+    "id": "mimikyubusted",
     "num": 778,
     "name": "Mimikyu-Busted",
     "baseSpecies": "Mimikyu",
@@ -29838,6 +30821,7 @@
     "battleOnly": "Mimikyu"
   },
   {
+    "id": "mimikyutotem",
     "num": 778,
     "name": "Mimikyu-Totem",
     "baseSpecies": "Mimikyu",
@@ -29865,6 +30849,7 @@
     ]
   },
   {
+    "id": "mimikyubustedtotem",
     "num": 778,
     "name": "Mimikyu-Busted-Totem",
     "baseSpecies": "Mimikyu",
@@ -29894,6 +30879,7 @@
     "battleOnly": "Mimikyu-Totem"
   },
   {
+    "id": "bruxish",
     "num": 779,
     "name": "Bruxish",
     "types": [
@@ -29921,6 +30907,7 @@
     ]
   },
   {
+    "id": "drampa",
     "num": 780,
     "name": "Drampa",
     "types": [
@@ -29949,6 +30936,7 @@
     ]
   },
   {
+    "id": "dhelmise",
     "num": 781,
     "name": "Dhelmise",
     "types": [
@@ -29975,6 +30963,7 @@
     ]
   },
   {
+    "id": "jangmoo",
     "num": 782,
     "name": "Jangmo-o",
     "types": [
@@ -30004,6 +30993,7 @@
     ]
   },
   {
+    "id": "hakamoo",
     "num": 783,
     "name": "Hakamo-o",
     "types": [
@@ -30036,6 +31026,7 @@
     ]
   },
   {
+    "id": "kommoo",
     "num": 784,
     "name": "Kommo-o",
     "types": [
@@ -30068,6 +31059,7 @@
     ]
   },
   {
+    "id": "kommoototem",
     "num": 784,
     "name": "Kommo-o-Totem",
     "baseSpecies": "Kommo-o",
@@ -30095,6 +31087,7 @@
     ]
   },
   {
+    "id": "tapukoko",
     "num": 785,
     "name": "Tapu Koko",
     "types": [
@@ -30122,6 +31115,7 @@
     ]
   },
   {
+    "id": "tapulele",
     "num": 786,
     "name": "Tapu Lele",
     "types": [
@@ -30149,6 +31143,7 @@
     ]
   },
   {
+    "id": "tapubulu",
     "num": 787,
     "name": "Tapu Bulu",
     "types": [
@@ -30176,6 +31171,7 @@
     ]
   },
   {
+    "id": "tapufini",
     "num": 788,
     "name": "Tapu Fini",
     "types": [
@@ -30203,6 +31199,7 @@
     ]
   },
   {
+    "id": "cosmog",
     "num": 789,
     "name": "Cosmog",
     "types": [
@@ -30231,6 +31228,7 @@
     ]
   },
   {
+    "id": "cosmoem",
     "num": 790,
     "name": "Cosmoem",
     "types": [
@@ -30262,6 +31260,7 @@
     ]
   },
   {
+    "id": "solgaleo",
     "num": 791,
     "name": "Solgaleo",
     "types": [
@@ -30290,6 +31289,7 @@
     ]
   },
   {
+    "id": "lunala",
     "num": 792,
     "name": "Lunala",
     "types": [
@@ -30318,6 +31318,7 @@
     ]
   },
   {
+    "id": "nihilego",
     "num": 793,
     "name": "Nihilego",
     "types": [
@@ -30344,6 +31345,7 @@
     ]
   },
   {
+    "id": "buzzwole",
     "num": 794,
     "name": "Buzzwole",
     "types": [
@@ -30370,6 +31372,7 @@
     ]
   },
   {
+    "id": "pheromosa",
     "num": 795,
     "name": "Pheromosa",
     "types": [
@@ -30396,6 +31399,7 @@
     ]
   },
   {
+    "id": "xurkitree",
     "num": 796,
     "name": "Xurkitree",
     "types": [
@@ -30421,6 +31425,7 @@
     ]
   },
   {
+    "id": "celesteela",
     "num": 797,
     "name": "Celesteela",
     "types": [
@@ -30447,6 +31452,7 @@
     ]
   },
   {
+    "id": "kartana",
     "num": 798,
     "name": "Kartana",
     "types": [
@@ -30473,6 +31479,7 @@
     ]
   },
   {
+    "id": "guzzlord",
     "num": 799,
     "name": "Guzzlord",
     "types": [
@@ -30499,6 +31506,7 @@
     ]
   },
   {
+    "id": "necrozma",
     "num": 800,
     "name": "Necrozma",
     "types": [
@@ -30529,6 +31537,7 @@
     ]
   },
   {
+    "id": "necrozmaduskmane",
     "num": 800,
     "name": "Necrozma-Dusk-Mane",
     "baseSpecies": "Necrozma",
@@ -30558,6 +31567,7 @@
     "inheritsFrom": "necrozma"
   },
   {
+    "id": "necrozmadawnwings",
     "num": 800,
     "name": "Necrozma-Dawn-Wings",
     "baseSpecies": "Necrozma",
@@ -30587,6 +31597,7 @@
     "inheritsFrom": "necrozma"
   },
   {
+    "id": "necrozmaultra",
     "num": 800,
     "name": "Necrozma-Ultra",
     "baseSpecies": "Necrozma",
@@ -30620,6 +31631,7 @@
     ]
   },
   {
+    "id": "magearna",
     "num": 801,
     "name": "Magearna",
     "types": [
@@ -30649,6 +31661,7 @@
     ]
   },
   {
+    "id": "magearnaoriginal",
     "num": 801,
     "name": "Magearna-Original",
     "baseSpecies": "Magearna",
@@ -30677,6 +31690,7 @@
     ]
   },
   {
+    "id": "marshadow",
     "num": 802,
     "name": "Marshadow",
     "types": [
@@ -30703,6 +31717,7 @@
     ]
   },
   {
+    "id": "poipole",
     "num": 803,
     "name": "Poipole",
     "types": [
@@ -30731,6 +31746,7 @@
     ]
   },
   {
+    "id": "naganadel",
     "num": 804,
     "name": "Naganadel",
     "types": [
@@ -30760,6 +31776,7 @@
     ]
   },
   {
+    "id": "stakataka",
     "num": 805,
     "name": "Stakataka",
     "types": [
@@ -30786,6 +31803,7 @@
     ]
   },
   {
+    "id": "blacephalon",
     "num": 806,
     "name": "Blacephalon",
     "types": [
@@ -30812,6 +31830,7 @@
     ]
   },
   {
+    "id": "zeraora",
     "num": 807,
     "name": "Zeraora",
     "types": [
@@ -30837,6 +31856,7 @@
     ]
   },
   {
+    "id": "meltan",
     "num": 808,
     "name": "Meltan",
     "types": [
@@ -30862,6 +31882,7 @@
     ]
   },
   {
+    "id": "melmetal",
     "num": 809,
     "name": "Melmetal",
     "types": [
@@ -30890,6 +31911,7 @@
     ]
   },
   {
+    "id": "melmetalgmax",
     "num": 809,
     "name": "Melmetal-Gmax",
     "baseSpecies": "Melmetal",
@@ -30918,6 +31940,7 @@
     "isGigantamax": "G-Max Meltdown"
   },
   {
+    "id": "grookey",
     "num": 810,
     "name": "Grookey",
     "types": [
@@ -30951,6 +31974,7 @@
     ]
   },
   {
+    "id": "thwackey",
     "num": 811,
     "name": "Thwackey",
     "types": [
@@ -30986,6 +32010,7 @@
     ]
   },
   {
+    "id": "rillaboom",
     "num": 812,
     "name": "Rillaboom",
     "types": [
@@ -31018,6 +32043,7 @@
     ]
   },
   {
+    "id": "scorbunny",
     "num": 813,
     "name": "Scorbunny",
     "types": [
@@ -31051,6 +32077,7 @@
     ]
   },
   {
+    "id": "raboot",
     "num": 814,
     "name": "Raboot",
     "types": [
@@ -31086,6 +32113,7 @@
     ]
   },
   {
+    "id": "cinderace",
     "num": 815,
     "name": "Cinderace",
     "types": [
@@ -31118,6 +32146,7 @@
     ]
   },
   {
+    "id": "sobble",
     "num": 816,
     "name": "Sobble",
     "types": [
@@ -31151,6 +32180,7 @@
     ]
   },
   {
+    "id": "drizzile",
     "num": 817,
     "name": "Drizzile",
     "types": [
@@ -31186,6 +32216,7 @@
     ]
   },
   {
+    "id": "inteleon",
     "num": 818,
     "name": "Inteleon",
     "types": [
@@ -31218,6 +32249,7 @@
     ]
   },
   {
+    "id": "skwovet",
     "num": 819,
     "name": "Skwovet",
     "types": [
@@ -31246,6 +32278,7 @@
     ]
   },
   {
+    "id": "greedent",
     "num": 820,
     "name": "Greedent",
     "types": [
@@ -31273,6 +32306,7 @@
     ]
   },
   {
+    "id": "rookidee",
     "num": 821,
     "name": "Rookidee",
     "types": [
@@ -31302,6 +32336,7 @@
     ]
   },
   {
+    "id": "corvisquire",
     "num": 822,
     "name": "Corvisquire",
     "types": [
@@ -31333,6 +32368,7 @@
     ]
   },
   {
+    "id": "corviknight",
     "num": 823,
     "name": "Corviknight",
     "types": [
@@ -31365,6 +32401,7 @@
     ]
   },
   {
+    "id": "corviknightgmax",
     "num": 823,
     "name": "Corviknight-Gmax",
     "baseSpecies": "Corviknight",
@@ -31395,6 +32432,7 @@
     "isGigantamax": "G-Max Wind Rage"
   },
   {
+    "id": "blipbug",
     "num": 824,
     "name": "Blipbug",
     "types": [
@@ -31424,6 +32462,7 @@
     ]
   },
   {
+    "id": "dottler",
     "num": 825,
     "name": "Dottler",
     "types": [
@@ -31456,6 +32495,7 @@
     ]
   },
   {
+    "id": "orbeetle",
     "num": 826,
     "name": "Orbeetle",
     "types": [
@@ -31488,6 +32528,7 @@
     ]
   },
   {
+    "id": "orbeetlegmax",
     "num": 826,
     "name": "Orbeetle-Gmax",
     "baseSpecies": "Orbeetle",
@@ -31518,6 +32559,7 @@
     "isGigantamax": "G-Max Gravitas"
   },
   {
+    "id": "nickit",
     "num": 827,
     "name": "Nickit",
     "types": [
@@ -31547,6 +32589,7 @@
     ]
   },
   {
+    "id": "thievul",
     "num": 828,
     "name": "Thievul",
     "types": [
@@ -31575,6 +32618,7 @@
     ]
   },
   {
+    "id": "gossifleur",
     "num": 829,
     "name": "Gossifleur",
     "types": [
@@ -31604,6 +32648,7 @@
     ]
   },
   {
+    "id": "eldegoss",
     "num": 830,
     "name": "Eldegoss",
     "types": [
@@ -31632,6 +32677,7 @@
     ]
   },
   {
+    "id": "wooloo",
     "num": 831,
     "name": "Wooloo",
     "types": [
@@ -31661,6 +32707,7 @@
     ]
   },
   {
+    "id": "dubwool",
     "num": 832,
     "name": "Dubwool",
     "types": [
@@ -31689,6 +32736,7 @@
     ]
   },
   {
+    "id": "chewtle",
     "num": 833,
     "name": "Chewtle",
     "types": [
@@ -31719,6 +32767,7 @@
     ]
   },
   {
+    "id": "drednaw",
     "num": 834,
     "name": "Drednaw",
     "types": [
@@ -31752,6 +32801,7 @@
     ]
   },
   {
+    "id": "drednawgmax",
     "num": 834,
     "name": "Drednaw-Gmax",
     "baseSpecies": "Drednaw",
@@ -31783,6 +32833,7 @@
     "isGigantamax": "G-Max Stonesurge"
   },
   {
+    "id": "yamper",
     "num": 835,
     "name": "Yamper",
     "types": [
@@ -31811,6 +32862,7 @@
     ]
   },
   {
+    "id": "boltund",
     "num": 836,
     "name": "Boltund",
     "types": [
@@ -31838,6 +32890,7 @@
     ]
   },
   {
+    "id": "rolycoly",
     "num": 837,
     "name": "Rolycoly",
     "types": [
@@ -31867,6 +32920,7 @@
     ]
   },
   {
+    "id": "carkol",
     "num": 838,
     "name": "Carkol",
     "types": [
@@ -31899,6 +32953,7 @@
     ]
   },
   {
+    "id": "coalossal",
     "num": 839,
     "name": "Coalossal",
     "types": [
@@ -31931,6 +32986,7 @@
     ]
   },
   {
+    "id": "coalossalgmax",
     "num": 839,
     "name": "Coalossal-Gmax",
     "baseSpecies": "Coalossal",
@@ -31961,6 +33017,7 @@
     "isGigantamax": "G-Max Volcalith"
   },
   {
+    "id": "applin",
     "num": 840,
     "name": "Applin",
     "types": [
@@ -31993,6 +33050,7 @@
     ]
   },
   {
+    "id": "flapple",
     "num": 841,
     "name": "Flapple",
     "types": [
@@ -32027,6 +33085,7 @@
     ]
   },
   {
+    "id": "flapplegmax",
     "num": 841,
     "name": "Flapple-Gmax",
     "baseSpecies": "Flapple",
@@ -32058,6 +33117,7 @@
     "isGigantamax": "G-Max Tartness"
   },
   {
+    "id": "appletun",
     "num": 842,
     "name": "Appletun",
     "types": [
@@ -32092,6 +33152,7 @@
     ]
   },
   {
+    "id": "appletungmax",
     "num": 842,
     "name": "Appletun-Gmax",
     "baseSpecies": "Appletun",
@@ -32123,6 +33184,7 @@
     "isGigantamax": "G-Max Sweetness"
   },
   {
+    "id": "silicobra",
     "num": 843,
     "name": "Silicobra",
     "types": [
@@ -32153,6 +33215,7 @@
     ]
   },
   {
+    "id": "sandaconda",
     "num": 844,
     "name": "Sandaconda",
     "types": [
@@ -32185,6 +33248,7 @@
     ]
   },
   {
+    "id": "sandacondagmax",
     "num": 844,
     "name": "Sandaconda-Gmax",
     "baseSpecies": "Sandaconda",
@@ -32215,6 +33279,7 @@
     "isGigantamax": "G-Max Sandblast"
   },
   {
+    "id": "cramorant",
     "num": 845,
     "name": "Cramorant",
     "types": [
@@ -32245,6 +33310,7 @@
     ]
   },
   {
+    "id": "cramorantgulping",
     "num": 845,
     "name": "Cramorant-Gulping",
     "baseSpecies": "Cramorant",
@@ -32275,6 +33341,7 @@
     "battleOnly": "Cramorant"
   },
   {
+    "id": "cramorantgorging",
     "num": 845,
     "name": "Cramorant-Gorging",
     "baseSpecies": "Cramorant",
@@ -32305,6 +33372,7 @@
     "battleOnly": "Cramorant"
   },
   {
+    "id": "arrokuda",
     "num": 846,
     "name": "Arrokuda",
     "types": [
@@ -32333,6 +33401,7 @@
     ]
   },
   {
+    "id": "barraskewda",
     "num": 847,
     "name": "Barraskewda",
     "types": [
@@ -32360,6 +33429,7 @@
     ]
   },
   {
+    "id": "toxel",
     "num": 848,
     "name": "Toxel",
     "types": [
@@ -32391,6 +33461,7 @@
     ]
   },
   {
+    "id": "toxtricity",
     "num": 849,
     "name": "Toxtricity",
     "baseForme": "Amped",
@@ -32425,6 +33496,7 @@
     ]
   },
   {
+    "id": "toxtricitylowkey",
     "num": 849,
     "name": "Toxtricity-Low-Key",
     "baseSpecies": "Toxtricity",
@@ -32459,6 +33531,7 @@
     ]
   },
   {
+    "id": "toxtricitygmax",
     "num": 849,
     "name": "Toxtricity-Gmax",
     "baseSpecies": "Toxtricity",
@@ -32489,6 +33562,7 @@
     "isGigantamax": "G-Max Stun Shock"
   },
   {
+    "id": "toxtricitylowkeygmax",
     "num": 849,
     "name": "Toxtricity-Low-Key-Gmax",
     "baseSpecies": "Toxtricity",
@@ -32520,6 +33594,7 @@
     "battleOnly": "Toxtricity-Low-Key"
   },
   {
+    "id": "sizzlipede",
     "num": 850,
     "name": "Sizzlipede",
     "types": [
@@ -32550,6 +33625,7 @@
     ]
   },
   {
+    "id": "centiskorch",
     "num": 851,
     "name": "Centiskorch",
     "types": [
@@ -32582,6 +33658,7 @@
     ]
   },
   {
+    "id": "centiskorchgmax",
     "num": 851,
     "name": "Centiskorch-Gmax",
     "baseSpecies": "Centiskorch",
@@ -32612,6 +33689,7 @@
     "isGigantamax": "G-Max Centiferno"
   },
   {
+    "id": "clobbopus",
     "num": 852,
     "name": "Clobbopus",
     "types": [
@@ -32641,6 +33719,7 @@
     ]
   },
   {
+    "id": "grapploct",
     "num": 853,
     "name": "Grapploct",
     "types": [
@@ -32670,6 +33749,7 @@
     ]
   },
   {
+    "id": "sinistea",
     "num": 854,
     "name": "Sinistea",
     "baseForme": "Phony",
@@ -32704,6 +33784,7 @@
     ]
   },
   {
+    "id": "sinisteaantique",
     "num": 854,
     "name": "Sinistea-Antique",
     "baseSpecies": "Sinistea",
@@ -32735,6 +33816,7 @@
     ]
   },
   {
+    "id": "polteageist",
     "num": 855,
     "name": "Polteageist",
     "baseForme": "Phony",
@@ -32769,6 +33851,7 @@
     ]
   },
   {
+    "id": "polteageistantique",
     "num": 855,
     "name": "Polteageist-Antique",
     "baseSpecies": "Polteageist",
@@ -32800,6 +33883,7 @@
     ]
   },
   {
+    "id": "hatenna",
     "num": 856,
     "name": "Hatenna",
     "types": [
@@ -32830,6 +33914,7 @@
     ]
   },
   {
+    "id": "hattrem",
     "num": 857,
     "name": "Hattrem",
     "types": [
@@ -32862,6 +33947,7 @@
     ]
   },
   {
+    "id": "hatterene",
     "num": 858,
     "name": "Hatterene",
     "types": [
@@ -32895,6 +33981,7 @@
     ]
   },
   {
+    "id": "hatterenegmax",
     "num": 858,
     "name": "Hatterene-Gmax",
     "baseSpecies": "Hatterene",
@@ -32926,6 +34013,7 @@
     "isGigantamax": "G-Max Smite"
   },
   {
+    "id": "impidimp",
     "num": 859,
     "name": "Impidimp",
     "types": [
@@ -32958,6 +34046,7 @@
     ]
   },
   {
+    "id": "morgrem",
     "num": 860,
     "name": "Morgrem",
     "types": [
@@ -32992,6 +34081,7 @@
     ]
   },
   {
+    "id": "grimmsnarl",
     "num": 861,
     "name": "Grimmsnarl",
     "types": [
@@ -33026,6 +34116,7 @@
     ]
   },
   {
+    "id": "grimmsnarlgmax",
     "num": 861,
     "name": "Grimmsnarl-Gmax",
     "baseSpecies": "Grimmsnarl",
@@ -33058,6 +34149,7 @@
     "isGigantamax": "G-Max Snooze"
   },
   {
+    "id": "obstagoon",
     "num": 862,
     "name": "Obstagoon",
     "types": [
@@ -33088,6 +34180,7 @@
     ]
   },
   {
+    "id": "perrserker",
     "num": 863,
     "name": "Perrserker",
     "types": [
@@ -33116,6 +34209,7 @@
     ]
   },
   {
+    "id": "cursola",
     "num": 864,
     "name": "Cursola",
     "types": [
@@ -33148,6 +34242,7 @@
     ]
   },
   {
+    "id": "sirfetchd",
     "num": 865,
     "name": "Sirfetch'd",
     "types": [
@@ -33177,6 +34272,7 @@
     ]
   },
   {
+    "id": "mrrime",
     "num": 866,
     "name": "Mr. Rime",
     "types": [
@@ -33206,6 +34302,7 @@
     ]
   },
   {
+    "id": "runerigus",
     "num": 867,
     "name": "Runerigus",
     "types": [
@@ -33235,6 +34332,7 @@
     ]
   },
   {
+    "id": "milcery",
     "num": 868,
     "name": "Milcery",
     "types": [
@@ -33265,6 +34363,7 @@
     ]
   },
   {
+    "id": "alcremie",
     "num": 869,
     "name": "Alcremie",
     "baseForme": "Vanilla Cream",
@@ -33309,6 +34408,7 @@
     ]
   },
   {
+    "id": "alcremiegmax",
     "num": 869,
     "name": "Alcremie-Gmax",
     "baseSpecies": "Alcremie",
@@ -33339,6 +34439,7 @@
     "isGigantamax": "G-Max Finale"
   },
   {
+    "id": "falinks",
     "num": 870,
     "name": "Falinks",
     "types": [
@@ -33366,6 +34467,7 @@
     ]
   },
   {
+    "id": "pincurchin",
     "num": 871,
     "name": "Pincurchin",
     "types": [
@@ -33392,6 +34494,7 @@
     ]
   },
   {
+    "id": "snom",
     "num": 872,
     "name": "Snom",
     "types": [
@@ -33421,6 +34524,7 @@
     ]
   },
   {
+    "id": "frosmoth",
     "num": 873,
     "name": "Frosmoth",
     "types": [
@@ -33450,6 +34554,7 @@
     ]
   },
   {
+    "id": "stonjourner",
     "num": 874,
     "name": "Stonjourner",
     "types": [
@@ -33474,6 +34579,7 @@
     ]
   },
   {
+    "id": "eiscue",
     "num": 875,
     "name": "Eiscue",
     "types": [
@@ -33502,6 +34608,7 @@
     ]
   },
   {
+    "id": "eiscuenoice",
     "num": 875,
     "name": "Eiscue-Noice",
     "baseSpecies": "Eiscue",
@@ -33531,6 +34638,7 @@
     "battleOnly": "Eiscue"
   },
   {
+    "id": "indeedee",
     "num": 876,
     "name": "Indeedee",
     "baseForme": "M",
@@ -33563,6 +34671,7 @@
     ]
   },
   {
+    "id": "indeedeef",
     "num": 876,
     "name": "Indeedee-F",
     "baseSpecies": "Indeedee",
@@ -33593,6 +34702,7 @@
     ]
   },
   {
+    "id": "morpeko",
     "num": 877,
     "name": "Morpeko",
     "types": [
@@ -33622,6 +34732,7 @@
     ]
   },
   {
+    "id": "morpekohangry",
     "num": 877,
     "name": "Morpeko-Hangry",
     "baseSpecies": "Morpeko",
@@ -33652,6 +34763,7 @@
     "battleOnly": "Morpeko"
   },
   {
+    "id": "cufant",
     "num": 878,
     "name": "Cufant",
     "types": [
@@ -33681,6 +34793,7 @@
     ]
   },
   {
+    "id": "copperajah",
     "num": 879,
     "name": "Copperajah",
     "types": [
@@ -33712,6 +34825,7 @@
     ]
   },
   {
+    "id": "copperajahgmax",
     "num": 879,
     "name": "Copperajah-Gmax",
     "baseSpecies": "Copperajah",
@@ -33741,6 +34855,7 @@
     "isGigantamax": "G-Max Steelsurge"
   },
   {
+    "id": "dracozolt",
     "num": 880,
     "name": "Dracozolt",
     "types": [
@@ -33769,6 +34884,7 @@
     ]
   },
   {
+    "id": "arctozolt",
     "num": 881,
     "name": "Arctozolt",
     "types": [
@@ -33797,6 +34913,7 @@
     ]
   },
   {
+    "id": "dracovish",
     "num": 882,
     "name": "Dracovish",
     "types": [
@@ -33825,6 +34942,7 @@
     ]
   },
   {
+    "id": "arctovish",
     "num": 883,
     "name": "Arctovish",
     "types": [
@@ -33853,6 +34971,7 @@
     ]
   },
   {
+    "id": "duraludon",
     "num": 884,
     "name": "Duraludon",
     "types": [
@@ -33884,6 +35003,7 @@
     ]
   },
   {
+    "id": "duraludongmax",
     "num": 884,
     "name": "Duraludon-Gmax",
     "baseSpecies": "Duraludon",
@@ -33915,6 +35035,7 @@
     "isGigantamax": "G-Max Depletion"
   },
   {
+    "id": "dreepy",
     "num": 885,
     "name": "Dreepy",
     "types": [
@@ -33946,6 +35067,7 @@
     ]
   },
   {
+    "id": "drakloak",
     "num": 886,
     "name": "Drakloak",
     "types": [
@@ -33979,6 +35101,7 @@
     ]
   },
   {
+    "id": "dragapult",
     "num": 887,
     "name": "Dragapult",
     "types": [
@@ -34009,6 +35132,7 @@
     ]
   },
   {
+    "id": "zacian",
     "num": 888,
     "name": "Zacian",
     "types": [
@@ -34037,6 +35161,7 @@
     ]
   },
   {
+    "id": "zaciancrowned",
     "num": 888,
     "name": "Zacian-Crowned",
     "baseSpecies": "Zacian",
@@ -34067,6 +35192,7 @@
     "inheritsFrom": "zacian"
   },
   {
+    "id": "zamazenta",
     "num": 889,
     "name": "Zamazenta",
     "types": [
@@ -34095,6 +35221,7 @@
     ]
   },
   {
+    "id": "zamazentacrowned",
     "num": 889,
     "name": "Zamazenta-Crowned",
     "baseSpecies": "Zamazenta",
@@ -34125,6 +35252,7 @@
     "inheritsFrom": "zamazenta"
   },
   {
+    "id": "eternatus",
     "num": 890,
     "name": "Eternatus",
     "types": [
@@ -34151,6 +35279,7 @@
     ]
   },
   {
+    "id": "eternatuseternamax",
     "num": 890,
     "name": "Eternatus-Eternamax",
     "baseSpecies": "Eternatus",

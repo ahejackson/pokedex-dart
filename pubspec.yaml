@@ -11,12 +11,11 @@ dependencies:
   flutter:
     sdk: flutter
 
+  enum_to_string: ^1.0.9
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
-assets:
-
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
@@ -24,7 +23,10 @@ assets:
 # The following section is specific to Flutter.
 flutter:
   assets:
-   - assets/data/
+    - packages/pokedex/data/abilities.json
+    - packages/pokedex/data/items.json
+    - packages/pokedex/data/moves.json
+    - packages/pokedex/data/pokedex.json
    
   #
   # For details regarding assets in packages, see
